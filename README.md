@@ -1,4 +1,4 @@
-# IC • Intelligence Center (v2.5)
+# Standard autonomous (v2.5)
 
 A production-grade, multi-agent Intelligence Center, Technical Audit, and Autonomous Sales Development Representative (SDR) platform inspired by **Paperclip** (multi-agent workforce management) and **REA** (Reverse-Engineering Anything / Chrome DevTools).
 
