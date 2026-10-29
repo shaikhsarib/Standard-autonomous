@@ -39,6 +39,17 @@
       "sender": "closer_agent",
       "message": "Word of mouth is undeniably the best source! But even word-of-mouth referrals look up your website or Instagram at 9 PM on their phones. If they hit a static page with no date checker, 60% delay contacting and often end up booking another venue with instant answers.\n\nTake a look at the live date-checker prototype: https://calendly.com/agency-demo/15min",
       "timestamp": "2026-10-27T17:20:27.211563+00:00"
+    },
+    {
+      "sender": "prospect",
+      "message": "We already have enough customers and we pay 25% on Zomato/Swiggy happily.",
+      "timestamp": "2026-10-29T17:03:08.543241+00:00",
+      "intent": "agency_objection"
+    },
+    {
+      "sender": "closer_agent",
+      "message": "Every luxury wedding or corporate gala is unique! That's why the bot doesn't make the final booking—it qualifies the 3 core criteria (Date, Guest Count, Budget Tier) and immediately books a 15-minute consultation with your lead planner.\n\nQuick 5-min walkthrough: https://calendly.com/agency-demo/15min",
+      "timestamp": "2026-10-29T17:03:08.543241+00:00"
     }
   ],
   "meeting_link": null,
@@ -46,5 +57,5 @@
   "pstack_proof": null,
   "handoff_trace": [],
   "created_at": "2026-10-27T17:20:27.195042Z",
-  "updated_at": "2026-10-27T17:20:27.211597Z"
+  "updated_at": "2026-10-29T17:03:08.543531Z"
 }
