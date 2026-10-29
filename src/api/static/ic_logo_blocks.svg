@@ -1,17 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="100%" height="100%">
-  <rect x="2" y="2" width="236" height="236" rx="52" fill="#0b0b0b"/>
-  <g fill="#ffffff">
-    <!-- I Column -->
-    <rect x="60" y="76" width="24" height="24" rx="6"/>
-    <rect x="60" y="108" width="24" height="24" rx="6"/>
-    <rect x="60" y="140" width="24" height="24" rx="6"/>
-    <!-- C Shape -->
-    <rect x="100" y="76" width="24" height="24" rx="6"/>
-    <rect x="132" y="76" width="24" height="24" rx="6"/>
-    <rect x="164" y="76" width="24" height="24" rx="6"/>
-    <rect x="100" y="108" width="24" height="24" rx="6"/>
-    <rect x="100" y="140" width="24" height="24" rx="6"/>
-    <rect x="132" y="140" width="24" height="24" rx="6"/>
-    <rect x="164" y="140" width="24" height="24" rx="6"/>
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="2" width="116" height="116" rx="28" fill="#0d0e12" stroke="rgba(255,255,255,0.1)" stroke-width="1.5"/>
+  <g transform="translate(10, 10)">
+    <rect x="16" y="16" width="68" height="68" rx="5" fill="none" stroke="#ffffff" stroke-width="4.5" transform="rotate(0 50 50)"/>
+    <rect x="16" y="16" width="68" height="68" rx="5" fill="none" stroke="#ffffff" stroke-width="4.5" transform="rotate(15 50 50)"/>
+    <rect x="16" y="16" width="68" height="68" rx="5" fill="none" stroke="#ffffff" stroke-width="4.5" transform="rotate(30 50 50)"/>
+    <rect x="38" y="38" width="24" height="24" rx="3" fill="#1f5fff" transform="rotate(45 50 50)"/>
   </g>
 </svg>

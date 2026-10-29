@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(
 
 if __name__ == "__main__":
     print("\n" + "="*60)
-    print(" [IC] Command Center & Backend API")
+    print(" [Standard Autonomous] Command Center & Backend API")
     print(f" Dashboard: http://127.0.0.1:8000")
     print(f" Swagger Docs: http://127.0.0.1:8000/docs")
     print("="*60 + "\n")

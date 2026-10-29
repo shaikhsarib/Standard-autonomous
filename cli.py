@@ -19,8 +19,8 @@ from src.pipelines.outreach_pipeline import outreach_pipeline
 from src.pipelines.chat_pipeline import chat_pipeline
 
 app = typer.Typer(
-    name="IC CLI",
-    help="IC (Intelligence Center) Multi-Agent Swarm & Outreach Engine."
+    name="Standard Autonomous CLI",
+    help="Standard Autonomous Multi-Agent Swarm & Outreach Engine."
 )
 console = Console()
 

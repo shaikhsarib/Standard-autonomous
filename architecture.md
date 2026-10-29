@@ -1,8 +1,8 @@
-# IC (Intelligent Central) Architecture
+# Standard Autonomous Architecture
 
 ## Overview
 
-IC (Intelligent Central) is an Autonomous Sales Agency Operating System with a modular architecture. Each concern lives in its own layer: scraping, conversation, LLM integration, persistence, delivery, and analytics.
+Standard Autonomous is an Autonomous Sales Agency Operating System with a modular architecture. Each concern lives in its own layer: scraping, conversation, LLM integration, persistence, delivery, and analytics.
 
 ```
 CLI (main.py)

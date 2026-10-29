@@ -1,8 +1,8 @@
 @echo off
-title IC - Intelligence Center (All-in-One Swarm Platform)
+title IC - Standard Autonomous (All-in-One Swarm Platform)
 cls
 echo ============================================================
-echo   ⚡ IC (Intelligence Center) ALL-IN-ONE SWARM PLATFORM
+echo   ⚡ IC (Standard Autonomous) ALL-IN-ONE SWARM PLATFORM
 echo ============================================================
 echo.
 echo [1/3] Checking Paperclip Swarm Engine (:3100)...

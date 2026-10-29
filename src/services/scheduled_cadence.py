@@ -1,5 +1,5 @@
 """
-Scheduled Cadence Engine for IC (Intelligent Central)
+Scheduled Cadence Engine for Standard Autonomous
 Modeled on x.ai's Grok Bot Engineering Marketplace & Lauren Tan's Production Agentic Architecture.
 
 Deploys single-mandate scheduled bots operating asynchronously:

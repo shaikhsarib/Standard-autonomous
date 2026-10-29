@@ -1,5 +1,5 @@
 """
-Paperclip Swarm Bridge for IC (Intelligence Center)
+Paperclip Swarm Bridge for Standard Autonomous
 Unifies IC FastAPI (:8000), Paperclip Server (:3100), and React Studio (:5173) into a single cohesive engine.
 """
 import logging

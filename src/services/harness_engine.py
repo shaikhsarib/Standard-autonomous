@@ -1,5 +1,5 @@
 """
-Google Research Harness² Recursive Self-Improvement Engine for IC (Intelligent Central)
+Google Research Harness² Recursive Self-Improvement Engine for Standard Autonomous
 Based on: google-research/harness2 (arXiv:2610.14224)
 Enables autonomous agents to iteratively refine prompts, claims, and execution strategies
 without updating model weights via the Propose-Probe-Compose cycle.
