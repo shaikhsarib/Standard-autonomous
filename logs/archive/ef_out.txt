@@ -1,0 +1,9 @@
+
+Searching: Cafe Coffee Day Connaught Place
+  Email: ccd@gmail.com
+
+Searching: Pizza Hut Karol Bagh
+  Email: Not found
+
+Searching: Haldiram's Chandni Chowk
+  Email: products@haldiram.com

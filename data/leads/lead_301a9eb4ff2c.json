@@ -1,0 +1,294 @@
+{
+  "id": "lead_301a9eb4ff2c",
+  "profile": {
+    "company_name": "Enrich Salons & Clinics",
+    "business_type": "Luxury Hair & Skin Clinic",
+    "location": "Linking Road, Bandra, Mumbai",
+    "phone": "+91 1800 266 5300",
+    "email": null,
+    "website": "https://www.enrichbeauty.com/",
+    "has_website": true,
+    "address": null,
+    "rating": "4.6",
+    "source": "manual",
+    "source_url": null,
+    "vertical": "local_services",
+    "pain_points": [],
+    "growth_goals": [],
+    "created_at": "2026-10-27T16:06:17.326408Z"
+  },
+  "status": "converted",
+  "audit": {
+    "load_time_seconds": 0.96,
+    "has_ssl": true,
+    "is_mobile_responsive": true,
+    "has_whatsapp_widget": true,
+    "has_online_booking": true,
+    "key_flaws": [],
+    "quantified_loss": "Minor friction in mobile speed and search visibility",
+    "screenshot_path": "data/screenshots/EnrichSalonsClinics.png",
+    "audited_at": "2026-10-27T16:06:23.181674Z"
+  },
+  "draft": {
+    "whatsapp_message": "Hi team Enrich Salons & Clinics, love what you've built in Linking Road, Bandra, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+    "email_subject": "Quick question regarding Enrich Salons & Clinics's customer flow",
+    "email_body": "Hi Team Enrich Salons & Clinics,\n\nLoved checking out your business in Linking Road, Bandra, Mumbai. We specialize in adding automated instant WhatsApp lead capture to existing websites to boost conversion by 30%.\n\nWould you be open to seeing a 2-minute video preview of how it would work for Enrich Salons & Clinics?\n\nWarm regards,\nGrowth & Tech Team",
+    "pain_points": [
+      "Slow lead response times",
+      "Manual booking coordination on phone",
+      "Missing after-hours inquiries"
+    ],
+    "business_loss": "Losing prospective customers who don't get immediate replies"
+  },
+  "contact_name": null,
+  "contact_email": null,
+  "budget": null,
+  "interest_level": null,
+  "summary": "Hi team Enrich Salons & Clinics, love what you've built in Linking Road, Bandra, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+  "qualified": true,
+  "contacted_channels": [],
+  "last_contacted_at": null,
+  "conversation_history": [],
+  "meeting_link": null,
+  "research": {
+    "market_overview": "Competitive local market for Luxury Hair & Skin Clinic in Linking Road, Bandra, Mumbai.",
+    "target_demographics": "Urban consumers in Linking Road, Bandra, Mumbai needing fast service.",
+    "top_customer_complaints": [
+      "Manual phone order coordination during peak rush hours",
+      "No 1-click WhatsApp instant reservation system"
+    ],
+    "competitors": [
+      {
+        "competitor_name": "Leading Luxury Hair & Skin Clinic in Linking Road, Bandra, Mumbai",
+        "strength": "High review volume",
+        "weakness": "Lacks direct booking"
+      }
+    ],
+    "untapped_revenue_opportunities": [
+      "Direct WhatsApp ordering to retain 20-30% margins from aggregators",
+      "Automated appointment reminders to prevent no-shows"
+    ],
+    "recommended_hook": "Help Enrich Salons & Clinics eliminate 20-30% platform commission with automated direct WhatsApp ordering.",
+    "citations": [
+      {
+        "title": "HOTEL METRO PALACE - Updated 2026 Reviews (Mumbai, India)झोपडपट्टी पुनर्वसन प्राधिकरण, बृहन्मुंबईTop Women Beauty Parlours in Maharashtra Nagar Kurla West ...TAJ LANDS END, MUMBAI - Recent 2026 Reviews - TripadvisorTHE ORIENTAL RESIDENCY (Mumbai) - Hotel Reviews ... - TripadvisorBombay / Mumbai - Page 736DTDC | India’s Trusted Courier Delivery & Logistics Company",
+        "url": "https://www.tripadvisor.com/Hotel_Review-g304554-d654550-Reviews-Hotel_Metro_Palace-Mumbai_Maharashtra.html",
+        "snippet": "Book Hotel Metro Palace, Mumbai on Tripadvisor: See 127 traveler reviews, 131 candid photos, and great deals for Hotel Metro Palace, ranked #232 of 350 B&Bs / inns in Mumbai and rated 3 of 5 at Tripadvisor. Jul 26, 2026 · Official website of the Slum"
+      },
+      {
+        "title": "TAJ LANDS END, MUMBAI - Recent 2026 Reviews - TripadvisorTHE ORIENTAL RESIDENCY (Mumbai) - Hotel Reviews ... - TripadvisorBombay / Mumbai - Page 736DTDC | India’s Trusted Courier Delivery & Logistics Company",
+        "url": "https://www.tripadvisor.co.uk/Hotel_Review-g304554-d304604-Reviews-or10-Taj_Lands_End_Mumbai-Mumbai_Maharashtra.html",
+        "snippet": "Book Taj Lands End, Mumbai, Mumbai on Tripadvisor: See 10,854 traveller reviews, 6,161 candid photos, and great deals for Taj Lands End, Mumbai, ranked #59 of 832 hotels in Mumbai and rated 4 of 5 at Tripadvisor. The Oriental Residency, Mumbai: See 5"
+      },
+      {
+        "title": "THE ORIENTAL RESIDENCY (Mumbai) - Hotel Reviews ... - TripadvisorBombay / Mumbai - Page 736DTDC | India’s Trusted Courier Delivery & Logistics Company",
+        "url": "https://www.tripadvisor.in/Hotel_Review-g304554-d1135618-Reviews-The_Oriental_Residency-Mumbai_Maharashtra.html",
+        "snippet": "The Oriental Residency, Mumbai: See 584 traveller reviews, 391 user photos and best deals for The Oriental Residency, ranked #105 of 832 Mumbai hotels, rated 4 of 5 at Tripadvisor. For the last 3-4 days I've been calling my regular ones including cou"
+      },
+      {
+        "title": "Auravita Skin & Hair — Bandra West, Mumbai · Transformcure",
+        "url": "https://transformcure.com/clinics/auravita-skin-hair-mumbai",
+        "snippet": "Auravita brings together board-certified dermatologists, trichologists and a modern in-clinic lab to deliver outcomes-led hair restoration and skin care. Every patient journey begins with a 360° assessment."
+      },
+      {
+        "title": "Derma Puritys, Clinic in Mumbai | Practo",
+        "url": "https://www.practo.com/mumbai/clinic/derma-purity-s-linking-road/doctors",
+        "snippet": "Derma Puritys, an integrated skincare and hair-care center, provides a comprehensive range of advanced treatments for skin, hair, and body. Utilizing the latest technologies and most advanced methods, the clinic is dedicated to delivering high-qualit"
+      },
+      {
+        "title": "22 Aesthetic Dermatologist Clinics in Linking Road, Mumbai",
+        "url": "https://www.practo.com/mumbai/clinics/aesthetic-dermatologist-clinics/linking-road",
+        "snippet": "Find trusted Aesthetic Dermatologist Clinics open today near you in Linking Road, Mumbai. Book appointments instantly on Practo. Get timings, compare fees and read reviews. Patients like you rate them highly for care, hygiene, and convenience."
+      }
+    ],
+    "evidence_verified": true,
+    "treg_enrichment": {
+      "lead_id": "Enrich Salons & Clinics",
+      "owner_or_director_name": "Managing Director / Proprietor",
+      "verified_whatsapp": true,
+      "gstin_or_registration": null,
+      "tools_invoked": [
+        "verify_whatsapp",
+        "search_director"
+      ],
+      "total_tool_cost_usd": 0.0
+    }
+  },
+  "pstack_proof": {
+    "business_name": "Enrich Salons & Clinics",
+    "total_claims": 6,
+    "verified_claims": 6,
+    "proof_score_percentage": 100.0,
+    "claims": [
+      {
+        "claim_id": "proof_ssl_active",
+        "category": "security",
+        "finding": "Valid HTTPS encryption verified",
+        "evidence_type": "live_http_probe",
+        "proof_reference": "https://www.enrichbeauty.com/",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_page_speed",
+        "category": "performance",
+        "finding": "Observed Time-to-First-Byte + DOM load: 0.96s",
+        "evidence_type": "live_http_probe",
+        "proof_reference": "https://www.enrichbeauty.com/",
+        "reproducibility_command": "curl -o /dev/null -s -w 'Time: %{time_total}s' https://www.enrichbeauty.com/",
+        "is_verified": true,
+        "pstack_status": "OPTIMAL"
+      },
+      {
+        "claim_id": "proof_mobile_viewport",
+        "category": "conversion",
+        "finding": "Mobile viewport configured: True",
+        "evidence_type": "dom_selector",
+        "proof_reference": "meta[name='viewport']",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_1",
+        "category": "market_intelligence",
+        "finding": "Live source citation: HOTEL METRO PALACE - Updated 2026 Reviews (Mumbai, India)झोपडपट्टी पुनर्वसन प्राधिकरण, बृहन्मुंबईTop Women Beauty Parlours in Maharashtra Nagar Kurla West ...TAJ LANDS END, MUMBAI - Recent 2026 Reviews - TripadvisorTHE ORIENTAL RESIDENCY (Mumbai) - Hotel Reviews ... - TripadvisorBombay / Mumbai - Page 736DTDC | India’s Trusted Courier Delivery & Logistics Company",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.tripadvisor.com/Hotel_Review-g304554-d654550-Reviews-Hotel_Metro_Palace-Mumbai_Maharashtra.html",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_2",
+        "category": "market_intelligence",
+        "finding": "Live source citation: TAJ LANDS END, MUMBAI - Recent 2026 Reviews - TripadvisorTHE ORIENTAL RESIDENCY (Mumbai) - Hotel Reviews ... - TripadvisorBombay / Mumbai - Page 736DTDC | India’s Trusted Courier Delivery & Logistics Company",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.tripadvisor.co.uk/Hotel_Review-g304554-d304604-Reviews-or10-Taj_Lands_End_Mumbai-Mumbai_Maharashtra.html",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_3",
+        "category": "market_intelligence",
+        "finding": "Live source citation: THE ORIENTAL RESIDENCY (Mumbai) - Hotel Reviews ... - TripadvisorBombay / Mumbai - Page 736DTDC | India’s Trusted Courier Delivery & Logistics Company",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.tripadvisor.in/Hotel_Review-g304554-d1135618-Reviews-The_Oriental_Residency-Mumbai_Maharashtra.html",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      }
+    ],
+    "artifacts": [
+      {
+        "artifact_type": "mobile_screenshot",
+        "uri_or_path": "data/screenshots/EnrichSalonsClinics.png",
+        "verified": true,
+        "details": {
+          "viewport": "390x844 iPhone 14"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.tripadvisor.com/Hotel_Review-g304554-d654550-Reviews-Hotel_Metro_Palace-Mumbai_Maharashtra.html",
+        "verified": true,
+        "details": {
+          "title": "HOTEL METRO PALACE - Updated 2026 Reviews (Mumbai, India)झोपडपट्टी पुनर्वसन प्राधिकरण, बृहन्मुंबईTop Women Beauty Parlours in Maharashtra Nagar Kurla West ...TAJ LANDS END, MUMBAI - Recent 2026 Reviews - TripadvisorTHE ORIENTAL RESIDENCY (Mumbai) - Hotel Reviews ... - TripadvisorBombay / Mumbai - Page 736DTDC | India’s Trusted Courier Delivery & Logistics Company"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.tripadvisor.co.uk/Hotel_Review-g304554-d304604-Reviews-or10-Taj_Lands_End_Mumbai-Mumbai_Maharashtra.html",
+        "verified": true,
+        "details": {
+          "title": "TAJ LANDS END, MUMBAI - Recent 2026 Reviews - TripadvisorTHE ORIENTAL RESIDENCY (Mumbai) - Hotel Reviews ... - TripadvisorBombay / Mumbai - Page 736DTDC | India’s Trusted Courier Delivery & Logistics Company"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.tripadvisor.in/Hotel_Review-g304554-d1135618-Reviews-The_Oriental_Residency-Mumbai_Maharashtra.html",
+        "verified": true,
+        "details": {
+          "title": "THE ORIENTAL RESIDENCY (Mumbai) - Hotel Reviews ... - TripadvisorBombay / Mumbai - Page 736DTDC | India’s Trusted Courier Delivery & Logistics Company"
+        }
+      }
+    ],
+    "verified_at": "2026-10-27T16:06:39.938782Z"
+  },
+  "handoff_trace": [
+    {
+      "handoff_id": "hnd_298b7ecd",
+      "source_agent": "scout_agent",
+      "target_agent": "researcher_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:06:39.939069Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "Enrich Salons & Clinics",
+        "business_type": "Luxury Hair & Skin Clinic"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_c24950c1",
+      "source_agent": "researcher_agent",
+      "target_agent": "auditor_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:06:39.939309Z",
+      "status": "validated",
+      "payload": {
+        "website": "https://www.enrichbeauty.com/",
+        "company_name": "Enrich Salons & Clinics"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_ba5e2336",
+      "source_agent": "auditor_agent",
+      "target_agent": "conversion_strategist_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:06:39.939392Z",
+      "status": "validated",
+      "payload": {
+        "load_time": 0.96,
+        "key_flaws": []
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_aa2fe973",
+      "source_agent": "conversion_strategist_agent",
+      "target_agent": "copywriter_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:06:39.939467Z",
+      "status": "validated",
+      "payload": {
+        "quantified_loss": "Minor friction in mobile speed and search visibility",
+        "hook": "Help Enrich Salons & Clinics eliminate 20-30% platform commission with automated direct WhatsApp ordering."
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_56c57fbb",
+      "source_agent": "copywriter_agent",
+      "target_agent": "paperclip_approval_gate",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:06:39.939541Z",
+      "status": "validated",
+      "payload": {
+        "whatsapp_pitch": "Hi team Enrich Salons & Clinics, love what you've built in Linking Road, Bandra, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+        "qualified": true
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    }
+  ],
+  "created_at": "2026-10-27T16:06:39.939825Z",
+  "updated_at": "2026-10-27T16:06:39.939977Z"
+}

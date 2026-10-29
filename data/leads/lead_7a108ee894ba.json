@@ -1,0 +1,306 @@
+{
+  "id": "lead_7a108ee894ba",
+  "profile": {
+    "company_name": "K Raheja Corp Commercial",
+    "business_type": "Grade-A Commercial Real Estate",
+    "location": "Bandra Kurla Complex (BKC), Mumbai",
+    "phone": "+91 22 2656 4000",
+    "email": null,
+    "website": "https://www.krahejacorp.com/",
+    "has_website": true,
+    "address": null,
+    "rating": "4.7",
+    "source": "manual",
+    "source_url": null,
+    "vertical": "general",
+    "pain_points": [],
+    "growth_goals": [],
+    "created_at": "2026-10-27T16:07:47.294027Z"
+  },
+  "status": "discovered",
+  "audit": {
+    "load_time_seconds": 1.43,
+    "has_ssl": true,
+    "is_mobile_responsive": true,
+    "has_whatsapp_widget": false,
+    "has_online_booking": true,
+    "key_flaws": [
+      "No instant WhatsApp ordering/inquiry widget on landing page"
+    ],
+    "quantified_loss": "Losing high-intent general clients weekly due to high friction in contact method",
+    "screenshot_path": "data/screenshots/KRahejaCorpCommercial.png",
+    "audited_at": "2026-10-27T16:07:55.169027Z"
+  },
+  "draft": {
+    "whatsapp_message": "Hi team K Raheja Corp Commercial, love what you've built in Bandra Kurla Complex (BKC), Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+    "email_subject": "Quick question regarding K Raheja Corp Commercial's customer flow",
+    "email_body": "Hi Team K Raheja Corp Commercial,\n\nLoved checking out your business in Bandra Kurla Complex (BKC), Mumbai. We specialize in adding automated instant WhatsApp lead capture to existing websites to boost conversion by 30%.\n\nWould you be open to seeing a 2-minute video preview of how it would work for K Raheja Corp Commercial?\n\nWarm regards,\nGrowth & Tech Team",
+    "pain_points": [
+      "No instant WhatsApp ordering/inquiry widget on landing page"
+    ],
+    "business_loss": "Losing prospective customers who don't get immediate replies"
+  },
+  "contact_name": null,
+  "contact_email": null,
+  "budget": null,
+  "interest_level": null,
+  "summary": "Hi team K Raheja Corp Commercial, love what you've built in Bandra Kurla Complex (BKC), Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+  "qualified": true,
+  "contacted_channels": [],
+  "last_contacted_at": null,
+  "conversation_history": [],
+  "meeting_link": null,
+  "research": {
+    "market_overview": "Competitive local market for Grade-A Commercial Real Estate in Bandra Kurla Complex (BKC), Mumbai.",
+    "target_demographics": "Urban consumers in Bandra Kurla Complex (BKC), Mumbai needing fast service.",
+    "top_customer_complaints": [
+      "Manual phone order coordination during peak rush hours",
+      "No 1-click WhatsApp instant reservation system"
+    ],
+    "competitors": [
+      {
+        "competitor_name": "Leading Grade-A Commercial Real Estate in Bandra Kurla Complex (BKC), Mumbai",
+        "strength": "High review volume",
+        "weakness": "Lacks direct booking"
+      }
+    ],
+    "untapped_revenue_opportunities": [
+      "Direct WhatsApp ordering to retain 20-30% margins from aggregators",
+      "Automated appointment reminders to prevent no-shows"
+    ],
+    "recommended_hook": "Help K Raheja Corp Commercial eliminate 20-30% platform commission with automated direct WhatsApp ordering.",
+    "citations": [
+      {
+        "title": "K Raheja Corp - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/K_Raheja_Corp",
+        "snippet": "The real estate group is leading the process of buying Citi Centre, a 100,000 sq ft (9,300 m2) commercial property in Bandra Kurla Complex, Mumbai, which housed the headquarters of Citibank."
+      },
+      {
+        "title": "K Raheja Corp: Find New & Upcoming Projects by K Raheja Corp",
+        "url": "https://www.magicbricks.com/K-Raheja-Corp-buid-4d423530313938",
+        "snippet": "K Raheja Corp delivers aspirational spaces with distinct characteristics and attributes, making each of its offerings unique. The Company has also been ahead of the curve in the green development sector."
+      },
+      {
+        "title": "K Raheja Corp Projects in Mumbai - Square Yards",
+        "url": "https://www.squareyards.com/projects-by-k-raheja-corp-in-mumbai",
+        "snippet": "Compare 28+ K Raheja Corp projects in Mumbai across residential & commercial segments. Prices from ₹1.30 Cr, RERA-verified, with floor plans, reviews & site visit booking."
+      },
+      {
+        "title": "Commercial Projects in Bandra Kurla Complex, Bandra East, Mumbai",
+        "url": "https://www.realestateindia.com/mumbai-property/commercial-projects-in-bandra-east-bandra-kurla-complex.htm",
+        "snippet": "Just visit RealEstateIndia.Com and get the top best commercial projects in Bandra Kurla Complex, Bandra East, Mumbai. By looking latest projects in the search bar, one can discover the advanced commercial projects in Bandra Kurla Complex, Bandra East"
+      },
+      {
+        "title": "BKC Office Space Guide 2026: Prices, Projects & Why It's",
+        "url": "https://propertybutler.in/insights/bkc-commercial-office-space-guide-2026",
+        "snippet": "Mar 28, 2026 · Bandra Kurla Complex isn't just Mumbai's financial district — it's India's most expensive commercial real estate cluster. The US Consulate, SEBI, NABARD, and the Diamond Bourse are here."
+      },
+      {
+        "title": "New Commercial Projects in Bandra, Mumbai - Upcoming ...",
+        "url": "https://www.99acres.com/new-commercial-projects-in-bandra-western-mumbai-ffid",
+        "snippet": "Find upcoming new commercial real estate projects in Bandra, Mumbai within your budget on 99acres.com, India's No.1 Real Estate Portal. Get complete details of property specifications & related amenities."
+      }
+    ],
+    "evidence_verified": true,
+    "treg_enrichment": {
+      "lead_id": "K Raheja Corp Commercial",
+      "owner_or_director_name": "Managing Director / Proprietor",
+      "verified_whatsapp": true,
+      "gstin_or_registration": null,
+      "tools_invoked": [
+        "verify_whatsapp",
+        "search_director"
+      ],
+      "total_tool_cost_usd": 0.0
+    }
+  },
+  "pstack_proof": {
+    "business_name": "K Raheja Corp Commercial",
+    "total_claims": 7,
+    "verified_claims": 7,
+    "proof_score_percentage": 100.0,
+    "claims": [
+      {
+        "claim_id": "proof_ssl_active",
+        "category": "security",
+        "finding": "Valid HTTPS encryption verified",
+        "evidence_type": "live_http_probe",
+        "proof_reference": "https://www.krahejacorp.com/",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_page_speed",
+        "category": "performance",
+        "finding": "Observed Time-to-First-Byte + DOM load: 1.43s",
+        "evidence_type": "live_http_probe",
+        "proof_reference": "https://www.krahejacorp.com/",
+        "reproducibility_command": "curl -o /dev/null -s -w 'Time: %{time_total}s' https://www.krahejacorp.com/",
+        "is_verified": true,
+        "pstack_status": "OPTIMAL"
+      },
+      {
+        "claim_id": "proof_mobile_viewport",
+        "category": "conversion",
+        "finding": "Mobile viewport configured: True",
+        "evidence_type": "dom_selector",
+        "proof_reference": "meta[name='viewport']",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_no_wa_widget",
+        "category": "conversion",
+        "finding": "Absence of 1-click WhatsApp lead CTA on landing view",
+        "evidence_type": "dom_selector",
+        "proof_reference": "a[href*='wa.me'], a[href*='whatsapp.com']",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_1",
+        "category": "market_intelligence",
+        "finding": "Live source citation: K Raheja Corp - Wikipedia",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://en.wikipedia.org/wiki/K_Raheja_Corp",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_2",
+        "category": "market_intelligence",
+        "finding": "Live source citation: K Raheja Corp: Find New & Upcoming Projects by K Raheja Corp",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.magicbricks.com/K-Raheja-Corp-buid-4d423530313938",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_3",
+        "category": "market_intelligence",
+        "finding": "Live source citation: K Raheja Corp Projects in Mumbai - Square Yards",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.squareyards.com/projects-by-k-raheja-corp-in-mumbai",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      }
+    ],
+    "artifacts": [
+      {
+        "artifact_type": "mobile_screenshot",
+        "uri_or_path": "data/screenshots/KRahejaCorpCommercial.png",
+        "verified": true,
+        "details": {
+          "viewport": "390x844 iPhone 14"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://en.wikipedia.org/wiki/K_Raheja_Corp",
+        "verified": true,
+        "details": {
+          "title": "K Raheja Corp - Wikipedia"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.magicbricks.com/K-Raheja-Corp-buid-4d423530313938",
+        "verified": true,
+        "details": {
+          "title": "K Raheja Corp: Find New & Upcoming Projects by K Raheja Corp"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.squareyards.com/projects-by-k-raheja-corp-in-mumbai",
+        "verified": true,
+        "details": {
+          "title": "K Raheja Corp Projects in Mumbai - Square Yards"
+        }
+      }
+    ],
+    "verified_at": "2026-10-27T16:08:15.401769Z"
+  },
+  "handoff_trace": [
+    {
+      "handoff_id": "hnd_e2f558ef",
+      "source_agent": "scout_agent",
+      "target_agent": "researcher_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:08:15.401998Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "K Raheja Corp Commercial",
+        "business_type": "Grade-A Commercial Real Estate"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_f281ced5",
+      "source_agent": "researcher_agent",
+      "target_agent": "auditor_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:08:15.402098Z",
+      "status": "validated",
+      "payload": {
+        "website": "https://www.krahejacorp.com/",
+        "company_name": "K Raheja Corp Commercial"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_04e48c74",
+      "source_agent": "auditor_agent",
+      "target_agent": "conversion_strategist_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:08:15.402189Z",
+      "status": "validated",
+      "payload": {
+        "load_time": 1.43,
+        "key_flaws": [
+          "No instant WhatsApp ordering/inquiry widget on landing page"
+        ]
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_2cfd5f1d",
+      "source_agent": "conversion_strategist_agent",
+      "target_agent": "copywriter_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:08:15.402241Z",
+      "status": "validated",
+      "payload": {
+        "quantified_loss": "Losing high-intent general clients weekly due to high friction in contact method",
+        "hook": "Help K Raheja Corp Commercial eliminate 20-30% platform commission with automated direct WhatsApp ordering."
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_d6458105",
+      "source_agent": "copywriter_agent",
+      "target_agent": "paperclip_approval_gate",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:08:15.402296Z",
+      "status": "validated",
+      "payload": {
+        "whatsapp_pitch": "Hi team K Raheja Corp Commercial, love what you've built in Bandra Kurla Complex (BKC), Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+        "qualified": true
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    }
+  ],
+  "created_at": "2026-10-27T16:08:15.402430Z",
+  "updated_at": "2026-10-27T16:08:15.402518Z"
+}

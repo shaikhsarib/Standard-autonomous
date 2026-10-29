@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\JarvisProjects\advanced_lead_gen_chatbot\show_leads.py", line 2, in <module>
+    data = json.load(open('outbound_leads.json', 'r', encoding='utf-8'))
+FileNotFoundError: [Errno 2] No such file or directory: 'outbound_leads.json'

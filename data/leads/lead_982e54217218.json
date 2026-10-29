@@ -1,0 +1,271 @@
+{
+  "id": "lead_982e54217218",
+  "profile": {
+    "company_name": "Dentzz Dental Care",
+    "business_type": "Aesthetic Dentistry Clinic",
+    "location": "Waterfield Road, Bandra West, Mumbai",
+    "phone": "+91 22 2640 1234",
+    "email": null,
+    "website": "https://www.dentzzmumbai.com/",
+    "has_website": true,
+    "address": null,
+    "rating": "4.7",
+    "source": "manual",
+    "source_url": null,
+    "vertical": "local_services",
+    "pain_points": [],
+    "growth_goals": [],
+    "created_at": "2026-10-27T16:05:07.131691Z"
+  },
+  "status": "contacted",
+  "audit": {
+    "load_time_seconds": 2.05,
+    "has_ssl": true,
+    "is_mobile_responsive": true,
+    "has_whatsapp_widget": true,
+    "has_online_booking": true,
+    "key_flaws": [],
+    "quantified_loss": "Minor friction in mobile speed and search visibility",
+    "screenshot_path": null,
+    "audited_at": "2026-10-27T16:05:20.743354Z"
+  },
+  "draft": {
+    "whatsapp_message": "Hi team Dentzz Dental Care, love what you've built in Waterfield Road, Bandra West, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+    "email_subject": "Quick question regarding Dentzz Dental Care's customer flow",
+    "email_body": "Hi Team Dentzz Dental Care,\n\nLoved checking out your business in Waterfield Road, Bandra West, Mumbai. We specialize in adding automated instant WhatsApp lead capture to existing websites to boost conversion by 30%.\n\nWould you be open to seeing a 2-minute video preview of how it would work for Dentzz Dental Care?\n\nWarm regards,\nGrowth & Tech Team",
+    "pain_points": [
+      "Slow lead response times",
+      "Manual booking coordination on phone",
+      "Missing after-hours inquiries"
+    ],
+    "business_loss": "Losing prospective customers who don't get immediate replies"
+  },
+  "contact_name": null,
+  "contact_email": null,
+  "budget": null,
+  "interest_level": null,
+  "summary": "Hi team Dentzz Dental Care, love what you've built in Waterfield Road, Bandra West, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+  "qualified": true,
+  "contacted_channels": [],
+  "last_contacted_at": null,
+  "conversation_history": [],
+  "meeting_link": null,
+  "research": {
+    "market_overview": "Competitive local market for Aesthetic Dentistry Clinic in Waterfield Road, Bandra West, Mumbai.",
+    "target_demographics": "Urban consumers in Waterfield Road, Bandra West, Mumbai needing fast service.",
+    "top_customer_complaints": [
+      "Manual phone order coordination during peak rush hours",
+      "No 1-click WhatsApp instant reservation system"
+    ],
+    "competitors": [
+      {
+        "competitor_name": "Leading Aesthetic Dentistry Clinic in Waterfield Road, Bandra West, Mumbai",
+        "strength": "High review volume",
+        "weakness": "Lacks direct booking"
+      }
+    ],
+    "untapped_revenue_opportunities": [
+      "Direct WhatsApp ordering to retain 20-30% margins from aggregators",
+      "Automated appointment reminders to prevent no-shows"
+    ],
+    "recommended_hook": "Help Dentzz Dental Care eliminate 20-30% platform commission with automated direct WhatsApp ordering.",
+    "citations": [
+      {
+        "title": "Dentzz Dental Care Centre, Bandra West, Mumbai - Justdial",
+        "url": "https://www.justdial.com/Mumbai/Dentzz-Dental-Care-Centre-Above-Tea-Villa-Cafe-Next-Khar-Above-Nike-Showroom-Bandra-West/022PXX22-XX22-090926182154-D9P8_BZDET",
+        "snippet": "Renowned dental clinic offering advanced smile makeovers, laser dentistry, and personalized patient care. Dentzz Dental Care Centre in Bandra West, Mumbai. Rated 4.9 by 1594 customers. Get Address, Contact Number, Reviews & Ratings, Photos, Maps of D"
+      },
+      {
+        "title": "Dentzz Dental Care Centre (Bandra) in Mumbai, India • Read 4 Reviews",
+        "url": "https://www.whatclinic.com/dentists/india/mumbai/dentzz-dental-care-centre-bandra",
+        "snippet": "Prices from ₹1440 - Enquire for a fast quote ★ Good WhatClinic ServiceScore™ 6.4 from 9 user interactions ★ 4 verified patient reviews. Visit our Dentist - 12, 2nd Floor, Shyam Vihar Co-op Housing Society,, Above Nike Showroom, Linking Road, Bandra ("
+      },
+      {
+        "title": "Dentzz Dental Reviews: Patient Reviews & Ratings | MouthShut",
+        "url": "https://m.mouthshut.com/product-reviews/Dentzz-Dental-reviews-925631846",
+        "snippet": "I am so glad that I was able to find Dentzz Dental Care for my dental needs. My friend told me about this dental clinic in Mumbai, India that was affordable and had good care."
+      }
+    ],
+    "evidence_verified": true,
+    "treg_enrichment": {
+      "lead_id": "Dentzz Dental Care",
+      "owner_or_director_name": "Managing Director / Proprietor",
+      "verified_whatsapp": true,
+      "gstin_or_registration": null,
+      "tools_invoked": [
+        "verify_whatsapp",
+        "search_director"
+      ],
+      "total_tool_cost_usd": 0.0
+    }
+  },
+  "pstack_proof": {
+    "business_name": "Dentzz Dental Care",
+    "total_claims": 6,
+    "verified_claims": 6,
+    "proof_score_percentage": 100.0,
+    "claims": [
+      {
+        "claim_id": "proof_ssl_active",
+        "category": "security",
+        "finding": "Valid HTTPS encryption verified",
+        "evidence_type": "live_http_probe",
+        "proof_reference": "https://www.dentzzmumbai.com/",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_page_speed",
+        "category": "performance",
+        "finding": "Observed Time-to-First-Byte + DOM load: 2.05s",
+        "evidence_type": "live_http_probe",
+        "proof_reference": "https://www.dentzzmumbai.com/",
+        "reproducibility_command": "curl -o /dev/null -s -w 'Time: %{time_total}s' https://www.dentzzmumbai.com/",
+        "is_verified": true,
+        "pstack_status": "OPTIMAL"
+      },
+      {
+        "claim_id": "proof_mobile_viewport",
+        "category": "conversion",
+        "finding": "Mobile viewport configured: True",
+        "evidence_type": "dom_selector",
+        "proof_reference": "meta[name='viewport']",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_1",
+        "category": "market_intelligence",
+        "finding": "Live source citation: Dentzz Dental Care Centre, Bandra West, Mumbai - Justdial",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.justdial.com/Mumbai/Dentzz-Dental-Care-Centre-Above-Tea-Villa-Cafe-Next-Khar-Above-Nike-Showroom-Bandra-West/022PXX22-XX22-090926182154-D9P8_BZDET",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_2",
+        "category": "market_intelligence",
+        "finding": "Live source citation: Dentzz Dental Care Centre (Bandra) in Mumbai, India • Read 4 Reviews",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.whatclinic.com/dentists/india/mumbai/dentzz-dental-care-centre-bandra",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_3",
+        "category": "market_intelligence",
+        "finding": "Live source citation: Dentzz Dental Reviews: Patient Reviews & Ratings | MouthShut",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://m.mouthshut.com/product-reviews/Dentzz-Dental-reviews-925631846",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      }
+    ],
+    "artifacts": [
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.justdial.com/Mumbai/Dentzz-Dental-Care-Centre-Above-Tea-Villa-Cafe-Next-Khar-Above-Nike-Showroom-Bandra-West/022PXX22-XX22-090926182154-D9P8_BZDET",
+        "verified": true,
+        "details": {
+          "title": "Dentzz Dental Care Centre, Bandra West, Mumbai - Justdial"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.whatclinic.com/dentists/india/mumbai/dentzz-dental-care-centre-bandra",
+        "verified": true,
+        "details": {
+          "title": "Dentzz Dental Care Centre (Bandra) in Mumbai, India • Read 4 Reviews"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://m.mouthshut.com/product-reviews/Dentzz-Dental-reviews-925631846",
+        "verified": true,
+        "details": {
+          "title": "Dentzz Dental Reviews: Patient Reviews & Ratings | MouthShut"
+        }
+      }
+    ],
+    "verified_at": "2026-10-27T16:05:39.112185Z"
+  },
+  "handoff_trace": [
+    {
+      "handoff_id": "hnd_83d45aa6",
+      "source_agent": "scout_agent",
+      "target_agent": "researcher_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:05:39.112480Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "Dentzz Dental Care",
+        "business_type": "Aesthetic Dentistry Clinic"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_f10cc359",
+      "source_agent": "researcher_agent",
+      "target_agent": "auditor_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:05:39.112616Z",
+      "status": "validated",
+      "payload": {
+        "website": "https://www.dentzzmumbai.com/",
+        "company_name": "Dentzz Dental Care"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_f667c9da",
+      "source_agent": "auditor_agent",
+      "target_agent": "conversion_strategist_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:05:39.112691Z",
+      "status": "validated",
+      "payload": {
+        "load_time": 2.05,
+        "key_flaws": []
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_7111902f",
+      "source_agent": "conversion_strategist_agent",
+      "target_agent": "copywriter_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:05:39.113209Z",
+      "status": "validated",
+      "payload": {
+        "quantified_loss": "Minor friction in mobile speed and search visibility",
+        "hook": "Help Dentzz Dental Care eliminate 20-30% platform commission with automated direct WhatsApp ordering."
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_130e5bfc",
+      "source_agent": "copywriter_agent",
+      "target_agent": "paperclip_approval_gate",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:05:39.113317Z",
+      "status": "validated",
+      "payload": {
+        "whatsapp_pitch": "Hi team Dentzz Dental Care, love what you've built in Waterfield Road, Bandra West, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+        "qualified": true
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    }
+  ],
+  "created_at": "2026-10-27T16:05:39.113498Z",
+  "updated_at": "2026-10-27T16:05:39.113613Z"
+}

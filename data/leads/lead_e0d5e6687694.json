@@ -1,0 +1,294 @@
+{
+  "id": "lead_e0d5e6687694",
+  "profile": {
+    "company_name": "Dazzle Dental Clinic",
+    "business_type": "Cosmetic Dentistry & Implants",
+    "location": "Turner Road, Bandra West, Mumbai",
+    "phone": "+91 99201 12233",
+    "email": null,
+    "website": "https://www.dazzle.dental/",
+    "has_website": true,
+    "address": null,
+    "rating": "4.9",
+    "source": "manual",
+    "source_url": null,
+    "vertical": "local_services",
+    "pain_points": [],
+    "growth_goals": [],
+    "created_at": "2026-10-27T16:04:42.000244Z"
+  },
+  "status": "contacted",
+  "audit": {
+    "load_time_seconds": 1.41,
+    "has_ssl": true,
+    "is_mobile_responsive": true,
+    "has_whatsapp_widget": true,
+    "has_online_booking": true,
+    "key_flaws": [],
+    "quantified_loss": "Minor friction in mobile speed and search visibility",
+    "screenshot_path": "data/screenshots/DazzleDentalClinic.png",
+    "audited_at": "2026-10-27T16:04:50.150410Z"
+  },
+  "draft": {
+    "whatsapp_message": "Hi team Dazzle Dental Clinic, love what you've built in Turner Road, Bandra West, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+    "email_subject": "Quick question regarding Dazzle Dental Clinic's customer flow",
+    "email_body": "Hi Team Dazzle Dental Clinic,\n\nLoved checking out your business in Turner Road, Bandra West, Mumbai. We specialize in adding automated instant WhatsApp lead capture to existing websites to boost conversion by 30%.\n\nWould you be open to seeing a 2-minute video preview of how it would work for Dazzle Dental Clinic?\n\nWarm regards,\nGrowth & Tech Team",
+    "pain_points": [
+      "Slow lead response times",
+      "Manual booking coordination on phone",
+      "Missing after-hours inquiries"
+    ],
+    "business_loss": "Losing prospective customers who don't get immediate replies"
+  },
+  "contact_name": null,
+  "contact_email": null,
+  "budget": null,
+  "interest_level": null,
+  "summary": "Hi team Dazzle Dental Clinic, love what you've built in Turner Road, Bandra West, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+  "qualified": true,
+  "contacted_channels": [],
+  "last_contacted_at": null,
+  "conversation_history": [],
+  "meeting_link": null,
+  "research": {
+    "market_overview": "Competitive local market for Cosmetic Dentistry & Implants in Turner Road, Bandra West, Mumbai.",
+    "target_demographics": "Urban consumers in Turner Road, Bandra West, Mumbai needing fast service.",
+    "top_customer_complaints": [
+      "Manual phone order coordination during peak rush hours",
+      "No 1-click WhatsApp instant reservation system"
+    ],
+    "competitors": [
+      {
+        "competitor_name": "Leading Cosmetic Dentistry & Implants in Turner Road, Bandra West, Mumbai",
+        "strength": "High review volume",
+        "weakness": "Lacks direct booking"
+      }
+    ],
+    "untapped_revenue_opportunities": [
+      "Direct WhatsApp ordering to retain 20-30% margins from aggregators",
+      "Automated appointment reminders to prevent no-shows"
+    ],
+    "recommended_hook": "Help Dazzle Dental Clinic eliminate 20-30% platform commission with automated direct WhatsApp ordering.",
+    "citations": [
+      {
+        "title": "Dazzle Dental Clinic, Turner Road, Mumbai - Justdial",
+        "url": "https://www.justdial.com/Mumbai/Dazzle-Dental-Clinic-Bandra-West/022P1228998730C9V3Z3_BZDET",
+        "snippet": "Find Address, Contact Number, Reviews & Ratings, Photos, Maps of Dazzle Dental Clinic, Mumbai. Dazzle Dental Clinic is a renowned dental clinic in Mumbai, offering top-notch dental care and cutting-edge technology to ensure exceptional treatment."
+      },
+      {
+        "title": "Dazzle Dental Clinic Reviews, Turner Road, Mumbai - 954 ...",
+        "url": "https://www.justdial.com/Mumbai/Dazzle-Dental-Clinic-Turner-Road/022P1228998730C9V3Z3_BZDET/reviews",
+        "snippet": "Dazzle Dental Clinic in Turner Road, Mumbai currently holds an average rating of 4.9 based on user reviews. Checking reviews before visiting or availing services is always helpful, as it gives you access to real customer perspectives."
+      },
+      {
+        "title": "Dazzle Dental Clinic Near Me in Bandra West, Mumbai - PractoDAZZLE DENTAL CLINIC - Reviews, Photos & Phone Number (2026 ...Dazzle Dental Clinic - Dental clinic - Mumbai - Maharashtra ...Dr. Rajesh Shetty'S Dazzle Dental Clinic - Bandra - MumbaiDr. Fauzia Khimani Naaz (Dazzle Dental Clinic), Bandra West ...",
+        "url": "https://www.practo.com/mumbai/clinic/dazzle-dental-clinic-khar-west",
+        "snippet": "9 Doctors in Dazzle Dental Clinic, multi-speciality Clinic, Bandra West, Mumbai. Get details of top doctors, OPD timings, consultation fees, treatment, reviews & ratings from patients, phone number, address. Book an appointment for personalized care."
+      },
+      {
+        "title": "Best Dental Clinic in Bandra West",
+        "url": "https://www.dazzle.dental/dental-clinic/bandra-west",
+        "snippet": "Our Bandra West clinic is the treatment destination for patients from Bandra West, Pali Hill, Khar West, Santacruz West, and Bandra-Kurla Complex. Patients from across the western suburbs travel here for specialist implant and smile makeover consulta"
+      },
+      {
+        "title": "Dazzle Dental | Best Dental Clinic in Mumbai, Since 1999",
+        "url": "https://www.dazzle.dental/",
+        "snippet": "At Dazzle, 15+ expert dentists across seven disciplines review, plan, and treat together. The implantologist and the cosmetic dentist are in the same room before a single procedure begins. The result is a treatment plan built around your whole mouth "
+      },
+      {
+        "title": "Hi Tech Dental Clinic Bandra | Hi Tech Dental Clinic Bandra offers ...",
+        "url": "https://www.hitechdentalclinicbandra.com/",
+        "snippet": "Hi Tech Dental Clinic Bandra offers expert dental implants, painless root canals, smile makeovers, braces and cosmetic dentistry in Bandra, Mumbai."
+      }
+    ],
+    "evidence_verified": true,
+    "treg_enrichment": {
+      "lead_id": "Dazzle Dental Clinic",
+      "owner_or_director_name": "Managing Director / Proprietor",
+      "verified_whatsapp": true,
+      "gstin_or_registration": null,
+      "tools_invoked": [
+        "verify_whatsapp",
+        "search_director"
+      ],
+      "total_tool_cost_usd": 0.0
+    }
+  },
+  "pstack_proof": {
+    "business_name": "Dazzle Dental Clinic",
+    "total_claims": 6,
+    "verified_claims": 6,
+    "proof_score_percentage": 100.0,
+    "claims": [
+      {
+        "claim_id": "proof_ssl_active",
+        "category": "security",
+        "finding": "Valid HTTPS encryption verified",
+        "evidence_type": "live_http_probe",
+        "proof_reference": "https://www.dazzle.dental/",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_page_speed",
+        "category": "performance",
+        "finding": "Observed Time-to-First-Byte + DOM load: 1.41s",
+        "evidence_type": "live_http_probe",
+        "proof_reference": "https://www.dazzle.dental/",
+        "reproducibility_command": "curl -o /dev/null -s -w 'Time: %{time_total}s' https://www.dazzle.dental/",
+        "is_verified": true,
+        "pstack_status": "OPTIMAL"
+      },
+      {
+        "claim_id": "proof_mobile_viewport",
+        "category": "conversion",
+        "finding": "Mobile viewport configured: True",
+        "evidence_type": "dom_selector",
+        "proof_reference": "meta[name='viewport']",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_1",
+        "category": "market_intelligence",
+        "finding": "Live source citation: Dazzle Dental Clinic, Turner Road, Mumbai - Justdial",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.justdial.com/Mumbai/Dazzle-Dental-Clinic-Bandra-West/022P1228998730C9V3Z3_BZDET",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_2",
+        "category": "market_intelligence",
+        "finding": "Live source citation: Dazzle Dental Clinic Reviews, Turner Road, Mumbai - 954 ...",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.justdial.com/Mumbai/Dazzle-Dental-Clinic-Turner-Road/022P1228998730C9V3Z3_BZDET/reviews",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_3",
+        "category": "market_intelligence",
+        "finding": "Live source citation: Dazzle Dental Clinic Near Me in Bandra West, Mumbai - PractoDAZZLE DENTAL CLINIC - Reviews, Photos & Phone Number (2026 ...Dazzle Dental Clinic - Dental clinic - Mumbai - Maharashtra ...Dr. Rajesh Shetty'S Dazzle Dental Clinic - Bandra - MumbaiDr. Fauzia Khimani Naaz (Dazzle Dental Clinic), Bandra West ...",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.practo.com/mumbai/clinic/dazzle-dental-clinic-khar-west",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      }
+    ],
+    "artifacts": [
+      {
+        "artifact_type": "mobile_screenshot",
+        "uri_or_path": "data/screenshots/DazzleDentalClinic.png",
+        "verified": true,
+        "details": {
+          "viewport": "390x844 iPhone 14"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.justdial.com/Mumbai/Dazzle-Dental-Clinic-Bandra-West/022P1228998730C9V3Z3_BZDET",
+        "verified": true,
+        "details": {
+          "title": "Dazzle Dental Clinic, Turner Road, Mumbai - Justdial"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.justdial.com/Mumbai/Dazzle-Dental-Clinic-Turner-Road/022P1228998730C9V3Z3_BZDET/reviews",
+        "verified": true,
+        "details": {
+          "title": "Dazzle Dental Clinic Reviews, Turner Road, Mumbai - 954 ..."
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.practo.com/mumbai/clinic/dazzle-dental-clinic-khar-west",
+        "verified": true,
+        "details": {
+          "title": "Dazzle Dental Clinic Near Me in Bandra West, Mumbai - PractoDAZZLE DENTAL CLINIC - Reviews, Photos & Phone Number (2026 ...Dazzle Dental Clinic - Dental clinic - Mumbai - Maharashtra ...Dr. Rajesh Shetty'S Dazzle Dental Clinic - Bandra - MumbaiDr. Fauzia Khimani Naaz (Dazzle Dental Clinic), Bandra West ..."
+        }
+      }
+    ],
+    "verified_at": "2026-10-27T16:05:07.126322Z"
+  },
+  "handoff_trace": [
+    {
+      "handoff_id": "hnd_d56d55aa",
+      "source_agent": "scout_agent",
+      "target_agent": "researcher_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:05:07.126579Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "Dazzle Dental Clinic",
+        "business_type": "Cosmetic Dentistry & Implants"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_a08e8f26",
+      "source_agent": "researcher_agent",
+      "target_agent": "auditor_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:05:07.126691Z",
+      "status": "validated",
+      "payload": {
+        "website": "https://www.dazzle.dental/",
+        "company_name": "Dazzle Dental Clinic"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_302efb79",
+      "source_agent": "auditor_agent",
+      "target_agent": "conversion_strategist_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:05:07.126757Z",
+      "status": "validated",
+      "payload": {
+        "load_time": 1.41,
+        "key_flaws": []
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_9e46b7f4",
+      "source_agent": "conversion_strategist_agent",
+      "target_agent": "copywriter_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:05:07.126856Z",
+      "status": "validated",
+      "payload": {
+        "quantified_loss": "Minor friction in mobile speed and search visibility",
+        "hook": "Help Dazzle Dental Clinic eliminate 20-30% platform commission with automated direct WhatsApp ordering."
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_f24ee54e",
+      "source_agent": "copywriter_agent",
+      "target_agent": "paperclip_approval_gate",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:05:07.127035Z",
+      "status": "validated",
+      "payload": {
+        "whatsapp_pitch": "Hi team Dazzle Dental Clinic, love what you've built in Turner Road, Bandra West, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+        "qualified": true
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    }
+  ],
+  "created_at": "2026-10-27T16:05:07.127218Z",
+  "updated_at": "2026-10-27T16:05:07.127330Z"
+}

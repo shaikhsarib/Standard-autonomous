@@ -1,0 +1,291 @@
+{
+  "id": "lead_8aa997f027cd",
+  "profile": {
+    "company_name": "Hiranandani Communities",
+    "business_type": "Commercial Real Estate & Tech Parks",
+    "location": "Powai, Mumbai",
+    "phone": "+91 22 2576 6600",
+    "email": null,
+    "website": "https://www.hiranandani.com/",
+    "has_website": true,
+    "address": null,
+    "rating": "4.8",
+    "source": "manual",
+    "source_url": null,
+    "vertical": "general",
+    "pain_points": [],
+    "growth_goals": [],
+    "created_at": "2026-10-27T16:07:08.037508Z"
+  },
+  "status": "discovered",
+  "audit": {
+    "load_time_seconds": 0.74,
+    "has_ssl": true,
+    "is_mobile_responsive": true,
+    "has_whatsapp_widget": false,
+    "has_online_booking": true,
+    "key_flaws": [
+      "No instant WhatsApp ordering/inquiry widget on landing page"
+    ],
+    "quantified_loss": "Losing high-intent general clients weekly due to high friction in contact method",
+    "screenshot_path": "data/screenshots/HiranandaniCommunities.png",
+    "audited_at": "2026-10-27T16:07:17.241962Z"
+  },
+  "draft": {
+    "whatsapp_message": "Hi team Hiranandani Communities, love what you've built in Powai, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+    "email_subject": "Quick question regarding Hiranandani Communities's customer flow",
+    "email_body": "Hi Team Hiranandani Communities,\n\nLoved checking out your business in Powai, Mumbai. We specialize in adding automated instant WhatsApp lead capture to existing websites to boost conversion by 30%.\n\nWould you be open to seeing a 2-minute video preview of how it would work for Hiranandani Communities?\n\nWarm regards,\nGrowth & Tech Team",
+    "pain_points": [
+      "No instant WhatsApp ordering/inquiry widget on landing page"
+    ],
+    "business_loss": "Losing prospective customers who don't get immediate replies"
+  },
+  "contact_name": null,
+  "contact_email": null,
+  "budget": null,
+  "interest_level": null,
+  "summary": "Hi team Hiranandani Communities, love what you've built in Powai, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+  "qualified": true,
+  "contacted_channels": [],
+  "last_contacted_at": null,
+  "conversation_history": [],
+  "meeting_link": null,
+  "research": {
+    "market_overview": "Competitive local market for Commercial Real Estate & Tech Parks in Powai, Mumbai.",
+    "target_demographics": "Urban consumers in Powai, Mumbai needing fast service.",
+    "top_customer_complaints": [
+      "Manual phone order coordination during peak rush hours",
+      "No 1-click WhatsApp instant reservation system"
+    ],
+    "competitors": [
+      {
+        "competitor_name": "Leading Commercial Real Estate & Tech Parks in Powai, Mumbai",
+        "strength": "High review volume",
+        "weakness": "Lacks direct booking"
+      }
+    ],
+    "untapped_revenue_opportunities": [
+      "Direct WhatsApp ordering to retain 20-30% margins from aggregators",
+      "Automated appointment reminders to prevent no-shows"
+    ],
+    "recommended_hook": "Help Hiranandani Communities eliminate 20-30% platform commission with automated direct WhatsApp ordering.",
+    "citations": [
+      {
+        "title": "Hiranandani Communities Reviews in Powai, Mumbai - Justdial",
+        "url": "https://www.justdial.com/Mumbai/Hiranandani-Communities-Opp-Galaria-Powai/022PXX22-XX22-170302115006-S3Q1_BZDET/reviews",
+        "snippet": "Hiranandani Communities in Powai, Mumbai currently holds an average rating of 4.4 based on user reviews. Checking reviews before visiting or availing services is always helpful, as it gives you access to real customer perspectives."
+      },
+      {
+        "title": "Hiranandani Communities Reviews in Hiranandani-Powai, Mumbai",
+        "url": "https://www.justdial.com/Mumbai/Hiranandani-Communities-Hiranandani-Garden-Hiranandani-Powai/022PXX22-XX22-180731202200-Q9I9_BZDET/reviews",
+        "snippet": "Hiranandani Communities in Hiranandani-Powai, Mumbai currently holds an average rating of 4.1 based on user reviews. Checking reviews before visiting or availing services is always helpful, as it gives you access to real customer perspectives. While "
+      },
+      {
+        "title": "Hiranandani Communities Reviews: Customer Reviews & Ratings",
+        "url": "https://www.mouthshut.com/builders-and-developers/hiranandani-communities-reviews-925927290",
+        "snippet": "Read genuine reviews for Hiranandani Communities. Explore customer experiences, project details, pricing, amenities, and overall satisfaction with this developer."
+      }
+    ],
+    "evidence_verified": true,
+    "treg_enrichment": {
+      "lead_id": "Hiranandani Communities",
+      "owner_or_director_name": "Managing Director / Proprietor",
+      "verified_whatsapp": true,
+      "gstin_or_registration": null,
+      "tools_invoked": [
+        "verify_whatsapp",
+        "search_director"
+      ],
+      "total_tool_cost_usd": 0.0
+    }
+  },
+  "pstack_proof": {
+    "business_name": "Hiranandani Communities",
+    "total_claims": 7,
+    "verified_claims": 7,
+    "proof_score_percentage": 100.0,
+    "claims": [
+      {
+        "claim_id": "proof_ssl_active",
+        "category": "security",
+        "finding": "Valid HTTPS encryption verified",
+        "evidence_type": "live_http_probe",
+        "proof_reference": "https://www.hiranandani.com/",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_page_speed",
+        "category": "performance",
+        "finding": "Observed Time-to-First-Byte + DOM load: 0.74s",
+        "evidence_type": "live_http_probe",
+        "proof_reference": "https://www.hiranandani.com/",
+        "reproducibility_command": "curl -o /dev/null -s -w 'Time: %{time_total}s' https://www.hiranandani.com/",
+        "is_verified": true,
+        "pstack_status": "OPTIMAL"
+      },
+      {
+        "claim_id": "proof_mobile_viewport",
+        "category": "conversion",
+        "finding": "Mobile viewport configured: True",
+        "evidence_type": "dom_selector",
+        "proof_reference": "meta[name='viewport']",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_no_wa_widget",
+        "category": "conversion",
+        "finding": "Absence of 1-click WhatsApp lead CTA on landing view",
+        "evidence_type": "dom_selector",
+        "proof_reference": "a[href*='wa.me'], a[href*='whatsapp.com']",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_1",
+        "category": "market_intelligence",
+        "finding": "Live source citation: Hiranandani Communities Reviews in Powai, Mumbai - Justdial",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.justdial.com/Mumbai/Hiranandani-Communities-Opp-Galaria-Powai/022PXX22-XX22-170302115006-S3Q1_BZDET/reviews",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_2",
+        "category": "market_intelligence",
+        "finding": "Live source citation: Hiranandani Communities Reviews in Hiranandani-Powai, Mumbai",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.justdial.com/Mumbai/Hiranandani-Communities-Hiranandani-Garden-Hiranandani-Powai/022PXX22-XX22-180731202200-Q9I9_BZDET/reviews",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_3",
+        "category": "market_intelligence",
+        "finding": "Live source citation: Hiranandani Communities Reviews: Customer Reviews & Ratings",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.mouthshut.com/builders-and-developers/hiranandani-communities-reviews-925927290",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      }
+    ],
+    "artifacts": [
+      {
+        "artifact_type": "mobile_screenshot",
+        "uri_or_path": "data/screenshots/HiranandaniCommunities.png",
+        "verified": true,
+        "details": {
+          "viewport": "390x844 iPhone 14"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.justdial.com/Mumbai/Hiranandani-Communities-Opp-Galaria-Powai/022PXX22-XX22-170302115006-S3Q1_BZDET/reviews",
+        "verified": true,
+        "details": {
+          "title": "Hiranandani Communities Reviews in Powai, Mumbai - Justdial"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.justdial.com/Mumbai/Hiranandani-Communities-Hiranandani-Garden-Hiranandani-Powai/022PXX22-XX22-180731202200-Q9I9_BZDET/reviews",
+        "verified": true,
+        "details": {
+          "title": "Hiranandani Communities Reviews in Hiranandani-Powai, Mumbai"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.mouthshut.com/builders-and-developers/hiranandani-communities-reviews-925927290",
+        "verified": true,
+        "details": {
+          "title": "Hiranandani Communities Reviews: Customer Reviews & Ratings"
+        }
+      }
+    ],
+    "verified_at": "2026-10-27T16:07:47.290260Z"
+  },
+  "handoff_trace": [
+    {
+      "handoff_id": "hnd_cf5c9647",
+      "source_agent": "scout_agent",
+      "target_agent": "researcher_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:07:47.290523Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "Hiranandani Communities",
+        "business_type": "Commercial Real Estate & Tech Parks"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_d2672afb",
+      "source_agent": "researcher_agent",
+      "target_agent": "auditor_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:07:47.290618Z",
+      "status": "validated",
+      "payload": {
+        "website": "https://www.hiranandani.com/",
+        "company_name": "Hiranandani Communities"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_33c8773b",
+      "source_agent": "auditor_agent",
+      "target_agent": "conversion_strategist_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:07:47.290682Z",
+      "status": "validated",
+      "payload": {
+        "load_time": 0.74,
+        "key_flaws": [
+          "No instant WhatsApp ordering/inquiry widget on landing page"
+        ]
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_30d23e8d",
+      "source_agent": "conversion_strategist_agent",
+      "target_agent": "copywriter_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:07:47.290732Z",
+      "status": "validated",
+      "payload": {
+        "quantified_loss": "Losing high-intent general clients weekly due to high friction in contact method",
+        "hook": "Help Hiranandani Communities eliminate 20-30% platform commission with automated direct WhatsApp ordering."
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_171bc92f",
+      "source_agent": "copywriter_agent",
+      "target_agent": "paperclip_approval_gate",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:07:47.290772Z",
+      "status": "validated",
+      "payload": {
+        "whatsapp_pitch": "Hi team Hiranandani Communities, love what you've built in Powai, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+        "qualified": true
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    }
+  ],
+  "created_at": "2026-10-27T16:07:47.290900Z",
+  "updated_at": "2026-10-27T16:07:47.291040Z"
+}

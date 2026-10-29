@@ -1,0 +1,12 @@
+2026-10-13 14:41:08,839 - INFO - Google Maps search: 'medical store in Mumbai'
+2026-10-13 14:41:08,844 - INFO - ====== WebDriver manager ======
+2026-10-13 14:41:11,278 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:41:11,714 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:41:11,977 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 14:41:24,820 - INFO -   Found 18 listing links
+2026-10-13 14:41:33,619 - INFO -   [NO WEBSITE] Babulnath Medical Stores | phone=8201764216 | rating=5.0
+2026-10-13 14:41:41,212 - INFO -   [NO WEBSITE] Reliable Medical Store | phone=8201764216 | rating=4.4
+2026-10-13 14:41:48,181 - INFO -   [NO WEBSITE] Bandra Medical Stores | phone=8201764216 | rating=4.3
+2026-10-13 14:41:55,057 - INFO -   [NO WEBSITE] Shree Damodar Medical Store | phone=8201764216 | rating=3.2
+2026-10-13 14:42:01,751 - INFO -   [NO WEBSITE] Shree Rajaram Medical Store | phone=8201764216 | rating=4.7
+2026-10-13 14:42:05,176 - INFO -   Total no-website businesses: 5/5 requested

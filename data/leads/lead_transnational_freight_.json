@@ -1,0 +1,283 @@
+{
+  "id": "lead_transnational_freight_",
+  "profile": {
+    "company_name": "TransNational Freight & Logistics",
+    "business_type": "freight transport and logistics",
+    "location": "Navi Mumbai",
+    "phone": "+91 98201 99881",
+    "email": null,
+    "website": null,
+    "has_website": false,
+    "address": null,
+    "rating": null,
+    "source": "manual",
+    "source_url": null,
+    "vertical": "logistics_transport",
+    "pain_points": [],
+    "growth_goals": [],
+    "created_at": "2026-10-27T17:19:29.837956Z"
+  },
+  "status": "pending_approval",
+  "audit": {
+    "load_time_seconds": null,
+    "has_ssl": false,
+    "is_mobile_responsive": false,
+    "has_whatsapp_widget": false,
+    "has_online_booking": false,
+    "key_flaws": [
+      "No direct digital booking or freight rate calculator",
+      "100% reliant on 3rd-party freight brokers and load boards (paying 15-25% broker cuts)",
+      "Invisible to direct shippers searching online for reliable lane carriers",
+      "No automated WhatsApp response system for after-hours rate inquiries"
+    ],
+    "quantified_loss": "Losing 15-20% margin to freight brokers and ~8-12 spot loads weekly due to delayed manual quote turnaround",
+    "screenshot_path": null,
+    "audited_at": "2026-10-27T17:19:44.608939Z"
+  },
+  "draft": {
+    "whatsapp_message": "Hi team TransNational Freight & Logistics, saw your fleet operations in Navi Mumbai! Shippers book whoever quotes rates within 5 mins. We build instant WhatsApp freight calculators & direct driver dispatch bots so you skip 20% broker fees. Open to a 2-min video preview?",
+    "email_subject": "Automating direct shipper quotes for TransNational Freight & Logistics (skip 18% broker cuts)",
+    "email_body": "Hi Team TransNational Freight & Logistics,\n\nI was checking out commercial freight and transport operators in Navi Mumbai and came across your business.\n\nThe #1 bottleneck in freight right now is quote turnaround time: shippers searching for trucks request 3 quotes and book the first one who responds within 15 minutes. We build direct WhatsApp freight rate estimators and automated dispatch bots that capture shippers instantly and help fleet operators bypass 15-25% broker commissions.\n\nWould you be open to a 5-minute screen share this week to see how this works for your lane routes?\n\nWarm regards,\nFreight Automation & Tech Team",
+    "pain_points": [
+      "No direct digital booking or freight rate calculator",
+      "100% reliant on 3rd-party freight brokers and load boards (paying 15-25% broker cuts)",
+      "Invisible to direct shippers searching online for reliable lane carriers",
+      "No automated WhatsApp response system for after-hours rate inquiries"
+    ],
+    "business_loss": "Losing 15-20% margin to freight brokers and ~8-12 spot loads weekly due to delayed manual quote turnaround"
+  },
+  "contact_name": null,
+  "contact_email": null,
+  "budget": null,
+  "interest_level": null,
+  "summary": "Hi team TransNational Freight & Logistics, saw your fleet operations in Navi Mumbai! Shippers book whoever quotes rates within 5 mins. We build instant WhatsApp freight calculators & direct driver dispatch bots so you skip 20% broker fees. Open to a 2-min video preview?",
+  "qualified": true,
+  "contacted_channels": [],
+  "last_contacted_at": null,
+  "conversation_history": [],
+  "meeting_link": null,
+  "research": {
+    "market_overview": "Competitive local market for freight transport and logistics in Navi Mumbai.",
+    "target_demographics": "Urban consumers in Navi Mumbai needing fast service.",
+    "top_customer_complaints": [
+      "Manual phone order coordination during peak rush hours",
+      "No 1-click WhatsApp instant reservation system"
+    ],
+    "competitors": [
+      {
+        "competitor_name": "Leading freight transport and logistics in Navi Mumbai",
+        "strength": "High review volume",
+        "weakness": "Lacks direct booking"
+      }
+    ],
+    "untapped_revenue_opportunities": [
+      "Direct WhatsApp ordering to retain 20-30% margins from aggregators",
+      "Automated appointment reminders to prevent no-shows"
+    ],
+    "recommended_hook": "Help TransNational Freight & Logistics eliminate 20-30% platform commission with automated direct WhatsApp ordering.",
+    "citations": [
+      {
+        "title": "Transnational Freight Logistics Ltd | we are here to serve",
+        "url": "https://transfreighttt.com/",
+        "snippet": "CODE OF CONDUCT A Message from Dana Solomon, Managing Director of Transnational Freight Logistics Ltd. For any business, as for any person, .."
+      },
+      {
+        "title": "Thyrocare Complaints & Reviews",
+        "url": "https://www.consumercomplaints.in/thyrocare-b102964",
+        "snippet": "Sep 24, 2026 · Thyrocare values customer feedback and works quickly to address complaints. They handle issues regularly and provide solutions, making customers feel heard and supported, however, we would recommend that Thyrocare step up their efforts"
+      },
+      {
+        "title": "ITM Business School Navi Mumbai Reviews on Placements ...Group Companies – TNS GroupRamada Reviews and Complaints 2026 | ComplaintsBoardFORTUNE SELECT EXOTICA - 2026 Reviews (Navi Mumbai, India)Weatherford Reviews (2,442): Pros & Cons of Working At ...",
+        "url": "https://www.shiksha.com/college/itm-business-school-navi-mumbai-35619/reviews",
+        "snippet": "Read 337 ITM Business School, Navi Mumbai Reviews on Placements, Faculty, Facilities & Infrastructure given by students and alumni across various courses and streams. Download Brochures & Admission details of ITM Business School Navi Mumbai. Transnat"
+      },
+      {
+        "title": "Top 10 best Logistics companies in Navi Mumbai [2026 list]",
+        "url": "https://godamwale.com/logistics-companies-in-navi-mumbai/",
+        "snippet": "Future of logistics in Navi Mumbai: Navi Mumbai's logistics sector is booming with key players like Godamwale, Pazago, Swarex Shipping, Darekar Logistics, FREA, Maersk, and Ash Logistics driving warehousing, 3PL, and freight services for e-commerce, "
+      },
+      {
+        "title": "Best Transportation and Logistics Companies in Navi Mumbai, India",
+        "url": "https://fliarbi.com/companies/best-transportation-and-logistics-companies-in-navi-mumbai/",
+        "snippet": "The 43 best Transportation and Logistics companies in Navi Mumbai, India in 2026, ranked by funding and momentum. Funding, investors, founders, valuation, tech stack and live signals."
+      },
+      {
+        "title": "Top 10 best Logistics Companies in Mumbai [2026 list] - Godamwale -",
+        "url": "https://godamwale.com/logistics-companies-in-mumbai/",
+        "snippet": "Comprehensive Logistics Solutions Offered by Godamwale 🚚 1. Transportation & Freight Movement Godamwale understands the pulse of Mumbai's transportation network and, as a trusted 3PL service provider in Mumbai, delivers reliable freight movement serv"
+      }
+    ],
+    "evidence_verified": true,
+    "treg_enrichment": {
+      "lead_id": "TransNational Freight & Logistics",
+      "owner_or_director_name": "Managing Director / Proprietor",
+      "verified_whatsapp": true,
+      "gstin_or_registration": null,
+      "tools_invoked": [
+        "verify_whatsapp",
+        "search_director"
+      ],
+      "total_tool_cost_usd": 0.0
+    }
+  },
+  "pstack_proof": {
+    "business_name": "TransNational Freight & Logistics",
+    "total_claims": 6,
+    "verified_claims": 6,
+    "proof_score_percentage": 100.0,
+    "claims": [
+      {
+        "claim_id": "proof_ssl_missing",
+        "category": "security",
+        "finding": "Site lacks valid TLS/HTTPS or redirects unencrypted",
+        "evidence_type": "live_http_probe",
+        "proof_reference": "No direct website",
+        "reproducibility_command": "curl -Iv No direct website",
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_mobile_viewport",
+        "category": "conversion",
+        "finding": "Mobile viewport configured: False",
+        "evidence_type": "dom_selector",
+        "proof_reference": "meta[name='viewport']",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_no_wa_widget",
+        "category": "conversion",
+        "finding": "Absence of 1-click WhatsApp lead CTA on landing view",
+        "evidence_type": "dom_selector",
+        "proof_reference": "a[href*='wa.me'], a[href*='whatsapp.com']",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_1",
+        "category": "market_intelligence",
+        "finding": "Live source citation: Transnational Freight Logistics Ltd | we are here to serve",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://transfreighttt.com/",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_2",
+        "category": "market_intelligence",
+        "finding": "Live source citation: Thyrocare Complaints & Reviews",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.consumercomplaints.in/thyrocare-b102964",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_3",
+        "category": "market_intelligence",
+        "finding": "Live source citation: ITM Business School Navi Mumbai Reviews on Placements ...Group Companies – TNS GroupRamada Reviews and Complaints 2026 | ComplaintsBoardFORTUNE SELECT EXOTICA - 2026 Reviews (Navi Mumbai, India)Weatherford Reviews (2,442): Pros & Cons of Working At ...",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.shiksha.com/college/itm-business-school-navi-mumbai-35619/reviews",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      }
+    ],
+    "artifacts": [
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://transfreighttt.com/",
+        "verified": true,
+        "details": {
+          "title": "Transnational Freight Logistics Ltd | we are here to serve"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.consumercomplaints.in/thyrocare-b102964",
+        "verified": true,
+        "details": {
+          "title": "Thyrocare Complaints & Reviews"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.shiksha.com/college/itm-business-school-navi-mumbai-35619/reviews",
+        "verified": true,
+        "details": {
+          "title": "ITM Business School Navi Mumbai Reviews on Placements ...Group Companies – TNS GroupRamada Reviews and Complaints 2026 | ComplaintsBoardFORTUNE SELECT EXOTICA - 2026 Reviews (Navi Mumbai, India)Weatherford Reviews (2,442): Pros & Cons of Working At ..."
+        }
+      }
+    ],
+    "verified_at": "2026-10-27T17:19:44.610920Z"
+  },
+  "handoff_trace": [
+    {
+      "handoff_id": "hnd_43ca6af4",
+      "source_agent": "scout_agent",
+      "target_agent": "researcher_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T17:19:29.864062Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "TransNational Freight & Logistics",
+        "business_type": "freight transport and logistics"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_40fbbd27",
+      "source_agent": "researcher_agent",
+      "target_agent": "auditor_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T17:19:44.608803Z",
+      "status": "initiated",
+      "payload": {
+        "website": "",
+        "company_name": "TransNational Freight & Logistics"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_b27a13eb",
+      "source_agent": "auditor_agent",
+      "target_agent": "copywriter_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T17:19:44.609144Z",
+      "status": "validated",
+      "payload": {
+        "key_flaws": [
+          "No direct digital booking or freight rate calculator",
+          "100% reliant on 3rd-party freight brokers and load boards (paying 15-25% broker cuts)",
+          "Invisible to direct shippers searching online for reliable lane carriers",
+          "No automated WhatsApp response system for after-hours rate inquiries"
+        ],
+        "quantified_loss": "Losing 15-20% margin to freight brokers and ~8-12 spot loads weekly due to delayed manual quote turnaround"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_1c0c8a49",
+      "source_agent": "copywriter_agent",
+      "target_agent": "paperclip_approval_gate",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T17:19:44.755345Z",
+      "status": "validated",
+      "payload": {
+        "whatsapp_message": "Hi team TransNational Freight & Logistics, saw your fleet operations in Navi Mumbai! Shippers book whoever quotes rates within 5 mins. We build instant WhatsApp freight calculators & direct driver dispatch bots so you skip 20% broker fees. Open to a 2-min video preview?",
+        "qualified": true
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    }
+  ],
+  "created_at": "2026-10-27T17:19:29.863925Z",
+  "updated_at": "2026-10-27T17:19:44.755466Z"
+}

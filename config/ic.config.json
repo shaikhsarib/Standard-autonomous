@@ -1,0 +1,108 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "company": {
+    "name": "IC Central Agency",
+    "shortName": "IC",
+    "mission": "Autonomous Commercial Corridor Lead Generation & SDR Swarm",
+    "issuePrefix": "IC",
+    "monthlyBudgetCents": 100000,
+    "defaultResponsibleUser": "local-board"
+  },
+  "runtime": {
+    "stack": "all-in-one",
+    "ports": {
+      "coreApi": 8000,
+      "paperclipEngine": 3100,
+      "reactStudio": 5173,
+      "postgres": 54329
+    },
+    "llmEngines": {
+      "fastOutreach": {
+        "provider": "groq",
+        "model": "llama-3.3-70b-versatile"
+      },
+      "deepReasoning": {
+        "provider": "nvidia_nim",
+        "model": "meta/llama-3.3-70b-instruct"
+      }
+    }
+  },
+  "tools": {
+    "scout": {
+      "engine": "gosom/google-maps-scraper",
+      "costPerLead": 0.0,
+      "concurrencyLimit": 4
+    },
+    "stealthReviews": {
+      "engine": "d4vinci/Scrapling",
+      "costPerLead": 0.0,
+      "antiBot": true
+    },
+    "siteAudit": {
+      "engine": "firecrawl/firecrawl",
+      "format": "markdown",
+      "detectWidgets": ["whatsapp", "quote_calculator", "booking_form"]
+    },
+    "toolGateway": {
+      "engine": "superdesigndev/treg",
+      "maxCostUsdPerCall": 0.01,
+      "vault": "sqlite_local"
+    }
+  },
+  "workforce": [
+    {
+      "id": "agent-scout",
+      "name": "Scout & Intel Lead",
+      "role": "Corridor Discovery",
+      "allowedTools": ["gosom", "scrapling"],
+      "actionPolicy": "allow_autonomous"
+    },
+    {
+      "id": "agent-auditor",
+      "name": "REA Technical Auditor",
+      "role": "Mobile TTFB & Site Audit",
+      "allowedTools": ["firecrawl", "rea_probe"],
+      "actionPolicy": "allow_autonomous"
+    },
+    {
+      "id": "agent-research",
+      "name": "HyperResearch Specialist",
+      "role": "Customer Complaint & Revenue Leak Miner",
+      "allowedTools": ["scrapling", "treg", "nvidia_nim"],
+      "actionPolicy": "allow_autonomous"
+    },
+    {
+      "id": "agent-copywriter",
+      "name": "Direct-Response Copywriter",
+      "role": "Zero-Hallucination Pitch Synthesis",
+      "allowedTools": ["groq_fast"],
+      "actionPolicy": "allow_autonomous"
+    },
+    {
+      "id": "agent-closer",
+      "name": "Hermes Closer SDR",
+      "role": "Inbound Objection Handling & Dispatch",
+      "allowedTools": ["whatsapp", "email"],
+      "actionPolicy": "ask_human_approval_required"
+    },
+    {
+      "id": "agent-breaker",
+      "name": "Paperclip Circuit Breaker",
+      "role": "ECC AgentShield Cost & Rate Governor",
+      "allowedTools": ["ecc_shield"],
+      "actionPolicy": "strict_enforcement"
+    }
+  ],
+  "governance": {
+    "eccAgentShield": {
+      "gate1_stealthCompliance": true,
+      "gate2_zeroHallucinationClaims": true,
+      "gate3_piiQuarantine": true,
+      "gate4_costCircuitBreakerUsd": 0.01
+    },
+    "approvalDefaults": {
+      "outboundPitch": "always_ask",
+      "newAgentSpawn": "board_approval_required"
+    }
+  }
+}

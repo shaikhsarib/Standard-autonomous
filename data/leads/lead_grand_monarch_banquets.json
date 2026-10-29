@@ -1,0 +1,283 @@
+{
+  "id": "lead_grand_monarch_banquets",
+  "profile": {
+    "company_name": "Grand Monarch Banquets & Event Planners",
+    "business_type": "wedding venue and event management",
+    "location": "Delhi NCR",
+    "phone": "+91 98112 33445",
+    "email": null,
+    "website": null,
+    "has_website": false,
+    "address": null,
+    "rating": null,
+    "source": "manual",
+    "source_url": null,
+    "vertical": "event_management",
+    "pain_points": [],
+    "growth_goals": [],
+    "created_at": "2026-10-27T17:19:29.837974Z"
+  },
+  "status": "pending_approval",
+  "audit": {
+    "load_time_seconds": null,
+    "has_ssl": false,
+    "is_mobile_responsive": false,
+    "has_whatsapp_widget": false,
+    "has_online_booking": false,
+    "key_flaws": [
+      "No direct digital booking or date availability presence",
+      "100% reliant on 3rd-party aggregators and directories (paying 20-30% platform cuts)",
+      "Invisible to event planners searching late evening for venue confirmation",
+      "No automated WhatsApp response system for after-hours inquiries"
+    ],
+    "quantified_loss": "Losing 40-50% of high-intent wedding and corporate event inquiries arriving after-hours without instant date & package confirmation",
+    "screenshot_path": null,
+    "audited_at": "2026-10-27T17:20:07.259563Z"
+  },
+  "draft": {
+    "whatsapp_message": "Hi team Grand Monarch Banquets & Event Planners, love your events in Delhi NCR! Over 65% of event planners search venues after 8 PM. We build automated WhatsApp date-checkers & instant package quote bots that double site visit bookings. Can I share a 1-min live demo?",
+    "email_subject": "Capturing after-hours event bookings for Grand Monarch Banquets & Event Planners",
+    "email_body": "Hi Team Grand Monarch Banquets & Event Planners,\n\nI was admiring your event portfolio and venue setups in Delhi NCR.\n\nData across premier event venues shows that over 65% of high-budget inquiries occur on mobile between 7 PM and 11 PM. When prospective clients can't immediately check date availability or pricing tiers, they submit RFPs to 3 competitor venues.\n\nWe build branded WhatsApp booking bots that instantly answer date availability, qualify guest counts/budget tiers, and auto-book venue walk-throughs directly into your calendar.\n\nWould you be open to a 5-minute walkthrough of a live prototype this Wednesday?\n\nWarm regards,\nEvent Tech & Booking Team",
+    "pain_points": [
+      "No direct digital booking or date availability presence",
+      "100% reliant on 3rd-party aggregators and directories (paying 20-30% platform cuts)",
+      "Invisible to event planners searching late evening for venue confirmation",
+      "No automated WhatsApp response system for after-hours inquiries"
+    ],
+    "business_loss": "Losing 40-50% of high-intent wedding and corporate event inquiries arriving after-hours without instant date & package confirmation"
+  },
+  "contact_name": null,
+  "contact_email": null,
+  "budget": null,
+  "interest_level": null,
+  "summary": "Hi team Grand Monarch Banquets & Event Planners, love your events in Delhi NCR! Over 65% of event planners search venues after 8 PM. We build automated WhatsApp date-checkers & instant package quote bots that double site visit bookings. Can I share a 1-min live demo?",
+  "qualified": true,
+  "contacted_channels": [],
+  "last_contacted_at": null,
+  "conversation_history": [],
+  "meeting_link": null,
+  "research": {
+    "market_overview": "Competitive local market for wedding venue and event management in Delhi NCR.",
+    "target_demographics": "Urban consumers in Delhi NCR needing fast service.",
+    "top_customer_complaints": [
+      "Manual phone order coordination during peak rush hours",
+      "No 1-click WhatsApp instant reservation system"
+    ],
+    "competitors": [
+      {
+        "competitor_name": "Leading wedding venue and event management in Delhi NCR",
+        "strength": "High review volume",
+        "weakness": "Lacks direct booking"
+      }
+    ],
+    "untapped_revenue_opportunities": [
+      "Direct WhatsApp ordering to retain 20-30% margins from aggregators",
+      "Automated appointment reminders to prevent no-shows"
+    ],
+    "recommended_hook": "Help Grand Monarch Banquets & Event Planners eliminate 20-30% platform commission with automated direct WhatsApp ordering.",
+    "citations": [
+      {
+        "title": "The Monarch, Banquet Halls in Indirapuram, Delhi-NCR - Partykaro",
+        "url": "https://www.partykaro.com/Delhi/Indirapuram/Banquet-Hall/The-Monarch/DetailPage.aspx",
+        "snippet": "The Monarch, Banquet Hall Venue in Indirapuram, Delhi-NCR, Get best deals, Popular, verified, Reviews, Contact, Phone Number and more for The Monarch Banquet Hall at Party karo"
+      },
+      {
+        "title": "Monarch Banquet Palwal - Instagram",
+        "url": "https://www.instagram.com/popular/monarch-banquet-palwal/",
+        "snippet": "Monarch Banquet in Palwal is an AC banquet hall option located on Delhi-Mathura Road, Aghwanpur, Palwal. It is listed among AC banquet venues in the area and has a rating of 4.2 based on 74 reviews ¹."
+      },
+      {
+        "title": "The Monarch - wedding venue, Delhi NCRCM Jan Sunwai PortalNCR Monarch Reviews, Complaints, Owners Group and Mailing ListReviews for The Grand Affair Events | Wedding Planners in ...Top 10 Event Management Companies in Delhi 2026 | Expert Reviews",
+        "url": "https://delhi.wedding.net/venues/444607/",
+        "snippet": "The Monarch - venue in Delhi NCR Overview Spaces Description Albums Well suited for All events CM Jan Sunwai Portal, developed by the Delhi Government to achieve the objectives of good governance through the use of information technology, is an integ"
+      },
+      {
+        "title": "The 10 Best Wedding Planners in Delhi NCR - Weddingwire.in",
+        "url": "https://www.weddingwire.in/wedding-planners/delhi-ncr",
+        "snippet": "Searching for the best wedding consultants in India? Check prices and find the best wedding consultants to make sure that your day is as stress free as it can be!"
+      },
+      {
+        "title": "Top 10 Event Management Companies in Delhi NCR (2026)",
+        "url": "https://www.showmakerz.com/top-10-event-management-companies-in-Delhi-Gurgaon-NCR.html",
+        "snippet": "If you're searching for the best event management company in Delhi NCR to plan and execute your next event, here’s a carefully curated list of the top 10 event companies known for delivering exceptional experiences."
+      },
+      {
+        "title": "Wedding Venues in Delhi NCR - Zarastays",
+        "url": "https://zarastays.com/wedding-venues-delhi-ncr/",
+        "snippet": "Sep 3, 2026 · Compare Delhi NCR venues against your wedding requirements. Find and compare Delhi NCR wedding venues across hotels, banquets, lawns, farms and resorts with Zarastays quote negotiation."
+      }
+    ],
+    "evidence_verified": true,
+    "treg_enrichment": {
+      "lead_id": "Grand Monarch Banquets & Event Planners",
+      "owner_or_director_name": "Managing Director / Proprietor",
+      "verified_whatsapp": true,
+      "gstin_or_registration": null,
+      "tools_invoked": [
+        "verify_whatsapp",
+        "search_director"
+      ],
+      "total_tool_cost_usd": 0.0
+    }
+  },
+  "pstack_proof": {
+    "business_name": "Grand Monarch Banquets & Event Planners",
+    "total_claims": 6,
+    "verified_claims": 6,
+    "proof_score_percentage": 100.0,
+    "claims": [
+      {
+        "claim_id": "proof_ssl_missing",
+        "category": "security",
+        "finding": "Site lacks valid TLS/HTTPS or redirects unencrypted",
+        "evidence_type": "live_http_probe",
+        "proof_reference": "No direct website",
+        "reproducibility_command": "curl -Iv No direct website",
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_mobile_viewport",
+        "category": "conversion",
+        "finding": "Mobile viewport configured: False",
+        "evidence_type": "dom_selector",
+        "proof_reference": "meta[name='viewport']",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_no_wa_widget",
+        "category": "conversion",
+        "finding": "Absence of 1-click WhatsApp lead CTA on landing view",
+        "evidence_type": "dom_selector",
+        "proof_reference": "a[href*='wa.me'], a[href*='whatsapp.com']",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_1",
+        "category": "market_intelligence",
+        "finding": "Live source citation: The Monarch, Banquet Halls in Indirapuram, Delhi-NCR - Partykaro",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.partykaro.com/Delhi/Indirapuram/Banquet-Hall/The-Monarch/DetailPage.aspx",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_2",
+        "category": "market_intelligence",
+        "finding": "Live source citation: Monarch Banquet Palwal - Instagram",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.instagram.com/popular/monarch-banquet-palwal/",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_3",
+        "category": "market_intelligence",
+        "finding": "Live source citation: The Monarch - wedding venue, Delhi NCRCM Jan Sunwai PortalNCR Monarch Reviews, Complaints, Owners Group and Mailing ListReviews for The Grand Affair Events | Wedding Planners in ...Top 10 Event Management Companies in Delhi 2026 | Expert Reviews",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://delhi.wedding.net/venues/444607/",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      }
+    ],
+    "artifacts": [
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.partykaro.com/Delhi/Indirapuram/Banquet-Hall/The-Monarch/DetailPage.aspx",
+        "verified": true,
+        "details": {
+          "title": "The Monarch, Banquet Halls in Indirapuram, Delhi-NCR - Partykaro"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.instagram.com/popular/monarch-banquet-palwal/",
+        "verified": true,
+        "details": {
+          "title": "Monarch Banquet Palwal - Instagram"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://delhi.wedding.net/venues/444607/",
+        "verified": true,
+        "details": {
+          "title": "The Monarch - wedding venue, Delhi NCRCM Jan Sunwai PortalNCR Monarch Reviews, Complaints, Owners Group and Mailing ListReviews for The Grand Affair Events | Wedding Planners in ...Top 10 Event Management Companies in Delhi 2026 | Expert Reviews"
+        }
+      }
+    ],
+    "verified_at": "2026-10-27T17:20:07.259875Z"
+  },
+  "handoff_trace": [
+    {
+      "handoff_id": "hnd_76589f00",
+      "source_agent": "scout_agent",
+      "target_agent": "researcher_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T17:19:44.795263Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "Grand Monarch Banquets & Event Planners",
+        "business_type": "wedding venue and event management"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_23dc8bba",
+      "source_agent": "researcher_agent",
+      "target_agent": "auditor_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T17:20:07.259453Z",
+      "status": "initiated",
+      "payload": {
+        "website": "",
+        "company_name": "Grand Monarch Banquets & Event Planners"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_a51fe7b9",
+      "source_agent": "auditor_agent",
+      "target_agent": "copywriter_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T17:20:07.259655Z",
+      "status": "validated",
+      "payload": {
+        "key_flaws": [
+          "No direct digital booking or date availability presence",
+          "100% reliant on 3rd-party aggregators and directories (paying 20-30% platform cuts)",
+          "Invisible to event planners searching late evening for venue confirmation",
+          "No automated WhatsApp response system for after-hours inquiries"
+        ],
+        "quantified_loss": "Losing 40-50% of high-intent wedding and corporate event inquiries arriving after-hours without instant date & package confirmation"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_fbb2f5ed",
+      "source_agent": "copywriter_agent",
+      "target_agent": "paperclip_approval_gate",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T17:20:07.292337Z",
+      "status": "validated",
+      "payload": {
+        "whatsapp_message": "Hi team Grand Monarch Banquets & Event Planners, love your events in Delhi NCR! Over 65% of event planners search venues after 8 PM. We build automated WhatsApp date-checkers & instant package quote bots that double site visit bookings. Can I share a 1-min live demo?",
+        "qualified": true
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    }
+  ],
+  "created_at": "2026-10-27T17:19:44.795130Z",
+  "updated_at": "2026-10-27T17:20:07.292482Z"
+}

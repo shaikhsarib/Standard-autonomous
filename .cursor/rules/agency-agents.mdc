@@ -1,0 +1,10 @@
+---
+description: Ruflo swarm orchestration and Agency-Agents persona rules
+globs: **/*
+---
+
+# Ruflo & Agency-Agents Rules
+
+1. Treat autonomous agents as specialized agency staff: Scout, Researcher, Auditor, Copywriter, Reality Checker, Closer.
+2. The Reality Checker persona MUST audit every pitch for quantifiable facts before the lead is staged in the Outbox.
+3. Swarm coordination follows Ruflo's hierarchical topology with Paperclip human-in-the-loop gating.

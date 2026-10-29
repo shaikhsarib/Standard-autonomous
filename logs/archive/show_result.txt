@@ -1,0 +1,50 @@
+﻿Total leads: 48
+
+  [restaurant          ] Umesh Hebbal,                            phone=8069874851 email=None
+  [restaurant          ] Krishna Home Tutors Moti Nagar,          phone=7783312096 email=info@krishnahometutors.com
+  [restaurant          ] Admissionvala.Com Indira Colony, Sonipat phone=7809973288 email=cocsnp@gmail.com
+  [hotel               ] Tulsi Home Stay Kandivali East,          phone=7768527346 email=tulsiinter@gmail.com
+  [hotel               ] Ramee Guestline Hotel Dadar East,        phone=8226166346 email=approvedagent@mtdchotels.com
+  [hotel               ] Sai Palace Grand Hotel Malad West,       phone=9021119574 email=None
+  [sweet shop          ] Aarti Sales Goregaon East,               phone=9198213735 email=None
+  [catering            ] Contact                                  phone=+91 9820239555 email=info@caterinc.in
+  [catering            ] Food Catering Services in Mumbai         phone=+91 9833623871 email=contactus@soulchef.in
+  [catering            ] Contact Tezz Khana Catering Service, Mum phone=None email=None
+  [clinic              ] Contact Bombay Hospital Mumbai           phone=7314771111 email=helpdesk@bombayhospital.com
+  [clinic              ] Mumbai Citiclinic                        phone=+918080713636 email=info@mumbaiclinic.com
+  [clinic              ] Mumbai Doctors Contact Directory         phone=None email=None
+  [medical store       ] Medical Shops in Mumbai, 24 hour Medical phone=None email=info@wellnessforever.in
+  [medical store       ] Maharashtra Medical & General Store in C phone=9122228128 email=None
+  [medical store       ] Medical Shops                            phone=None email=None
+  [yoga                ] Vaibhav Yoga Studio Vikhroli West,       phone=6166588284 email=vaibhav.kasare1986@gmail.com
+  [yoga                ] Hare Krishna Divine Vasai West,          phone=7494087401 email=vidyakarkera81@gmail.com
+  [yoga                ] Swapnil Arun Thorat Kalyan East,         phone=7491258556 email=swapnilthorat491@gmail.com
+  [tuition             ] Contact Us                               phone=8182832000 email=info@tuitiontutor.in
+  [tuition             ] Home Tuition Mumbai, Navi Mumbai, Thane  phone=9819872773 email=info@hometuitionmumbai.com
+  [tuition             ] Manju Tuition in Mumbai, Various Educati phone=None email=None
+  [ca firm             ] R P Sardar & Co Borivali West,           phone=8069868264 email=rpsardar@gmail.com
+  [ca firm             ] D Dalal & Associates LLP Andheri West,   phone=8069868264 email=dalaldhairya4@gmail.com
+  [ca firm             ] Ramchandra Gavade (HUF) Sion,            phone=8069868264 email=gavade.india@gmail.com
+  [event management    ] Manzil Events Mulund West,               phone=7861736362 email=chowdaryarsh@gmail.com
+  [event management    ] Aura Events Khar West,                   phone=8606806831 email=sutaranita.1486@gmail.com
+  [event management    ] Minds2Brand Mulund West,                 phone=9189769126 email=deven@minds2brand.co
+  [travel agent        ] Supreme Tours and Travels Dadar West,    phone=8069831334 email=supremetravelsmumbai@gmail.com
+  [travel agent        ] S S Travels Sewri,                       phone=8069831334 email=sunny786u@gmail.com
+  [travel agent        ] Ankur Travels Vasai West,                phone=8069831334 email=ANKURTRAVELS22@GMAIL.COM
+  [interior designer   ] Get in Touch with Expert Home Makers Int phone=None email=Info@homemakersinterior.com
+  [photographer        ] Inquire & Contact                        phone=+91 9819620484 email=photography@indirathakur.com
+  [photographer        ] Mumbai Photographer Directory            phone=None email=None
+  [photographer        ] Best Photographers in Mumbai             phone=None email=dkudvalkar@gmail.com
+  [salon               ] Contact Vous Salon Mumbai                phone=None email=connect@voussalon.com
+  [salon               ] Top 10 Salons in Mumbai                  phone=None email=None
+  [plumber             ] Faisal interior and carpenter Kurla,     phone=6576535204 email=faisalshaikh7867861@gmail.com
+  [plumber             ] Omkar Enterprise Kandivali East,         phone=8069868160 email=krishnapadwal000@gmail.com
+  [electrician         ] Bhakti Interior Decorator Bhayandar East phone=8069876623 email=bhaktiinteriordecorator79@gmail.com
+  [pest control        ] Pestcon Service Thane West,              phone=9434278521 email=sachinvakhare30@gmail.com
+  [pest control        ] Sparsh Pest Control Service Chembur,     phone=8381935281 email=None
+  [pest control        ] Sahara Pest Control Andheri East,        phone=7861241777 email=None
+  [packers movers      ] Eagle International Packers and Movers A phone=8069868420 email=eagleinterpackers@gmail.com
+  [packers movers      ] Easy Packers & Movers Alipore,           phone=7822997327 email=vinoddubey4689@gmail.com
+  [packers movers      ] M R PACKERS AND MOVERS Sion,             phone=6449460505 email=AFSARKHAN.FTP@GMAIL.COM
+  [automobile workshop ] Speed Motors Mumbai                      phone=+91 9324613813 email=speedmotorsmumbai@gmail.com
+  [automobile workshop ] Randhawa Motors                          phone=9168300500 email=workshop@randhawamotors.com

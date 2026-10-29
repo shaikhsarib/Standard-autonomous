@@ -1,0 +1,296 @@
+{
+  "id": "lead_8137a6ca3dd8",
+  "profile": {
+    "company_name": "The Dental Roots",
+    "business_type": "Dental Implant Center",
+    "location": "Sushant Lok, Gurugram / Delhi NCR",
+    "phone": "+91 96504 40098",
+    "email": null,
+    "website": "https://www.thedentalroots.com/",
+    "has_website": true,
+    "address": null,
+    "rating": "4.9",
+    "source": "manual",
+    "source_url": null,
+    "vertical": "local_services",
+    "pain_points": [],
+    "growth_goals": [],
+    "created_at": "2026-10-27T16:05:39.119409Z"
+  },
+  "status": "replied",
+  "audit": {
+    "load_time_seconds": 6.05,
+    "has_ssl": true,
+    "is_mobile_responsive": true,
+    "has_whatsapp_widget": true,
+    "has_online_booking": true,
+    "key_flaws": [
+      "Slow mobile page load (6.05s) — Google reports 53% of mobile visits abandon sites taking >3s"
+    ],
+    "quantified_loss": "Minor friction in mobile speed and search visibility",
+    "screenshot_path": "data/screenshots/TheDentalRoots.png",
+    "audited_at": "2026-10-27T16:05:54.328305Z"
+  },
+  "draft": {
+    "whatsapp_message": "Hi team The Dental Roots, love what you've built in Sushant Lok, Gurugram / Delhi NCR! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+    "email_subject": "Quick question regarding The Dental Roots's customer flow",
+    "email_body": "Hi Team The Dental Roots,\n\nLoved checking out your business in Sushant Lok, Gurugram / Delhi NCR. We specialize in adding automated instant WhatsApp lead capture to existing websites to boost conversion by 30%.\n\nWould you be open to seeing a 2-minute video preview of how it would work for The Dental Roots?\n\nWarm regards,\nGrowth & Tech Team",
+    "pain_points": [
+      "Slow mobile page load (6.05s) — Google reports 53% of mobile visits abandon sites taking >3s"
+    ],
+    "business_loss": "Losing prospective customers who don't get immediate replies"
+  },
+  "contact_name": null,
+  "contact_email": null,
+  "budget": null,
+  "interest_level": null,
+  "summary": "Hi team The Dental Roots, love what you've built in Sushant Lok, Gurugram / Delhi NCR! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+  "qualified": true,
+  "contacted_channels": [],
+  "last_contacted_at": null,
+  "conversation_history": [],
+  "meeting_link": null,
+  "research": {
+    "market_overview": "Competitive local market for Dental Implant Center in Sushant Lok, Gurugram / Delhi NCR.",
+    "target_demographics": "Urban consumers in Sushant Lok, Gurugram / Delhi NCR needing fast service.",
+    "top_customer_complaints": [
+      "Manual phone order coordination during peak rush hours",
+      "No 1-click WhatsApp instant reservation system"
+    ],
+    "competitors": [
+      {
+        "competitor_name": "Leading Dental Implant Center in Sushant Lok, Gurugram / Delhi NCR",
+        "strength": "High review volume",
+        "weakness": "Lacks direct booking"
+      }
+    ],
+    "untapped_revenue_opportunities": [
+      "Direct WhatsApp ordering to retain 20-30% margins from aggregators",
+      "Automated appointment reminders to prevent no-shows"
+    ],
+    "recommended_hook": "Help The Dental Roots eliminate 20-30% platform commission with automated direct WhatsApp ordering.",
+    "citations": [
+      {
+        "title": "The Dental Roots, Sushant Lok Phase 3, Gurgaon - Justdial",
+        "url": "https://www.justdial.com/Gurgaon/The-Dental-Roots-Near-Galleria-Market-Sushant-Lok-Phase-3/011PXX11-XX11-091226102515-U9A2_BZDET",
+        "snippet": "Find Address, Contact Number, Reviews & Ratings, Photos, Maps of The Dental Roots, Gurgaon, Delhi. Welcome to The Dental Roots, an advanced dental clinic with world-class facilities located in New Delhi and Gurgaon."
+      },
+      {
+        "title": "The Dental Roots Near Me in Sushant Lok I, Gurgaon - PractoThe Dental Roots, Dentist in Gurgaon: 4.7★ ReviewsPatient Testimonials & Reviews | The Dental RootsThe Dental Roots Sushant Lok, Gurugram, HaryanaThe Dental Roots, A – 738, Sushant Lok 1 Rd, फ़ोन +91 96504 40004The Dental Roots Rating, Medical Services - localcircles.com",
+        "url": "https://www.practo.com/gurgaon/clinic/the-dental-roots-sarvapriya-vihar-1",
+        "snippet": "8 Doctors in The Dental Roots, multi-speciality Clinic, Sushant Lok I, Gurgaon. Get details of top doctors, OPD timings, consultation fees, treatment, reviews & ratings from patients, phone number, address. Book an appointment for personalized care. "
+      },
+      {
+        "title": "The Dental Roots, Dentist in Gurgaon: 4.7★ Reviews",
+        "url": "https://zospital.com/doctor/the-dental-roots",
+        "snippet": "The Dental Roots · Dentist in A – 738, Gurgaon. 4.7★ (375 reviews). Open Mon-Sat. Book on WhatsApp via Zospital."
+      },
+      {
+        "title": "dental clinic sector 43 gurgaon - Welcome To Muskaan Dentals",
+        "url": "https://muskaandentals.com/dental-clinic-sector-43-gurgaon/",
+        "snippet": "As Gurugram’s 1st NABH Accredited dental chain, our Sector 43 clinic is directly headed by Dr. Suresh Ahlawat (BDS, MDS, DNB USA) — one of India’s most respected implantologists, trained in dental implants in France, Korea, Europe, China & Bangkok."
+      },
+      {
+        "title": "Contact The Dental Roots | Clinics in Gurgaon & Delhi",
+        "url": "https://www.thedentalroots.com/contact-us",
+        "snippet": "Book an appointment or reach out to us at any of our three premium clinics across Delhi & Gurugram. The Dental Roots runs clinics across Gurgaon and South Delhi, so wherever you're coming from, there's likely a location close to you. Golf Course Road"
+      },
+      {
+        "title": "GP Dental | Best Dentists in India",
+        "url": "https://www.thegpdental.com/",
+        "snippet": "Led by Dr. Sushant Bajaj (Prosthodontist & Implantologist) & Dr. Neetisha Yadav - specialising in Oral Surgical Procedures, our clinic has helped thousands of patients worldwide regain proper chewing and enjoy the taste of their favourite foods again"
+      }
+    ],
+    "evidence_verified": true,
+    "treg_enrichment": {
+      "lead_id": "The Dental Roots",
+      "owner_or_director_name": "Managing Director / Proprietor",
+      "verified_whatsapp": true,
+      "gstin_or_registration": null,
+      "tools_invoked": [
+        "verify_whatsapp",
+        "search_director"
+      ],
+      "total_tool_cost_usd": 0.0
+    }
+  },
+  "pstack_proof": {
+    "business_name": "The Dental Roots",
+    "total_claims": 6,
+    "verified_claims": 6,
+    "proof_score_percentage": 100.0,
+    "claims": [
+      {
+        "claim_id": "proof_ssl_active",
+        "category": "security",
+        "finding": "Valid HTTPS encryption verified",
+        "evidence_type": "live_http_probe",
+        "proof_reference": "https://www.thedentalroots.com/",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_page_speed",
+        "category": "performance",
+        "finding": "Observed Time-to-First-Byte + DOM load: 6.05s",
+        "evidence_type": "live_http_probe",
+        "proof_reference": "https://www.thedentalroots.com/",
+        "reproducibility_command": "curl -o /dev/null -s -w 'Time: %{time_total}s' https://www.thedentalroots.com/",
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_mobile_viewport",
+        "category": "conversion",
+        "finding": "Mobile viewport configured: True",
+        "evidence_type": "dom_selector",
+        "proof_reference": "meta[name='viewport']",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_1",
+        "category": "market_intelligence",
+        "finding": "Live source citation: The Dental Roots, Sushant Lok Phase 3, Gurgaon - Justdial",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.justdial.com/Gurgaon/The-Dental-Roots-Near-Galleria-Market-Sushant-Lok-Phase-3/011PXX11-XX11-091226102515-U9A2_BZDET",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_2",
+        "category": "market_intelligence",
+        "finding": "Live source citation: The Dental Roots Near Me in Sushant Lok I, Gurgaon - PractoThe Dental Roots, Dentist in Gurgaon: 4.7★ ReviewsPatient Testimonials & Reviews | The Dental RootsThe Dental Roots Sushant Lok, Gurugram, HaryanaThe Dental Roots, A – 738, Sushant Lok 1 Rd, फ़ोन +91 96504 40004The Dental Roots Rating, Medical Services - localcircles.com",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.practo.com/gurgaon/clinic/the-dental-roots-sarvapriya-vihar-1",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_3",
+        "category": "market_intelligence",
+        "finding": "Live source citation: The Dental Roots, Dentist in Gurgaon: 4.7★ Reviews",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://zospital.com/doctor/the-dental-roots",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      }
+    ],
+    "artifacts": [
+      {
+        "artifact_type": "mobile_screenshot",
+        "uri_or_path": "data/screenshots/TheDentalRoots.png",
+        "verified": true,
+        "details": {
+          "viewport": "390x844 iPhone 14"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.justdial.com/Gurgaon/The-Dental-Roots-Near-Galleria-Market-Sushant-Lok-Phase-3/011PXX11-XX11-091226102515-U9A2_BZDET",
+        "verified": true,
+        "details": {
+          "title": "The Dental Roots, Sushant Lok Phase 3, Gurgaon - Justdial"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.practo.com/gurgaon/clinic/the-dental-roots-sarvapriya-vihar-1",
+        "verified": true,
+        "details": {
+          "title": "The Dental Roots Near Me in Sushant Lok I, Gurgaon - PractoThe Dental Roots, Dentist in Gurgaon: 4.7★ ReviewsPatient Testimonials & Reviews | The Dental RootsThe Dental Roots Sushant Lok, Gurugram, HaryanaThe Dental Roots, A – 738, Sushant Lok 1 Rd, फ़ोन +91 96504 40004The Dental Roots Rating, Medical Services - localcircles.com"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://zospital.com/doctor/the-dental-roots",
+        "verified": true,
+        "details": {
+          "title": "The Dental Roots, Dentist in Gurgaon: 4.7★ Reviews"
+        }
+      }
+    ],
+    "verified_at": "2026-10-27T16:06:17.313636Z"
+  },
+  "handoff_trace": [
+    {
+      "handoff_id": "hnd_13457716",
+      "source_agent": "scout_agent",
+      "target_agent": "researcher_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:06:17.314017Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "The Dental Roots",
+        "business_type": "Dental Implant Center"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_535c2d7c",
+      "source_agent": "researcher_agent",
+      "target_agent": "auditor_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:06:17.314244Z",
+      "status": "validated",
+      "payload": {
+        "website": "https://www.thedentalroots.com/",
+        "company_name": "The Dental Roots"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_01aecdae",
+      "source_agent": "auditor_agent",
+      "target_agent": "conversion_strategist_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:06:17.314484Z",
+      "status": "validated",
+      "payload": {
+        "load_time": 6.05,
+        "key_flaws": [
+          "Slow mobile page load (6.05s) — Google reports 53% of mobile visits abandon sites taking >3s"
+        ]
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_2d2cc274",
+      "source_agent": "conversion_strategist_agent",
+      "target_agent": "copywriter_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:06:17.314557Z",
+      "status": "validated",
+      "payload": {
+        "quantified_loss": "Minor friction in mobile speed and search visibility",
+        "hook": "Help The Dental Roots eliminate 20-30% platform commission with automated direct WhatsApp ordering."
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_e883b424",
+      "source_agent": "copywriter_agent",
+      "target_agent": "paperclip_approval_gate",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:06:17.314611Z",
+      "status": "validated",
+      "payload": {
+        "whatsapp_pitch": "Hi team The Dental Roots, love what you've built in Sushant Lok, Gurugram / Delhi NCR! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+        "qualified": true
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    }
+  ],
+  "created_at": "2026-10-27T16:06:17.314770Z",
+  "updated_at": "2026-10-27T16:06:17.314883Z"
+}

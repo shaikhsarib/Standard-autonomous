@@ -1,0 +1,10 @@
+---
+description: Matt Pocock specification-driven development rules
+globs: **/*
+---
+
+# Matt Pocock Skills Rules
+
+1. Define contracts (`/to-spec`) before implementing features.
+2. Use strongly-typed envelopes (`/handoff`) across agent boundaries.
+3. Validate invariants at each stage: Scout -> Researcher -> Auditor -> Copywriter -> ApprovalGate -> Closer.

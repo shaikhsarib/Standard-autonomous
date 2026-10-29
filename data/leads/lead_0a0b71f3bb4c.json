@@ -1,0 +1,296 @@
+{
+  "id": "lead_0a0b71f3bb4c",
+  "profile": {
+    "company_name": "VLCC Wellness Center",
+    "business_type": "Aesthetic Dermatology & Wellness",
+    "location": "Juhu Tara Road, Mumbai",
+    "phone": "+91 22 2618 9000",
+    "email": null,
+    "website": "https://www.vlccwellness.com/",
+    "has_website": true,
+    "address": null,
+    "rating": "4.3",
+    "source": "manual",
+    "source_url": null,
+    "vertical": "general",
+    "pain_points": [],
+    "growth_goals": [],
+    "created_at": "2026-10-27T16:06:39.944288Z"
+  },
+  "status": "discovered",
+  "audit": {
+    "load_time_seconds": 4.24,
+    "has_ssl": true,
+    "is_mobile_responsive": true,
+    "has_whatsapp_widget": true,
+    "has_online_booking": true,
+    "key_flaws": [
+      "Slow mobile page load (4.24s) — Google reports 53% of mobile visits abandon sites taking >3s"
+    ],
+    "quantified_loss": "Minor friction in mobile speed and search visibility",
+    "screenshot_path": "data/screenshots/VLCCWellnessCenter.png",
+    "audited_at": "2026-10-27T16:06:49.346608Z"
+  },
+  "draft": {
+    "whatsapp_message": "Hi team VLCC Wellness Center, love what you've built in Juhu Tara Road, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+    "email_subject": "Quick question regarding VLCC Wellness Center's customer flow",
+    "email_body": "Hi Team VLCC Wellness Center,\n\nLoved checking out your business in Juhu Tara Road, Mumbai. We specialize in adding automated instant WhatsApp lead capture to existing websites to boost conversion by 30%.\n\nWould you be open to seeing a 2-minute video preview of how it would work for VLCC Wellness Center?\n\nWarm regards,\nGrowth & Tech Team",
+    "pain_points": [
+      "Slow mobile page load (4.24s) — Google reports 53% of mobile visits abandon sites taking >3s"
+    ],
+    "business_loss": "Losing prospective customers who don't get immediate replies"
+  },
+  "contact_name": null,
+  "contact_email": null,
+  "budget": null,
+  "interest_level": null,
+  "summary": "Hi team VLCC Wellness Center, love what you've built in Juhu Tara Road, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+  "qualified": true,
+  "contacted_channels": [],
+  "last_contacted_at": null,
+  "conversation_history": [],
+  "meeting_link": null,
+  "research": {
+    "market_overview": "Competitive local market for Aesthetic Dermatology & Wellness in Juhu Tara Road, Mumbai.",
+    "target_demographics": "Urban consumers in Juhu Tara Road, Mumbai needing fast service.",
+    "top_customer_complaints": [
+      "Manual phone order coordination during peak rush hours",
+      "No 1-click WhatsApp instant reservation system"
+    ],
+    "competitors": [
+      {
+        "competitor_name": "Leading Aesthetic Dermatology & Wellness in Juhu Tara Road, Mumbai",
+        "strength": "High review volume",
+        "weakness": "Lacks direct booking"
+      }
+    ],
+    "untapped_revenue_opportunities": [
+      "Direct WhatsApp ordering to retain 20-30% margins from aggregators",
+      "Automated appointment reminders to prevent no-shows"
+    ],
+    "recommended_hook": "Help VLCC Wellness Center eliminate 20-30% platform commission with automated direct WhatsApp ordering.",
+    "citations": [
+      {
+        "title": "VLCC, Mumbai Reviews: Customer Reviews & Ratings | MouthShutVLCC Health Care Reviews and Complaints 2026Review On VLCC Mumbai by MouthShut UserVLCC Wellness Center, Mumbai, IN | Company InformationFind list of Vlcc Wellness in Juhu Koliwada, Mumbai near me ...Discover VLCC Wellness Centre Products, Reviews ... - LBBVLCC Health Care Ltd Reviews, Bandra West, Mumbai - 791 ...",
+        "url": "https://www.mouthshut.com/product-reviews/vlcc-mumbai-reviews-925602152",
+        "snippet": "2 days ago · Read reviews on VLCC, Mumbai. Discover customer experiences on service quality, ambiance, staff expertise, treatment costs, and more. Aug 8, 2026 · VLCC Health Care earns a 1.2-star rating from 0 reviews and 95 complaints, indicating tha"
+      },
+      {
+        "title": "VLCC Health Care Reviews and Complaints 2026Review On VLCC Mumbai by MouthShut UserVLCC Wellness Center, Mumbai, IN | Company InformationFind list of Vlcc Wellness in Juhu Koliwada, Mumbai near me ...Discover VLCC Wellness Centre Products, Reviews ... - LBBVLCC Health Care Ltd Reviews, Bandra West, Mumbai - 791 ...",
+        "url": "https://www.complaintsboard.com/vlcc-health-care-b123173",
+        "snippet": "Aug 8, 2026 · VLCC Health Care earns a 1.2-star rating from 0 reviews and 95 complaints, indicating that most wellness clients are dissatisfied with their health and beauty services. I have visuted VLCC wellness center, Vazhuthacaud on 28th June, 202"
+      },
+      {
+        "title": "Review On VLCC Mumbai by MouthShut User",
+        "url": "https://www.mouthshut.com/review/vlcc-mumbai-review-rstruplppmp",
+        "snippet": "I have visuted VLCC wellness center, Vazhuthacaud on 28th June, 2023 for knowing the package details on the wellness program. An employee named Divya attended us and provided the details and package information."
+      },
+      {
+        "title": "Best Aesthetic Dermatologist doctors Near Me in Juhu tara road, Mumbai ...",
+        "url": "https://www.practo.com/mumbai/aesthetic-dermatologist/juhu-tara-road",
+        "snippet": "Find the Top Aesthetic Dermatologist doctors Near You in Juhu tara road, Mumbai with Practo. Book appointments online. View fees, check doctor's timings and availability, phone number, and experience. Read verified patient reviews to choose the right"
+      },
+      {
+        "title": "Best Aesthetic Dermatologist Clinics in Juhu, Mumbai - Practo",
+        "url": "https://www.practo.com/mumbai/clinics/aesthetic-dermatologist-clinics/juhu",
+        "snippet": "Top Aesthetic Dermatologist Clinics Near you in Juhu, Mumbai. Find List of Doctors, Admission Fees, Registration Fees, Reviews & Timings to book Appointment Online | Practo"
+      },
+      {
+        "title": "Top dermatology clinic in juhu tara road, Mumbai - AskLaila",
+        "url": "https://www.asklaila.com/category/mumbai/juhu-tara-road/dermatology-clinic/clinic/?category=179",
+        "snippet": "Skin Clinic : dermatology clinic in juhu tara road Mumbai - Dr. Ravindra Skin & Cosmetic Clinic Vile Parle West, Dr Batra's Positive Health Clinic Private Limited Juhu Tara Road, The Apollo Clinic Andheri East, Dr. Manjiri's Insta Sculpt Chembur East"
+      }
+    ],
+    "evidence_verified": true,
+    "treg_enrichment": {
+      "lead_id": "VLCC Wellness Center",
+      "owner_or_director_name": "Managing Director / Proprietor",
+      "verified_whatsapp": true,
+      "gstin_or_registration": null,
+      "tools_invoked": [
+        "verify_whatsapp",
+        "search_director"
+      ],
+      "total_tool_cost_usd": 0.0
+    }
+  },
+  "pstack_proof": {
+    "business_name": "VLCC Wellness Center",
+    "total_claims": 6,
+    "verified_claims": 6,
+    "proof_score_percentage": 100.0,
+    "claims": [
+      {
+        "claim_id": "proof_ssl_active",
+        "category": "security",
+        "finding": "Valid HTTPS encryption verified",
+        "evidence_type": "live_http_probe",
+        "proof_reference": "https://www.vlccwellness.com/",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_page_speed",
+        "category": "performance",
+        "finding": "Observed Time-to-First-Byte + DOM load: 4.24s",
+        "evidence_type": "live_http_probe",
+        "proof_reference": "https://www.vlccwellness.com/",
+        "reproducibility_command": "curl -o /dev/null -s -w 'Time: %{time_total}s' https://www.vlccwellness.com/",
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_mobile_viewport",
+        "category": "conversion",
+        "finding": "Mobile viewport configured: True",
+        "evidence_type": "dom_selector",
+        "proof_reference": "meta[name='viewport']",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_1",
+        "category": "market_intelligence",
+        "finding": "Live source citation: VLCC, Mumbai Reviews: Customer Reviews & Ratings | MouthShutVLCC Health Care Reviews and Complaints 2026Review On VLCC Mumbai by MouthShut UserVLCC Wellness Center, Mumbai, IN | Company InformationFind list of Vlcc Wellness in Juhu Koliwada, Mumbai near me ...Discover VLCC Wellness Centre Products, Reviews ... - LBBVLCC Health Care Ltd Reviews, Bandra West, Mumbai - 791 ...",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.mouthshut.com/product-reviews/vlcc-mumbai-reviews-925602152",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_2",
+        "category": "market_intelligence",
+        "finding": "Live source citation: VLCC Health Care Reviews and Complaints 2026Review On VLCC Mumbai by MouthShut UserVLCC Wellness Center, Mumbai, IN | Company InformationFind list of Vlcc Wellness in Juhu Koliwada, Mumbai near me ...Discover VLCC Wellness Centre Products, Reviews ... - LBBVLCC Health Care Ltd Reviews, Bandra West, Mumbai - 791 ...",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.complaintsboard.com/vlcc-health-care-b123173",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_3",
+        "category": "market_intelligence",
+        "finding": "Live source citation: Review On VLCC Mumbai by MouthShut User",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.mouthshut.com/review/vlcc-mumbai-review-rstruplppmp",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      }
+    ],
+    "artifacts": [
+      {
+        "artifact_type": "mobile_screenshot",
+        "uri_or_path": "data/screenshots/VLCCWellnessCenter.png",
+        "verified": true,
+        "details": {
+          "viewport": "390x844 iPhone 14"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.mouthshut.com/product-reviews/vlcc-mumbai-reviews-925602152",
+        "verified": true,
+        "details": {
+          "title": "VLCC, Mumbai Reviews: Customer Reviews & Ratings | MouthShutVLCC Health Care Reviews and Complaints 2026Review On VLCC Mumbai by MouthShut UserVLCC Wellness Center, Mumbai, IN | Company InformationFind list of Vlcc Wellness in Juhu Koliwada, Mumbai near me ...Discover VLCC Wellness Centre Products, Reviews ... - LBBVLCC Health Care Ltd Reviews, Bandra West, Mumbai - 791 ..."
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.complaintsboard.com/vlcc-health-care-b123173",
+        "verified": true,
+        "details": {
+          "title": "VLCC Health Care Reviews and Complaints 2026Review On VLCC Mumbai by MouthShut UserVLCC Wellness Center, Mumbai, IN | Company InformationFind list of Vlcc Wellness in Juhu Koliwada, Mumbai near me ...Discover VLCC Wellness Centre Products, Reviews ... - LBBVLCC Health Care Ltd Reviews, Bandra West, Mumbai - 791 ..."
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.mouthshut.com/review/vlcc-mumbai-review-rstruplppmp",
+        "verified": true,
+        "details": {
+          "title": "Review On VLCC Mumbai by MouthShut User"
+        }
+      }
+    ],
+    "verified_at": "2026-10-27T16:07:08.034469Z"
+  },
+  "handoff_trace": [
+    {
+      "handoff_id": "hnd_8ea08c0b",
+      "source_agent": "scout_agent",
+      "target_agent": "researcher_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:07:08.034711Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "VLCC Wellness Center",
+        "business_type": "Aesthetic Dermatology & Wellness"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_98c8ba8b",
+      "source_agent": "researcher_agent",
+      "target_agent": "auditor_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:07:08.034853Z",
+      "status": "validated",
+      "payload": {
+        "website": "https://www.vlccwellness.com/",
+        "company_name": "VLCC Wellness Center"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_91eb92f0",
+      "source_agent": "auditor_agent",
+      "target_agent": "conversion_strategist_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:07:08.034903Z",
+      "status": "validated",
+      "payload": {
+        "load_time": 4.24,
+        "key_flaws": [
+          "Slow mobile page load (4.24s) — Google reports 53% of mobile visits abandon sites taking >3s"
+        ]
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_4a9ecce2",
+      "source_agent": "conversion_strategist_agent",
+      "target_agent": "copywriter_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:07:08.034960Z",
+      "status": "validated",
+      "payload": {
+        "quantified_loss": "Minor friction in mobile speed and search visibility",
+        "hook": "Help VLCC Wellness Center eliminate 20-30% platform commission with automated direct WhatsApp ordering."
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_b2dfe3af",
+      "source_agent": "copywriter_agent",
+      "target_agent": "paperclip_approval_gate",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:07:08.035005Z",
+      "status": "validated",
+      "payload": {
+        "whatsapp_pitch": "Hi team VLCC Wellness Center, love what you've built in Juhu Tara Road, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+        "qualified": true
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    }
+  ],
+  "created_at": "2026-10-27T16:07:08.035169Z",
+  "updated_at": "2026-10-27T16:07:08.035268Z"
+}

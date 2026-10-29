@@ -1,0 +1,7 @@
+
+Results: 5
+  Babulnath Medical Stores                      | phone=8201764216 | website=False | rating=5.0
+  Reliable Medical Store                        | phone=8201764216 | website=False | rating=4.4
+  Bandra Medical Stores                         | phone=8201764216 | website=False | rating=4.3
+  Shree Damodar Medical Store                   | phone=8201764216 | website=False | rating=3.2
+  Shree Rajaram Medical Store                   | phone=8201764216 | website=False | rating=4.7

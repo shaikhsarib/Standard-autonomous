@@ -1,0 +1,406 @@
+2026-10-13 14:42:30,467 - INFO - Mumbai preset: 31 business types in Mumbai
+2026-10-13 14:42:30,475 - INFO - Starting discovery | location='Mumbai' | source=Google Maps | types=31
+2026-10-13 14:42:32,269 - INFO - Google Maps search: 'restaurant in Mumbai'
+2026-10-13 14:42:32,273 - INFO - ====== WebDriver manager ======
+2026-10-13 14:42:34,740 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:42:34,998 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:42:35,217 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 14:42:47,520 - INFO -   Found 12 listing links
+2026-10-13 14:43:49,869 - INFO -   [NO WEBSITE] Sigdi Restaurant Bandra | phone=9055599350 | rating=3.9
+2026-10-13 14:43:53,390 - INFO -   Total no-website businesses: 1/5 requested
+2026-10-13 14:43:55,586 - INFO - Google Maps search: 'hotel in Mumbai'
+2026-10-13 14:43:55,588 - INFO - ====== WebDriver manager ======
+2026-10-13 14:43:57,981 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:43:58,147 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:43:58,370 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 14:44:10,755 - INFO -   Found 12 listing links
+2026-10-13 14:45:00,860 - INFO -   [NO WEBSITE] Hotel Golden Plaza | phone=8201764216 | rating=3.7
+2026-10-13 14:45:07,540 - INFO -   [NO WEBSITE] HOTEL HAVEN MUMBAI | phone=8201764216 | rating=4.3
+2026-10-13 14:45:11,139 - INFO -   Total no-website businesses: 2/5 requested
+2026-10-13 14:45:13,154 - INFO - Google Maps search: 'banquet hall in Mumbai'
+2026-10-13 14:45:13,155 - INFO - ====== WebDriver manager ======
+2026-10-13 14:45:15,568 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:45:16,481 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:45:17,100 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 14:45:29,655 - INFO -   Found 12 listing links
+2026-10-13 14:45:38,674 - INFO -   [NO WEBSITE] Nirala Crystal Banquet | phone=8201764216 | rating=4.5
+2026-10-13 14:46:18,270 - INFO -   [NO WEBSITE] Flamingo Banquet Hall | phone=8201764216 | rating=4.3
+2026-10-13 14:46:38,459 - INFO -   Total no-website businesses: 2/5 requested
+2026-10-13 14:46:40,473 - INFO - Google Maps search: 'sweet shop in Mumbai'
+2026-10-13 14:46:40,475 - INFO - ====== WebDriver manager ======
+2026-10-13 14:46:42,863 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:46:43,071 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:46:43,290 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 14:46:54,704 - INFO -   Found 12 listing links
+2026-10-13 14:47:22,810 - INFO -   [NO WEBSITE] Karachi Sweets | phone=8201764216 | rating=4.2
+2026-10-13 14:47:27,030 - INFO -   [NO WEBSITE] New Annapurna Sweets & Farsan | phone=8201764216 | rating=4.2
+2026-10-13 14:47:33,556 - INFO -   [NO WEBSITE] Eros Sweets | phone=8201764216 | rating=4.0
+2026-10-13 14:47:45,325 - INFO -   Total no-website businesses: 3/5 requested
+2026-10-13 14:47:47,327 - INFO - Google Maps search: 'catering in Mumbai'
+2026-10-13 14:47:47,329 - INFO - ====== WebDriver manager ======
+2026-10-13 14:47:49,720 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:47:49,892 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:47:50,065 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 14:48:01,406 - INFO -   Found 18 listing links
+2026-10-13 14:48:21,187 - INFO -   [NO WEBSITE] MONICA CATERERS | phone=8201764216 | rating=4.8
+2026-10-13 14:49:01,827 - INFO -   Total no-website businesses: 1/5 requested
+2026-10-13 14:49:04,342 - INFO - Google Maps search: 'clinic in Mumbai'
+2026-10-13 14:49:04,385 - INFO - ====== WebDriver manager ======
+2026-10-13 14:49:06,856 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:49:07,127 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:49:07,291 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 14:49:18,222 - INFO -   Found 18 listing links
+2026-10-13 14:49:21,882 - INFO -   [NO WEBSITE] RF Care Clinic | phone=8201764216 | rating=4.7
+2026-10-13 14:49:39,291 - INFO -   [NO WEBSITE] Habib Clinic | phone=8201764216 | rating=None
+2026-10-13 14:49:43,636 - INFO -   [NO WEBSITE] Dr. Rachana's Health Clinic | phone=7148864228 | rating=4.9
+2026-10-13 14:49:54,734 - INFO -   [NO WEBSITE] Trust and Care Medical Centre | phone=8201764216 | rating=4.5
+2026-10-13 14:50:01,649 - INFO -   [NO WEBSITE] Dr. Roy D Silva | phone=8201764216 | rating=5.0
+2026-10-13 14:50:05,538 - INFO -   Total no-website businesses: 5/5 requested
+2026-10-13 14:50:07,548 - INFO - Google Maps search: 'dental clinic in Mumbai'
+2026-10-13 14:50:07,633 - INFO - ====== WebDriver manager ======
+2026-10-13 14:50:10,357 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:50:10,590 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:50:10,910 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 14:50:24,625 - INFO -   Found 12 listing links
+2026-10-13 14:51:30,237 - INFO -   Total no-website businesses: 0/5 requested
+2026-10-13 14:51:32,350 - INFO - Google Maps search: 'medical store in Mumbai'
+2026-10-13 14:51:32,482 - INFO - ====== WebDriver manager ======
+2026-10-13 14:51:35,112 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:51:35,404 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:51:35,607 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 14:51:49,679 - INFO -   Found 18 listing links
+2026-10-13 14:51:57,562 - INFO -   [NO WEBSITE] Shree Sai Medical Store | phone=8201764216 | rating=5.0
+2026-10-13 14:52:13,142 - INFO -   [NO WEBSITE] Mahamai Medical And General Store | phone=8201764216 | rating=4.7
+2026-10-13 14:52:20,437 - INFO -   [NO WEBSITE] Mumbai Medical And General Stores | phone=8201764216 | rating=None
+2026-10-13 14:52:32,163 - INFO -   [NO WEBSITE] Babulnath Medical Stores | phone=8201764216 | rating=5.0
+2026-10-13 14:52:38,559 - INFO -   [NO WEBSITE] Shree Damodar Medical Store | phone=8201764216 | rating=3.2
+2026-10-13 14:52:42,038 - INFO -   Total no-website businesses: 5/5 requested
+2026-10-13 14:52:44,321 - INFO - Google Maps search: 'pathology lab in Mumbai'
+2026-10-13 14:52:44,322 - INFO - ====== WebDriver manager ======
+2026-10-13 14:52:46,810 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:52:47,584 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:52:48,558 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 14:53:01,548 - INFO -   Found 18 listing links
+2026-10-13 14:54:01,380 - INFO -   Total no-website businesses: 0/5 requested
+2026-10-13 14:54:03,389 - INFO - Google Maps search: 'gym in Mumbai'
+2026-10-13 14:54:03,389 - INFO - ====== WebDriver manager ======
+2026-10-13 14:54:05,728 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:54:05,924 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:54:06,133 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 14:54:21,737 - INFO -   Found 12 listing links
+2026-10-13 14:54:44,097 - INFO -   [NO WEBSITE] M-power fitness | phone=8201764216 | rating=4.2
+2026-10-13 14:54:56,473 - INFO -   [NO WEBSITE] RE BHARAT GYM | phone=8201764216 | rating=4.7
+2026-10-13 14:55:03,074 - INFO -   [NO WEBSITE] THE FITNESS HUB GYM | phone=8201764216 | rating=2.5
+2026-10-13 14:55:25,338 - INFO -   [NO WEBSITE] Yuva Fitness | phone=8201764216 | rating=5.0
+2026-10-13 14:55:28,828 - INFO -   Total no-website businesses: 4/5 requested
+2026-10-13 14:55:31,016 - INFO - Google Maps search: 'yoga in Mumbai'
+2026-10-13 14:55:31,022 - INFO - ====== WebDriver manager ======
+2026-10-13 14:55:33,379 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:55:33,558 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:55:33,706 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 14:55:44,483 - INFO -   Found 12 listing links
+2026-10-13 14:56:21,839 - INFO -   [NO WEBSITE] Yoga Yuga Wellness Centre | phone=8201764216 | rating=5.0
+2026-10-13 14:56:36,391 - INFO -   Total no-website businesses: 1/5 requested
+2026-10-13 14:56:38,404 - INFO - Google Maps search: 'coaching center in Mumbai'
+2026-10-13 14:56:38,404 - INFO - ====== WebDriver manager ======
+2026-10-13 14:56:40,710 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:56:40,842 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:56:40,981 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 14:56:52,254 - INFO -   Found 18 listing links
+2026-10-13 14:57:31,716 - INFO -   [NO WEBSITE] Girish Classes | phone=8709496989 | rating=5.0
+2026-10-13 14:57:36,406 - INFO -   [NO WEBSITE] KHAN CLASSES | phone=8709496989 | rating=5.0
+2026-10-13 14:57:41,467 - INFO -   [NO WEBSITE] Kiran Classes | phone=8709496989 | rating=3.9
+2026-10-13 14:57:48,224 - INFO -   [NO WEBSITE] VINAYAK CLASSES | phone=8709496989 | rating=4.9
+2026-10-13 14:57:57,921 - INFO -   Total no-website businesses: 4/5 requested
+2026-10-13 14:57:59,934 - INFO - Google Maps search: 'tuition in Mumbai'
+2026-10-13 14:57:59,936 - INFO - ====== WebDriver manager ======
+2026-10-13 14:58:02,610 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:58:02,748 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:58:02,872 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 14:58:14,513 - INFO -   Found 18 listing links
+2026-10-13 14:58:18,358 - INFO -   [NO WEBSITE] S.L.B TUTORIALS | phone=8201764216 | rating=4.7
+2026-10-13 14:58:24,392 - INFO -   [NO WEBSITE] VINAYAK CLASSES | phone=8201764216 | rating=4.9
+2026-10-13 14:58:40,194 - INFO -   [NO WEBSITE] Ashtavinayak Tutorial | phone=8201764216 | rating=4.8
+2026-10-13 14:58:46,199 - INFO -   [NO WEBSITE] Glory Tuition Centre | phone=8709496989 | rating=4.8
+2026-10-13 14:58:57,996 - INFO -   [NO WEBSITE] Mandeep Classes | phone=8709496989 | rating=5.0
+2026-10-13 14:59:01,506 - INFO -   Total no-website businesses: 5/5 requested
+2026-10-13 14:59:03,771 - INFO - Google Maps search: 'driving school in Mumbai'
+2026-10-13 14:59:03,773 - INFO - ====== WebDriver manager ======
+2026-10-13 14:59:06,085 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:59:06,272 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:59:06,649 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 14:59:17,436 - INFO -   Found 18 listing links
+2026-10-13 14:59:23,023 - INFO -   [NO WEBSITE] Roshni Two Wheeler Training Centre | phone=8201764216 | rating=4.9
+2026-10-13 14:59:28,613 - INFO -   [NO WEBSITE] Bhogilal Motor Training School | phone=8201764216 | rating=3.5
+2026-10-13 14:59:33,671 - INFO -   [NO WEBSITE] Janta Motor Training School | phone=8201764216 | rating=4.8
+2026-10-13 14:59:37,793 - INFO -   [NO WEBSITE] Chohan Motor Driving School | phone=8201764216 | rating=4.9
+2026-10-13 14:59:43,187 - INFO -   [NO WEBSITE] new Janta motor training school | phone=8201764216 | rating=5.0
+2026-10-13 14:59:46,710 - INFO -   Total no-website businesses: 5/5 requested
+2026-10-13 14:59:48,929 - INFO - Google Maps search: 'ca firm in Mumbai'
+2026-10-13 14:59:48,930 - INFO - ====== WebDriver manager ======
+2026-10-13 14:59:51,357 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:59:51,915 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 14:59:52,080 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 15:00:03,860 - INFO -   Found 18 listing links
+2026-10-13 15:00:41,069 - INFO -   [NO WEBSITE] CA Pratik Jain | phone=8709496989 | rating=4.9
+2026-10-13 15:00:53,211 - INFO -   [NO WEBSITE] CA VIPUL MAKWANA | phone=8709496989 | rating=4.9
+2026-10-13 15:01:25,921 - INFO -   Total no-website businesses: 2/5 requested
+2026-10-13 15:01:27,929 - INFO - Google Maps search: 'event management in Mumbai'
+2026-10-13 15:01:27,935 - INFO - ====== WebDriver manager ======
+2026-10-13 15:01:30,802 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:01:31,148 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:01:31,458 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 15:01:46,168 - INFO -   Found 18 listing links
+2026-10-13 15:02:34,592 - INFO -   [NO WEBSITE] Event Management Company | Mumbai | Part | phone=8709496989 | rating=5.0
+2026-10-13 15:02:52,480 - INFO -   [NO WEBSITE] Humble Events - Event Management Company | phone=8709496989 | rating=5.0
+2026-10-13 15:02:59,639 - INFO -   Total no-website businesses: 2/5 requested
+2026-10-13 15:03:01,641 - INFO - Google Maps search: 'travel agent in Mumbai'
+2026-10-13 15:03:01,642 - INFO - ====== WebDriver manager ======
+2026-10-13 15:03:04,166 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:03:04,454 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:03:04,598 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 15:03:16,062 - INFO -   Found 18 listing links
+2026-10-13 15:03:32,877 - INFO -   [NO WEBSITE] Best Tours & Travels | phone=8201764216 | rating=4.8
+2026-10-13 15:04:08,004 - INFO -   Total no-website businesses: 1/5 requested
+2026-10-13 15:04:10,006 - INFO - Google Maps search: 'interior designer in Mumbai'
+2026-10-13 15:04:10,009 - INFO - ====== WebDriver manager ======
+2026-10-13 15:04:12,536 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:04:12,743 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:04:12,944 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 15:04:24,468 - INFO -   Found 18 listing links
+2026-10-13 15:05:18,174 - INFO -   Total no-website businesses: 0/5 requested
+2026-10-13 15:05:20,178 - INFO - Google Maps search: 'photographer in Mumbai'
+2026-10-13 15:05:20,181 - INFO - ====== WebDriver manager ======
+2026-10-13 15:05:22,828 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:05:23,035 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:05:23,277 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 15:05:34,518 - INFO -   Found 18 listing links
+2026-10-13 15:06:11,468 - INFO -   [NO WEBSITE] Studio Click In | phone=8201764216 | rating=4.7
+2026-10-13 15:06:23,439 - INFO -   Total no-website businesses: 1/5 requested
+2026-10-13 15:06:25,440 - INFO - Google Maps search: 'salon in Mumbai'
+2026-10-13 15:06:25,441 - INFO - ====== WebDriver manager ======
+2026-10-13 15:06:28,069 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:06:28,240 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:06:28,395 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 15:06:40,288 - INFO -   Found 12 listing links
+2026-10-13 15:07:39,675 - INFO -   Total no-website businesses: 0/5 requested
+2026-10-13 15:07:41,685 - INFO - Google Maps search: 'boutique in Mumbai'
+2026-10-13 15:07:41,685 - INFO - ====== WebDriver manager ======
+2026-10-13 15:07:44,369 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:07:44,561 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:07:44,763 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 15:07:57,254 - INFO -   Found 12 listing links
+2026-10-13 15:08:33,572 - INFO -   [NO WEBSITE] Dream Boutique | phone=9641090971 | rating=4.9
+2026-10-13 15:08:38,061 - INFO -   [NO WEBSITE] Lust Boutique | phone=8709496989 | rating=4.0
+2026-10-13 15:08:43,807 - INFO -   [NO WEBSITE] The Gentlemen'S Boutique | phone=8709496989 | rating=4.0
+2026-10-13 15:08:48,680 - INFO -   [NO WEBSITE] JAVED Boutique | phone=8709496989 | rating=4.3
+2026-10-13 15:08:52,190 - INFO -   Total no-website businesses: 4/5 requested
+2026-10-13 15:08:54,196 - INFO - Google Maps search: 'jewellery shop in Mumbai'
+2026-10-13 15:08:54,199 - INFO - ====== WebDriver manager ======
+2026-10-13 15:08:56,813 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:08:57,015 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:08:57,248 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 15:09:08,323 - INFO -   Found 12 listing links
+2026-10-13 15:10:04,954 - INFO -   Total no-website businesses: 0/5 requested
+2026-10-13 15:10:06,958 - INFO - Google Maps search: 'tailor in Mumbai'
+2026-10-13 15:10:06,960 - INFO - ====== WebDriver manager ======
+2026-10-13 15:10:09,656 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:10:09,822 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:10:10,008 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 15:10:20,177 - INFO -   Found 12 listing links
+2026-10-13 15:10:25,661 - INFO -   [NO WEBSITE] J Bob Tailor | phone=8709496989 | rating=4.3
+2026-10-13 15:10:32,527 - INFO -   [NO WEBSITE] AK TAILOR | phone=8709496989 | rating=5.0
+2026-10-13 15:10:38,748 - INFO -   [NO WEBSITE] Fusion Tailoring | phone=8709496989 | rating=4.3
+2026-10-13 15:11:04,380 - INFO -   [NO WEBSITE] Eshanul&Ainul ( Bespoke Tailoring) | phone=8709496989 | rating=4.9
+2026-10-13 15:11:09,011 - INFO -   [NO WEBSITE] Nicky Prithyani custom clothiers | phone=8709496989 | rating=4.9
+2026-10-13 15:11:12,872 - INFO -   Total no-website businesses: 5/5 requested
+2026-10-13 15:11:14,882 - INFO - Google Maps search: 'hardware store in Mumbai'
+2026-10-13 15:11:14,882 - INFO - ====== WebDriver manager ======
+2026-10-13 15:11:17,353 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:11:17,596 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:11:17,847 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 15:11:32,276 - INFO -   Found 12 listing links
+2026-10-13 15:11:37,702 - INFO -   [NO WEBSITE] SKY HARDWARE AND ELECTRC | phone=8201764216 | rating=5.0
+2026-10-13 15:11:45,049 - INFO -   [NO WEBSITE] Royal Hardware Stores | phone=8201764216 | rating=5.0
+2026-10-13 15:11:49,219 - INFO -   [NO WEBSITE] Rohit Hardware | phone=8709496989 | rating=4.2
+2026-10-13 15:12:03,973 - INFO -   [NO WEBSITE] Mahalaxmi Electric & Hardware Stores | phone=8709496989 | rating=3.8
+2026-10-13 15:12:08,519 - INFO -   [NO WEBSITE] Padmavati Hardware & Electrical Store | phone=8709496989 | rating=None
+2026-10-13 15:12:12,230 - INFO -   Total no-website businesses: 5/5 requested
+2026-10-13 15:12:14,240 - INFO - Google Maps search: 'mobile repair in Mumbai'
+2026-10-13 15:12:14,242 - INFO - ====== WebDriver manager ======
+2026-10-13 15:12:16,952 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:12:17,134 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:12:17,304 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 15:12:30,111 - INFO -   Found 18 listing links
+2026-10-13 15:12:49,484 - INFO -   [NO WEBSITE] King Mobile Care | phone=8709496989 | rating=4.8
+2026-10-13 15:12:53,994 - INFO -   [NO WEBSITE] Radhe Krishn Mobile Repairing | phone=8709496989 | rating=5.0
+2026-10-13 15:12:58,660 - INFO -   [NO WEBSITE] Repair Hub | phone=8709496989 | rating=4.9
+2026-10-13 15:13:03,391 - INFO -   [NO WEBSITE] Mobile Chutney | phone=8709496989 | rating=3.8
+2026-10-13 15:13:13,023 - INFO -   [NO WEBSITE] Cell point Mobile Store | phone=8709496989 | rating=4.9
+2026-10-13 15:13:16,620 - INFO -   Total no-website businesses: 5/5 requested
+2026-10-13 15:13:18,636 - INFO - Google Maps search: 'plumber in Mumbai'
+2026-10-13 15:13:18,638 - INFO - ====== WebDriver manager ======
+2026-10-13 15:13:21,332 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:13:21,739 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:13:21,994 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 15:13:34,293 - INFO -   Found 18 listing links
+2026-10-13 15:13:40,000 - INFO -   [NO WEBSITE] Blessy Enterprises | phone=8201764216 | rating=5.0
+2026-10-13 15:13:45,807 - INFO -   [NO WEBSITE] Perfect Plumbing | phone=8709496989 | rating=4.8
+2026-10-13 15:13:51,003 - INFO -   [NO WEBSITE] AKLIM HAIDER | phone=8709496989 | rating=4.9
+2026-10-13 15:13:59,762 - INFO -   [NO WEBSITE] Aftab plumbing | phone=8709496989 | rating=4.8
+2026-10-13 15:14:09,212 - INFO -   [NO WEBSITE] Dynamic plumber service | phone=8709496989 | rating=4.7
+2026-10-13 15:14:12,896 - INFO -   Total no-website businesses: 5/5 requested
+2026-10-13 15:14:14,904 - INFO - Google Maps search: 'electrician in Mumbai'
+2026-10-13 15:14:14,907 - INFO - ====== WebDriver manager ======
+2026-10-13 15:14:17,507 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:14:17,848 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:14:18,048 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 15:14:29,346 - INFO -   Found 18 listing links
+2026-10-13 15:14:40,146 - INFO -   [NO WEBSITE] Arman Electrician | phone=8201764216 | rating=5.0
+2026-10-13 15:14:47,754 - INFO -   [NO WEBSITE] Ss electrician technician | phone=6023015520 | rating=5.0
+2026-10-13 15:14:56,012 - INFO -   [NO WEBSITE] Rohit Electrician | phone=8201764216 | rating=5.0
+2026-10-13 15:14:59,865 - INFO -   [NO WEBSITE] BAMS Electrician | phone=8201764216 | rating=5.0
+2026-10-13 15:15:04,357 - INFO -   [NO WEBSITE] MOHAR ELECTRICIAN REPAIR | phone=9401955336 | rating=5.0
+2026-10-13 15:15:07,675 - INFO -   Total no-website businesses: 5/5 requested
+2026-10-13 15:15:09,682 - INFO - Google Maps search: 'pest control in Mumbai'
+2026-10-13 15:15:09,684 - INFO - ====== WebDriver manager ======
+2026-10-13 15:15:12,440 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:15:12,971 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:15:13,231 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 15:15:26,703 - INFO -   Found 18 listing links
+2026-10-13 15:15:45,300 - INFO -   [NO WEBSITE] Bed Bug Herbal Pest Control Bandra | phone=8709496989 | rating=5.0
+2026-10-13 15:15:56,383 - INFO -   [NO WEBSITE] Super Pest Control | phone=8709496989 | rating=4.0
+2026-10-13 15:16:02,653 - INFO -   [NO WEBSITE] Lizard Spider Pest Control | phone=8709496989 | rating=5.0
+2026-10-13 15:16:19,560 - INFO -   [NO WEBSITE] Bed Bug Pest Control | phone=8709496989 | rating=4.9
+2026-10-13 15:16:27,255 - INFO -   Total no-website businesses: 4/5 requested
+2026-10-13 15:16:29,270 - INFO - Google Maps search: 'packers movers in Mumbai'
+2026-10-13 15:16:29,274 - INFO - ====== WebDriver manager ======
+2026-10-13 15:16:32,045 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:16:32,388 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:16:32,689 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 15:16:44,100 - INFO -   Found 18 listing links
+2026-10-13 15:16:48,964 - INFO -   [NO WEBSITE] Home Packers And Movers Mumbai | phone=8709496989 | rating=5.0
+2026-10-13 15:17:20,404 - INFO -   [NO WEBSITE] Tirupati Balaji Packers And Movers Mumba | phone=8709496989 | rating=4.8
+2026-10-13 15:17:41,424 - INFO -   Total no-website businesses: 2/5 requested
+2026-10-13 15:17:43,436 - INFO - Google Maps search: 'ac repair in Mumbai'
+2026-10-13 15:17:43,438 - INFO - ====== WebDriver manager ======
+2026-10-13 15:17:46,123 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:17:46,406 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:17:46,623 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 15:17:58,042 - INFO -   Found 18 listing links
+2026-10-13 15:18:08,961 - INFO -   [NO WEBSITE] Ac Repair Service | phone=8201764216 | rating=4.5
+2026-10-13 15:18:16,934 - INFO -   [NO WEBSITE] Ac repair and services mumbai | phone=8201764216 | rating=5.0
+2026-10-13 15:18:21,330 - INFO -   [NO WEBSITE] Unique Services | Ac Repair, Washing Mac | phone=8201764216 | rating=4.8
+2026-10-13 15:18:30,570 - INFO -   [NO WEBSITE] l.g.Ac Service Center in Mumbai | phone=8201764216 | rating=4.9
+2026-10-13 15:18:47,914 - INFO -   Total no-website businesses: 4/5 requested
+2026-10-13 15:18:49,926 - INFO - Google Maps search: 'automobile workshop in Mumbai'
+2026-10-13 15:18:49,928 - INFO - ====== WebDriver manager ======
+2026-10-13 15:18:52,520 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:18:52,898 - INFO - Get LATEST chromedriver version for google-chrome
+2026-10-13 15:18:53,127 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\155.0.8059.39\chromedriver-win32/chromedriver.exe] found in cache
+2026-10-13 15:19:04,136 - INFO -   Found 18 listing links
+2026-10-13 15:19:10,260 - INFO -   [NO WEBSITE] S.A.M. Auto Parts & Garage | phone=8201764216 | rating=5.0
+2026-10-13 15:19:15,449 - INFO -   [NO WEBSITE] S.S. MANI AUTO WORKS : Luxury Car Servic | phone=8709496989 | rating=4.9
+2026-10-13 15:19:21,472 - INFO -   [NO WEBSITE] Speedway | phone=8709496989 | rating=4.9
+2026-10-13 15:19:35,743 - INFO -   [NO WEBSITE] KASU AUTOMOBILE (BEST CAR WORKSHOP IN WO | phone=8709496989 | rating=4.7
+2026-10-13 15:19:40,114 - INFO -   [NO WEBSITE] Chandan Auto Works | phone=8709496989 | rating=4.9
+2026-10-13 15:19:43,728 - INFO -   Total no-website businesses: 5/5 requested
+2026-10-13 15:19:45,740 - INFO - Google Maps total: 87 no-website businesses in Mumbai
+2026-10-13 15:19:45,743 - INFO - Found 87 total | 87 without website — processing these only
+2026-10-13 15:19:45,895 - INFO - AFC is enabled with max remote calls: 10.
+2026-10-13 15:19:46,736 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-10-13 15:19:46,748 - WARNING - Retryable Gemini error (attempt 1), sleeping 2s: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 14h10m13.46080655s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '51013s'}]}}
+2026-10-13 15:19:48,756 - INFO - AFC is enabled with max remote calls: 10.
+2026-10-13 15:19:49,118 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-10-13 15:19:49,146 - WARNING - Retryable Gemini error (attempt 2), sleeping 4s: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 14h10m11.020750164s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '51011s'}]}}
+2026-10-13 15:19:53,153 - INFO - AFC is enabled with max remote calls: 10.
+2026-10-13 15:19:53,547 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-10-13 15:19:53,557 - ERROR - Gemini API error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 14h10m6.593339202s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '51006s'}]}}
+2026-10-13 15:19:53,560 - INFO - No email found via scraper, searching for: Sigdi Restaurant Bandra
+2026-10-13 15:19:53,563 - INFO - Finding email for: 'Sigdi Restaurant Bandra' in 'Mumbai'
+2026-10-13 15:19:54,549 - INFO - response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=Sigdi%20Restaurant%20Bandra%20Mumbai%20email%20contact 200
+2026-10-13 15:19:54,561 - INFO - response: https://grokipedia.com/api/typeahead?query=Sigdi+Restaurant+Bandra+Mumbai+email+contact&limit=1 200
+2026-10-13 15:19:55,299 - INFO - response: https://search.brave.com/search?q=Sigdi+Restaurant+Bandra+Mumbai+email+contact&source=web 429
+2026-10-13 15:19:56,193 - INFO - response: https://www.startpage.com/ 200
+2026-10-13 15:19:56,986 - INFO - response: https://www.startpage.com/sp/captcha-block?bc=IN&bi=Airtel&be=c9561adc58a21e7eba8be1ce4e6597b2&bds_t=1791884996Td54fc5efb4600a8cb3b6b8c33f1efed4bcac869e03f4bd99ccd11eab7f7ccf4f&bds_s=dfc86d9458ec440e886d91ac11495a9f&abd=0&language=english&lui=english&t=device&qsr=en_US&segment=organic&sc=&qadf=moderate&abp=1&abe=0&query=Sigdi+Restaurant+Bandra+Mumbai+email+contact&cat=web&cmd=gen_page 200
+2026-10-13 15:19:58,269 - INFO - response: https://html.duckduckgo.com/html/ 200
+2026-10-13 15:19:58,314 - INFO -   Email found in snippet: sigdirestaurantsewri@gmail.com
+2026-10-13 15:19:58,317 - INFO - Email found: sigdirestaurantsewri@gmail.com
+2026-10-13 15:19:59,382 - INFO - Lead sent to Telegram: Sigdi Restaurant Bandra
+2026-10-13 15:19:59,392 - INFO - [DryRun] Would send email to: sigdirestaurantsewri@gmail.com — Sigdi Restaurant Bandra
+2026-10-13 15:20:01,411 - INFO - AFC is enabled with max remote calls: 10.
+2026-10-13 15:20:02,293 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-10-13 15:20:02,300 - WARNING - Retryable Gemini error (attempt 1), sleeping 2s: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 14h9m57.839283391s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50997s'}]}}
+2026-10-13 15:20:04,307 - INFO - AFC is enabled with max remote calls: 10.
+2026-10-13 15:20:04,775 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-10-13 15:20:04,778 - WARNING - Retryable Gemini error (attempt 2), sleeping 4s: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 14h9m55.345786934s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50995s'}]}}
+2026-10-13 15:20:08,785 - INFO - AFC is enabled with max remote calls: 10.
+2026-10-13 15:20:09,281 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-10-13 15:20:09,312 - ERROR - Gemini API error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 14h9m50.84841843s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50990s'}]}}
+2026-10-13 15:20:09,312 - INFO - No email found via scraper, searching for: Hotel Golden Plaza
+2026-10-13 15:20:09,318 - INFO - Finding email for: 'Hotel Golden Plaza' in 'Mumbai'
+2026-10-13 15:20:09,903 - INFO - response: https://grokipedia.com/api/typeahead?query=Hotel+Golden+Plaza+Mumbai+email+contact&limit=1 200
+2026-10-13 15:20:10,061 - INFO - response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=Hotel%20Golden%20Plaza%20Mumbai%20email%20contact 200
+2026-10-13 15:20:10,713 - INFO - response: https://www.google.com/wml/search?q=Hotel+Golden+Plaza+Mumbai+email+contact&sca_esv=1&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-10-13 15:20:12,023 - INFO - response: https://www.mojeek.com/search?q=Hotel+Golden+Plaza+Mumbai+email+contact 403
+2026-10-13 15:20:13,015 - INFO - response: https://www.startpage.com/ 200
+2026-10-13 15:20:13,936 - INFO - response: https://www.startpage.com/sp/captcha-block?bc=IN&bi=Airtel&be=c9561adc58a21e7eba8be1ce4e6597b2&bds_t=1791885013Ta4f86e19f09ef75bd2435c40914ae861eafd8b07ceb14a040c74fdb3cb740cff&bds_s=52b1fbcb2ee44a8096608ad614f0e1c0&abp=1&segment=organic&sc=&abe=0&t=device&qsr=en_US&language=english&abd=0&lui=english&qadf=moderate&query=Hotel+Golden+Plaza+Mumbai+email+contact&cat=web&cmd=gen_page 200
+2026-10-13 15:20:14,523 - INFO - response: https://search.brave.com/search?q=Hotel+Golden+Plaza+Mumbai+email+contact&source=web 429
+2026-10-13 15:20:15,542 - INFO - response: https://html.duckduckgo.com/html/ 200
+2026-10-13 15:20:15,565 - INFO -   Website candidate: https://mumbai.idbf.in/4194396/hotel-golden-plaza
+2026-10-13 15:20:36,904 - INFO -   No email found for 'Hotel Golden Plaza'
+2026-10-13 15:20:36,907 - INFO - Could not find email for: Hotel Golden Plaza
+2026-10-13 15:20:37,913 - INFO - Lead sent to Telegram: Hotel Golden Plaza
+2026-10-13 15:20:37,916 - INFO - [DryRun] Would send email to: None — Hotel Golden Plaza
+2026-10-13 15:20:39,921 - INFO - AFC is enabled with max remote calls: 10.
+2026-10-13 15:20:40,660 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-10-13 15:20:40,670 - WARNING - Retryable Gemini error (attempt 1), sleeping 2s: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 14h9m19.555200384s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50959s'}]}}
+2026-10-13 15:20:42,673 - INFO - AFC is enabled with max remote calls: 10.
+2026-10-13 15:20:43,204 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-10-13 15:20:43,206 - WARNING - Retryable Gemini error (attempt 2), sleeping 4s: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 14h9m17.049521796s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50957s'}]}}
+2026-10-13 15:20:47,214 - INFO - AFC is enabled with max remote calls: 10.
+2026-10-13 15:20:47,698 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-10-13 15:20:47,707 - ERROR - Gemini API error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 14h9m12.522862737s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50952s'}]}}
+2026-10-13 15:20:47,707 - INFO - No email found via scraper, searching for: HOTEL HAVEN MUMBAI
+2026-10-13 15:20:47,707 - INFO - Finding email for: 'HOTEL HAVEN MUMBAI' in 'Mumbai'
+2026-10-13 15:20:48,633 - INFO - response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=HOTEL%20HAVEN%20MUMBAI%20Mumbai%20email%20contact 200
+2026-10-13 15:20:48,979 - INFO - response: https://grokipedia.com/api/typeahead?query=HOTEL+HAVEN+MUMBAI+Mumbai+email+contact&limit=1 200
+2026-10-13 15:20:50,024 - INFO - response: https://search.yahoo.com/search;_ylt=YZeMAQUb2jT46mbw_T-yaYUu;_ylu=vgLWa7WaYi-PWwwudyo4zDgJpFZvvWiuOXyl6vBNYv75szE?p=HOTEL+HAVEN+MUMBAI+Mumbai+email+contact 200
+2026-10-13 15:20:51,707 - INFO - response: https://www.mojeek.com/search?q=HOTEL+HAVEN+MUMBAI+Mumbai+email+contact 403
+2026-10-13 15:20:52,989 - INFO - response: https://www.startpage.com/ 200
+2026-10-13 15:20:53,976 - INFO - response: https://www.startpage.com/sp/captcha-block?bc=IN&bi=Airtel&be=c9561adc58a21e7eba8be1ce4e6597b2&bds_t=1791885053T8240c06659b86dc417d0b8c79bf7f964b57ce1b81d6a4394bc87f5cf9ce4f0a1&bds_s=78cda3b9f77c458f8303d42360cd474e&sc=&t=device&lui=english&qadf=moderate&abe=0&segment=organic&language=english&abd=0&qsr=en_US&abp=1&query=HOTEL+HAVEN+MUMBAI+Mumbai+email+contact&cat=web&cmd=gen_page 200
+2026-10-13 15:20:54,554 - INFO - response: https://www.google.com/wml/search?q=HOTEL+HAVEN+MUMBAI+Mumbai+email+contact&sca_esv=1&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-10-13 15:20:55,216 - INFO - response: https://search.brave.com/search?q=HOTEL+HAVEN+MUMBAI+Mumbai+email+contact&source=web 429
+2026-10-13 15:20:55,287 - INFO -   Website candidate: https://helptravelindia.com/listings/hotel-haven-mumbai/
+2026-10-13 15:21:02,680 - INFO -   Email found on https://helptravelindia.com/listings/hotel-haven-mumbai/contact: info@helptravelindia.com
+2026-10-13 15:21:02,680 - INFO - Email found: info@helptravelindia.com
+2026-10-13 15:21:03,597 - INFO - Lead sent to Telegram: HOTEL HAVEN MUMBAI
+2026-10-13 15:21:03,601 - INFO - [DryRun] Would send email to: info@helptravelindia.com — HOTEL HAVEN MUMBAI
+2026-10-13 15:21:05,616 - INFO - AFC is enabled with max remote calls: 10.
+2026-10-13 15:21:06,244 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-10-13 15:21:06,245 - WARNING - Retryable Gemini error (attempt 1), sleeping 2s: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 14h8m53.963167895s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50933s'}]}}
+2026-10-13 15:21:08,253 - INFO - AFC is enabled with max remote calls: 10.
+2026-10-13 15:21:08,798 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-10-13 15:21:08,922 - WARNING - Retryable Gemini error (attempt 2), sleeping 4s: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 14h8m51.382624848s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50931s'}]}}
+2026-10-13 15:21:12,923 - INFO - AFC is enabled with max remote calls: 10.
+2026-10-13 15:21:13,593 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-10-13 15:21:13,627 - ERROR - Gemini API error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 14h8m46.608634291s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50926s'}]}}
+2026-10-13 15:21:13,627 - INFO - No email found via scraper, searching for: Nirala Crystal Banquet
+2026-10-13 15:21:13,636 - INFO - Finding email for: 'Nirala Crystal Banquet' in 'Mumbai'
+2026-10-13 15:21:14,546 - INFO - response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=Nirala%20Crystal%20Banquet%20Mumbai%20email%20contact 200
+2026-10-13 15:21:14,878 - INFO - response: https://grokipedia.com/api/typeahead?query=Nirala+Crystal+Banquet+Mumbai+email+contact&limit=1 200
+2026-10-13 15:21:15,511 - INFO - response: https://www.google.com/wml/search?q=Nirala+Crystal+Banquet+Mumbai+email+contact&sca_esv=1&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-10-13 15:21:16,492 - INFO - response: https://www.mojeek.com/search?q=Nirala+Crystal+Banquet+Mumbai+email+contact 403
+2026-10-13 15:21:17,363 - INFO - response: https://search.yahoo.com/search;_ylt=WIAHy7T6O85KCVG4F_zUNDeR;_ylu=aO_FS4gXcN24iz60AEg7wcJJrvjuAJA4P7nUEp9j2CTxNK0?p=Nirala+Crystal+Banquet+Mumbai+email+contact 200
+2026-10-13 15:21:19,512 - INFO - response: https://search.brave.com/search?q=Nirala+Crystal+Banquet+Mumbai+email+contact&source=web 429
+2026-10-13 15:21:20,463 - INFO - response: https://www.startpage.com/ 200
+2026-10-13 15:21:21,451 - INFO - response: https://www.startpage.com/sp/captcha-block?bc=IN&bi=Airtel&be=c9561adc58a21e7eba8be1ce4e6597b2&bds_t=1791885080T6f5d8f5993e1bba6c090d691bafa4a0a7152ca864a8c37e46c65ecd280fd013d&bds_s=27bb1f92e040483a9bddfbf76def0cbd&lui=english&qadf=moderate&t=device&sc=&segment=organic&abe=0&language=english&qsr=en_US&abd=0&abp=1&query=Nirala+Crystal+Banquet+Mumbai+email+contact&cat=web&cmd=gen_page 200
+2026-10-13 15:21:21,511 - INFO -   Website candidate: https://weddingz.in/mumbai/nirala-crystal-banquet-borivali-east/
+2026-10-13 15:21:28,392 - INFO -   Email found on https://weddingz.in/mumbai/nirala-crystal-banquet-borivali-east: info.weddingz@oyorooms.com
+2026-10-13 15:21:28,393 - INFO - Email found: info.weddingz@oyorooms.com
+2026-10-13 15:21:29,525 - INFO - Lead sent to Telegram: Nirala Crystal Banquet
+2026-10-13 15:21:29,531 - INFO - [DryRun] Would send email to: info.weddingz@oyorooms.com — Nirala Crystal Banquet
+2026-10-13 15:21:31,540 - INFO - AFC is enabled with max remote calls: 10.
+2026-10-13 15:21:32,162 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-10-13 15:21:32,170 - WARNING - Retryable Gemini error (attempt 1), sleeping 2s: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 14h8m28.017078943s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50908s'}]}}
+2026-10-13 15:21:34,171 - INFO - AFC is enabled with max remote calls: 10.

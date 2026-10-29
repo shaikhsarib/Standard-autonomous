@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Large External Vendor Clones & Tools (keeps core IC platform, skills & scrapling_research intact)
+.agents/skills/trycua/upstream/
+.agents/skills/ruflo/upstream/
+.agents/skills/treg/upstream/
+tools/paperclip/
+tools/ecc/
+tools/rea/
+
+# Testing & Evals
+.pytest_cache/
+.coverage
+htmlcov/
+pytest_out.txt
+pytest_err.txt
+pytest_result.txt
+test_results.xml
+run_tests.py
+
+# Environment & Secrets (NEVER commit secrets)
+.env
+.env.local
+*.pem
+*.key
+
+# Application Runtime Caches & Ephemeral Data
+.cache/
+storage/
+conversation_*.json
+actionable_leads.json
+chatbot_analytics.json
+leads_input.csv
+
+# Logs
+logs/*.log
+*.log
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+*.swp
+*.swo

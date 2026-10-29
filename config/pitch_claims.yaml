@@ -1,0 +1,95 @@
+claims:
+- 'Placeholders claim 1: Generic result.'
+- 'Placeholders claim 2: efficiency improvement.'
+- Automating dispatch inquiries on WhatsApp recovers 15-20% margin lost to brokers,
+  turning delayed phone quotes into instant 60-second confirmations for logistics_transport.
+- Hi team Sen Cargo Packers And Movers, saw your fleet operations in Nerul, Navi Mumbai!
+  Shippers book whoever quotes rates within 5 mins. We build instant WhatsApp freight
+  calculators & direct driver dispatch bots so you skip 20% broker fees. Open to a
+  2-min video preview?
+- Automating frontline client inquiry response on WhatsApp within 60 seconds recovers
+  18-25% of inbound inquiries lost to faster-responding competitors. (Engineered to
+  eliminate 'Losing high-intent local services clients weekly due to high friction
+  in contact method').
+- Capturing after-hours patient inquiries via automated WhatsApp scheduling recovers
+  35-40% of drop-off patients searching for dental and implant treatments after 7
+  PM. (Engineered to eliminate 'Clinic staff too busy with chairside procedures to
+  answer phone inquiries').
+- Automating dispatch inquiries on WhatsApp recovers 15-20% margin lost to freight
+  brokers, turning delayed phone quotes into instant 60-second lane confirmations.
+  (Engineered to eliminate 'Losing 15-20% margin to freight brokers and ~8-12 spot
+  loads weekly due to delayed manual quote turn').
+- Providing instant WhatsApp wedding date availability and tiered pricing eliminates
+  48-hour PDF delays and cuts reliance on 20% aggregator commissions. (Engineered
+  to eliminate 'Losing 40-50% of high-intent wedding and corporate event inquiries
+  arriving after-hours without inst').
+- Automating frontline client inquiry response on WhatsApp within 60 seconds recovers
+  18-25% of inbound inquiries lost to faster-responding competitors. (Engineered to
+  eliminate 'Losing 20-30% margin to aggregators and ~15-25 direct customer inquiries
+  weekly').
+experience:
+- cue: pitch_logistics_transport
+  evidence: Hi team Sen Cargo Packers And Movers, saw your fleet operations in Nerul,
+    Navi Mumbai! Shippers book whoever quotes rates within 5 mins. We build instant
+    WhatsApp freight calculators & direct driver dispatch bots so you skip 20% broker
+    fees. Open to a 2-min video preview?
+  id: harn_win_20261027163445
+  lesson: Reinforced by successful human approval & dispatch in logistics_transport
+  score: 0.98
+  timestamp: '2026-10-27T16:34:45.408458+00:00'
+  vertical: logistics_transport
+- cue: pitch_general
+  evidence: Automating frontline client inquiry response on WhatsApp within 60 seconds
+    recovers 18-25% of inbound inquiries lost to faster-responding competitors. (Engineered
+    to eliminate 'Losing high-intent local services clients weekly due to high friction
+    in contact method').
+  id: harn_20261027163827_genera
+  lesson: 'Self-evolved hook to resolve observed friction: Losing high-intent local
+    services clients weekly due to high friction in contact method'
+  score: 0.95
+  timestamp: '2026-10-27T16:38:27.388799+00:00'
+  vertical: general
+- cue: pitch_dental_healthcare
+  evidence: Capturing after-hours patient inquiries via automated WhatsApp scheduling
+    recovers 35-40% of drop-off patients searching for dental and implant treatments
+    after 7 PM. (Engineered to eliminate 'Clinic staff too busy with chairside procedures
+    to answer phone inquiries').
+  id: harn_20261027165431_dental
+  lesson: 'Self-evolved hook to resolve observed friction: Clinic staff too busy with
+    chairside procedures to answer phone inquiries'
+  score: 0.95
+  timestamp: '2026-10-27T16:54:31.648390+00:00'
+  vertical: dental_healthcare
+- cue: pitch_logistics_transport
+  evidence: Automating dispatch inquiries on WhatsApp recovers 15-20% margin lost
+    to freight brokers, turning delayed phone quotes into instant 60-second lane confirmations.
+    (Engineered to eliminate 'Losing 15-20% margin to freight brokers and ~8-12 spot
+    loads weekly due to delayed manual quote turn').
+  id: harn_20261027171944_logist
+  lesson: 'Self-evolved hook to resolve observed friction: Losing 15-20% margin to
+    freight brokers and ~8-12 spot loads weekly due to delayed manual quote turn'
+  score: 0.95
+  timestamp: '2026-10-27T17:19:44.745377+00:00'
+  vertical: logistics_transport
+- cue: pitch_event_banquets
+  evidence: Providing instant WhatsApp wedding date availability and tiered pricing
+    eliminates 48-hour PDF delays and cuts reliance on 20% aggregator commissions.
+    (Engineered to eliminate 'Losing 40-50% of high-intent wedding and corporate event
+    inquiries arriving after-hours without inst').
+  id: harn_20261027172007_event_
+  lesson: 'Self-evolved hook to resolve observed friction: Losing 40-50% of high-intent
+    wedding and corporate event inquiries arriving after-hours without inst'
+  score: 0.95
+  timestamp: '2026-10-27T17:20:07.281270+00:00'
+  vertical: event_banquets
+- cue: pitch_general
+  evidence: Automating frontline client inquiry response on WhatsApp within 60 seconds
+    recovers 18-25% of inbound inquiries lost to faster-responding competitors. (Engineered
+    to eliminate 'Losing 20-30% margin to aggregators and ~15-25 direct customer inquiries
+    weekly').
+  id: harn_20261027172027_genera
+  lesson: 'Self-evolved hook to resolve observed friction: Losing 20-30% margin to
+    aggregators and ~15-25 direct customer inquiries weekly'
+  score: 0.95
+  timestamp: '2026-10-27T17:20:27.147541+00:00'
+  vertical: general

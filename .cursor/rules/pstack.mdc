@@ -1,0 +1,10 @@
+---
+description: Pstack prove-it-works anti-slop verification rules
+globs: **/*
+---
+
+# Pstack Engineering Rules
+
+1. Every claim made in audits and outreach copy must be backed by verifiable proof (e.g. response time, SSL status, DOM selectors).
+2. Never simulate or mock live outputs in production pipelines.
+3. Every test suite must execute against concrete inputs with reproducible verification commands.

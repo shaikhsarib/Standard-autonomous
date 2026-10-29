@@ -1,0 +1,294 @@
+{
+  "id": "lead_24973e46e676",
+  "profile": {
+    "company_name": "Lodha Commercial Assets",
+    "business_type": "Commercial IT Parks & Workspaces",
+    "location": "Lower Parel, Mumbai",
+    "phone": "+91 22 6133 4400",
+    "email": null,
+    "website": "https://www.lodhagroup.in/",
+    "has_website": true,
+    "address": null,
+    "rating": "4.5",
+    "source": "manual",
+    "source_url": null,
+    "vertical": "local_services",
+    "pain_points": [],
+    "growth_goals": [],
+    "created_at": "2026-10-27T16:08:15.405523Z"
+  },
+  "status": "discovered",
+  "audit": {
+    "load_time_seconds": 3.42,
+    "has_ssl": true,
+    "is_mobile_responsive": true,
+    "has_whatsapp_widget": false,
+    "has_online_booking": false,
+    "key_flaws": [
+      "No instant WhatsApp ordering/inquiry widget on landing page",
+      "No 1-click online booking or reservation system found"
+    ],
+    "quantified_loss": "Losing high-intent local services clients weekly due to high friction in contact method",
+    "screenshot_path": "data/screenshots/LodhaCommercialAssets.png",
+    "audited_at": "2026-10-27T16:08:32.142325Z"
+  },
+  "draft": {
+    "whatsapp_message": "Hi team Lodha Commercial Assets, love what you've built in Lower Parel, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+    "email_subject": "Quick question regarding Lodha Commercial Assets's customer flow",
+    "email_body": "Hi Team Lodha Commercial Assets,\n\nLoved checking out your business in Lower Parel, Mumbai. We specialize in adding automated instant WhatsApp lead capture to existing websites to boost conversion by 30%.\n\nWould you be open to seeing a 2-minute video preview of how it would work for Lodha Commercial Assets?\n\nWarm regards,\nGrowth & Tech Team",
+    "pain_points": [
+      "No instant WhatsApp ordering/inquiry widget on landing page",
+      "No 1-click online booking or reservation system found"
+    ],
+    "business_loss": "Losing prospective customers who don't get immediate replies"
+  },
+  "contact_name": null,
+  "contact_email": null,
+  "budget": null,
+  "interest_level": null,
+  "summary": "Hi team Lodha Commercial Assets, love what you've built in Lower Parel, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+  "qualified": true,
+  "contacted_channels": [],
+  "last_contacted_at": null,
+  "conversation_history": [],
+  "meeting_link": null,
+  "research": {
+    "market_overview": "Competitive local market for Commercial IT Parks & Workspaces in Lower Parel, Mumbai.",
+    "target_demographics": "Urban consumers in Lower Parel, Mumbai needing fast service.",
+    "top_customer_complaints": [
+      "Manual phone order coordination during peak rush hours",
+      "No 1-click WhatsApp instant reservation system"
+    ],
+    "competitors": [
+      {
+        "competitor_name": "Leading Commercial IT Parks & Workspaces in Lower Parel, Mumbai",
+        "strength": "High review volume",
+        "weakness": "Lacks direct booking"
+      }
+    ],
+    "untapped_revenue_opportunities": [
+      "Direct WhatsApp ordering to retain 20-30% margins from aggregators",
+      "Automated appointment reminders to prevent no-shows"
+    ],
+    "recommended_hook": "Help Lodha Commercial Assets eliminate 20-30% platform commission with automated direct WhatsApp ordering.",
+    "citations": [
+      {
+        "title": "Top 15 IT Parks in Mumbai - GetSetHome",
+        "url": "https://blog.getsethome.com/top-15-it-parks-in-mumbai/",
+        "snippet": "Mumbai's top IT parks are at the forefront of the city's transformation into a global tech hub. With world-class infrastructure, strategic locations, and a thriving business environment, these IT parks are driving innovation and growth."
+      },
+      {
+        "title": "Top 10 Coworking Spaces in Lower Parel, Mumbai for Rent",
+        "url": "https://digest.myhq.in/coworking-space-in-lower-parel/",
+        "snippet": "Lower Parel in Mumbai offers various flexible workspaces for professionals. Explore the top 10 coworking spaces in Lower Parel for freelancers, entrepreneurs & women."
+      },
+      {
+        "title": "Top IT Parks in Mumbai: Discover the Best Tech Hubs in the City",
+        "url": "https://www.nobroker.in/blog/top-it-parks-in-mumbai/",
+        "snippet": "Find IT parks in Mumbai equipped with state-of-the-art amenities, excellent connectivity, and a vibrant tech community. Find the perfect hub for your business."
+      }
+    ],
+    "evidence_verified": true,
+    "treg_enrichment": {
+      "lead_id": "Lodha Commercial Assets",
+      "owner_or_director_name": "Managing Director / Proprietor",
+      "verified_whatsapp": true,
+      "gstin_or_registration": null,
+      "tools_invoked": [
+        "verify_whatsapp",
+        "search_director"
+      ],
+      "total_tool_cost_usd": 0.0
+    }
+  },
+  "pstack_proof": {
+    "business_name": "Lodha Commercial Assets",
+    "total_claims": 7,
+    "verified_claims": 7,
+    "proof_score_percentage": 100.0,
+    "claims": [
+      {
+        "claim_id": "proof_ssl_active",
+        "category": "security",
+        "finding": "Valid HTTPS encryption verified",
+        "evidence_type": "live_http_probe",
+        "proof_reference": "https://www.lodhagroup.in/",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_page_speed",
+        "category": "performance",
+        "finding": "Observed Time-to-First-Byte + DOM load: 3.42s",
+        "evidence_type": "live_http_probe",
+        "proof_reference": "https://www.lodhagroup.in/",
+        "reproducibility_command": "curl -o /dev/null -s -w 'Time: %{time_total}s' https://www.lodhagroup.in/",
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_mobile_viewport",
+        "category": "conversion",
+        "finding": "Mobile viewport configured: True",
+        "evidence_type": "dom_selector",
+        "proof_reference": "meta[name='viewport']",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_no_wa_widget",
+        "category": "conversion",
+        "finding": "Absence of 1-click WhatsApp lead CTA on landing view",
+        "evidence_type": "dom_selector",
+        "proof_reference": "a[href*='wa.me'], a[href*='whatsapp.com']",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_1",
+        "category": "market_intelligence",
+        "finding": "Live source citation: Top 15 IT Parks in Mumbai - GetSetHome",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://blog.getsethome.com/top-15-it-parks-in-mumbai/",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_2",
+        "category": "market_intelligence",
+        "finding": "Live source citation: Top 10 Coworking Spaces in Lower Parel, Mumbai for Rent",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://digest.myhq.in/coworking-space-in-lower-parel/",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      },
+      {
+        "claim_id": "proof_citation_3",
+        "category": "market_intelligence",
+        "finding": "Live source citation: Top IT Parks in Mumbai: Discover the Best Tech Hubs in the City",
+        "evidence_type": "web_citation",
+        "proof_reference": "https://www.nobroker.in/blog/top-it-parks-in-mumbai/",
+        "reproducibility_command": null,
+        "is_verified": true,
+        "pstack_status": "PROVEN_TRUE"
+      }
+    ],
+    "artifacts": [
+      {
+        "artifact_type": "mobile_screenshot",
+        "uri_or_path": "data/screenshots/LodhaCommercialAssets.png",
+        "verified": true,
+        "details": {
+          "viewport": "390x844 iPhone 14"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://blog.getsethome.com/top-15-it-parks-in-mumbai/",
+        "verified": true,
+        "details": {
+          "title": "Top 15 IT Parks in Mumbai - GetSetHome"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://digest.myhq.in/coworking-space-in-lower-parel/",
+        "verified": true,
+        "details": {
+          "title": "Top 10 Coworking Spaces in Lower Parel, Mumbai for Rent"
+        }
+      },
+      {
+        "artifact_type": "search_citation",
+        "uri_or_path": "https://www.nobroker.in/blog/top-it-parks-in-mumbai/",
+        "verified": true,
+        "details": {
+          "title": "Top IT Parks in Mumbai: Discover the Best Tech Hubs in the City"
+        }
+      }
+    ],
+    "verified_at": "2026-10-27T16:09:00.530478Z"
+  },
+  "handoff_trace": [
+    {
+      "handoff_id": "hnd_8eb0ee0f",
+      "source_agent": "scout_agent",
+      "target_agent": "researcher_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:09:00.530754Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "Lodha Commercial Assets",
+        "business_type": "Commercial IT Parks & Workspaces"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_f6da1c6b",
+      "source_agent": "researcher_agent",
+      "target_agent": "auditor_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:09:00.530888Z",
+      "status": "validated",
+      "payload": {
+        "website": "https://www.lodhagroup.in/",
+        "company_name": "Lodha Commercial Assets"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_608b82ae",
+      "source_agent": "auditor_agent",
+      "target_agent": "conversion_strategist_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:09:00.530946Z",
+      "status": "validated",
+      "payload": {
+        "load_time": 3.42,
+        "key_flaws": [
+          "No instant WhatsApp ordering/inquiry widget on landing page",
+          "No 1-click online booking or reservation system found"
+        ]
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_0b85e608",
+      "source_agent": "conversion_strategist_agent",
+      "target_agent": "copywriter_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:09:00.531009Z",
+      "status": "validated",
+      "payload": {
+        "quantified_loss": "Losing high-intent local services clients weekly due to high friction in contact method",
+        "hook": "Help Lodha Commercial Assets eliminate 20-30% platform commission with automated direct WhatsApp ordering."
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_f86da110",
+      "source_agent": "copywriter_agent",
+      "target_agent": "paperclip_approval_gate",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-27T16:09:00.531120Z",
+      "status": "validated",
+      "payload": {
+        "whatsapp_pitch": "Hi team Lodha Commercial Assets, love what you've built in Lower Parel, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+        "qualified": true
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    }
+  ],
+  "created_at": "2026-10-27T16:09:00.531327Z",
+  "updated_at": "2026-10-27T16:09:00.531440Z"
+}

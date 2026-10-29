@@ -1,0 +1,24 @@
+2026-10-13 12:55:51,076 - INFO - Finding email for: 'Cafe Coffee Day Connaught Place' in 'Delhi'
+2026-10-13 12:55:51,947 - INFO - response: https://grokipedia.com/api/typeahead?query=Cafe+Coffee+Day+Connaught+Place+Delhi+email+contact&limit=1 200
+2026-10-13 12:55:52,030 - INFO - response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=Cafe%20Coffee%20Day%20Connaught%20Place%20Delhi%20email%20contact 200
+2026-10-13 12:55:52,990 - INFO - response: https://www.startpage.com/ 200
+2026-10-13 12:55:53,762 - INFO - response: https://www.startpage.com/sp/captcha-block?bc=IN&bi=Airtel&be=c9561adc58a21e7eba8be1ce4e6597b2&bds_t=1791876353T2a172e35e57f55fb22b35f71df8c25fa2d680c69cea1240b194e253ee2a653f9&bds_s=625dc8a717354a99b436e2f117da83d7&abd=0&abe=0&lui=english&t=device&language=english&qadf=moderate&abp=1&qsr=en_US&segment=organic&sc=&query=Cafe+Coffee+Day+Connaught+Place+Delhi+email+contact&cat=web&cmd=gen_page 200
+2026-10-13 12:55:54,623 - INFO - response: https://search.yahoo.com/search;_ylt=lCj13VZjRROVCuB_nbT-kJGx;_ylu=jJEc4itkt2Kg4FTmSa6RRc3w2bAumcra3UWPdOTo7LBAG9Q?p=Cafe+Coffee+Day+Connaught+Place+Delhi+email+contact 200
+2026-10-13 12:55:55,931 - INFO - response: https://html.duckduckgo.com/html/ 200
+2026-10-13 12:55:55,961 - INFO -   Email found in snippet: ccd@gmail.com
+2026-10-13 12:55:55,963 - INFO - Finding email for: 'Pizza Hut Karol Bagh' in 'Delhi'
+2026-10-13 12:55:56,473 - INFO - response: https://grokipedia.com/api/typeahead?query=Pizza+Hut+Karol+Bagh+Delhi+email+contact&limit=1 200
+2026-10-13 12:55:56,703 - INFO - response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=Pizza%20Hut%20Karol%20Bagh%20Delhi%20email%20contact 200
+2026-10-13 12:55:57,836 - INFO - response: https://search.yahoo.com/search;_ylt=rBAPd4Ou64xMziaO3VDqgHWm;_ylu=evA1kcs0HULj3QABFl_RKbx-lhSWxS1a67UUCK5ozZHFQ2c?p=Pizza+Hut+Karol+Bagh+Delhi+email+contact 200
+2026-10-13 12:55:59,106 - INFO - response: https://www.google.com/wml/search?q=Pizza+Hut+Karol+Bagh+Delhi+email+contact&sca_esv=1&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-10-13 12:55:59,577 - INFO - response: https://search.brave.com/search?q=Pizza+Hut+Karol+Bagh+Delhi+email+contact&source=web 429
+2026-10-13 12:56:00,731 - INFO - response: https://www.startpage.com/ 200
+2026-10-13 12:56:01,689 - INFO - response: https://www.startpage.com/sp/captcha-block?bc=IN&bi=Airtel&be=c9561adc58a21e7eba8be1ce4e6597b2&bds_t=1791876360T07b7aa7a35961711b1675b845b675792c8881152297d07d83fca12ebce3ec776&bds_s=6461b29d5bfa4987834b964a23922e97&language=english&lui=english&segment=organic&abe=0&sc=&t=device&qadf=moderate&qsr=en_US&abp=1&abd=0&query=Pizza+Hut+Karol+Bagh+Delhi+email+contact&cat=web&cmd=gen_page 200
+2026-10-13 12:56:02,483 - INFO - response: https://www.mojeek.com/search?q=Pizza+Hut+Karol+Bagh+Delhi+email+contact 403
+2026-10-13 12:56:02,483 - INFO -   Website candidate: https://restaurants.pizzahut.co.in/pizza-hut-ph-wea-tank-road-karol-bagh-pizza-restaurant-karol-bagh-new-delhi-130397/Contact-Us
+2026-10-13 12:56:04,830 - INFO -   No email found for 'Pizza Hut Karol Bagh'
+2026-10-13 12:56:04,831 - INFO - Finding email for: "Haldiram's Chandni Chowk" in 'Delhi'
+2026-10-13 12:56:05,586 - INFO - response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=Haldiram%27s%20Chandni%20Chowk%20Delhi%20email%20contact 200
+2026-10-13 12:56:05,981 - INFO - response: https://grokipedia.com/api/typeahead?query=Haldiram%27s+Chandni+Chowk+Delhi+email+contact&limit=1 200
+2026-10-13 12:56:06,843 - INFO - response: https://html.duckduckgo.com/html/ 200
+2026-10-13 12:56:06,856 - INFO -   Email found in snippet: products@haldiram.com
