@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 140" width="920" height="280">
+  <rect width="460" height="140" fill="#07080a"/>
+  <svg x="15" y="15" width="110" height="110" viewBox="0 0 100 100">
+    <rect width="100" height="100" rx="24" fill="#0f1117" stroke="rgba(255,255,255,0.12)" stroke-width="1.5"/>
+    <path d="M83.5 44.1 A34 34 0 1 1 71.85 23.95" fill="none" stroke="#ffffff" stroke-width="11" stroke-linecap="round"/>
+    <circle cx="81" cy="31" r="7.5" fill="#1f5fff"/>
+  </svg>
+  <text x="147" y="68" font-family="Outfit, 'Plus Jakarta Sans', 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="600" letter-spacing="-0.5" fill="#ffffff">standard</text>
+  <text x="147" y="112" font-family="Outfit, 'Plus Jakarta Sans', 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="600" letter-spacing="-0.5" fill="#1f5fff">autonomous</text>
+</svg>
