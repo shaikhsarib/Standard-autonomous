@@ -17,7 +17,7 @@
     "growth_goals": [],
     "created_at": "2026-10-27T16:02:53.947373Z"
   },
-  "status": "qualified",
+  "status": "contacted",
   "audit": {
     "load_time_seconds": 0.95,
     "has_ssl": true,
@@ -50,8 +50,10 @@
   "interest_level": null,
   "summary": "Hi team Safexpress Supply Chain, saw your fleet operations in Gurugram / Panvel, Mumbai! Shippers book whoever quotes rates within 5 mins. We build instant WhatsApp freight calculators & direct driver dispatch bots so you skip 20% broker fees. Open to a 2-min video preview?",
   "qualified": true,
-  "contacted_channels": [],
-  "last_contacted_at": null,
+  "contacted_channels": [
+    "whatsapp"
+  ],
+  "last_contacted_at": "2026-10-31T18:38:17.245362Z",
   "conversation_history": [],
   "meeting_link": null,
   "research": {
@@ -229,7 +231,7 @@
         }
       }
     ],
-    "verified_at": "2026-10-27T16:03:19.756868Z"
+    "verified_at": "2026-10-31T18:38:10.143299Z"
   },
   "handoff_trace": [
     {
@@ -305,8 +307,83 @@
       },
       "proof_artifacts": [],
       "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_8a101cef",
+      "source_agent": "scout_agent",
+      "target_agent": "researcher_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:38:10.142912Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "Safexpress Supply Chain",
+        "business_type": "Express Distribution & 3PL"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_e5873f50",
+      "source_agent": "researcher_agent",
+      "target_agent": "auditor_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:38:10.143024Z",
+      "status": "initiated",
+      "payload": {
+        "website": "https://www.safexpress.com/",
+        "company_name": "Safexpress Supply Chain"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_89dc303f",
+      "source_agent": "auditor_agent",
+      "target_agent": "copywriter_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:38:10.143113Z",
+      "status": "validated",
+      "payload": {
+        "key_flaws": [
+          "Missing Google SEO meta description (reduces search snippet click-through rate)",
+          "No instant WhatsApp ordering/inquiry widget on landing page",
+          "No instant freight rate calculator or live lane quote tool for shippers"
+        ],
+        "quantified_loss": "Losing 15-20% margin to freight brokers and ~8-12 spot loads weekly due to delayed manual quote turnaround"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_b0d36356",
+      "source_agent": "copywriter_agent",
+      "target_agent": "paperclip_approval_gate",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:38:10.224624Z",
+      "status": "validated",
+      "payload": {
+        "whatsapp_message": "Hi team Safexpress Supply Chain, saw your fleet operations in Gurugram / Panvel, Mumbai! Shippers book whoever quotes rates within 5 mins. We build instant WhatsApp freight calculators & direct driver dispatch bots so you skip 20% broker fees. Open to a 2-min video preview?",
+        "qualified": true
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_bc5bbe6a",
+      "source_agent": "paperclip_approval_gate",
+      "target_agent": "hermes_closer_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:38:17.245409Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "Safexpress Supply Chain",
+        "channel": "whatsapp",
+        "pitch_sent": "Hi team Safexpress Supply Chain, saw your fleet operations in Gurugram / Panvel, Mumbai! Shippers book whoever quotes rates within 5 mins. We build instant WhatsApp freight calculators & direct driver dispatch bots so you skip 20% broker fees. Open to a 2-min video preview?"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
     }
   ],
   "created_at": "2026-10-27T16:03:19.757968Z",
-  "updated_at": "2026-10-27T16:03:19.758348Z"
+  "updated_at": "2026-10-31T18:38:17.338683Z"
 }

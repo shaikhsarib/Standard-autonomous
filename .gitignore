@@ -9,7 +9,7 @@ venv/
 .venv/
 ENV/
 
-# Large External Vendor Clones & Tools (keeps core IC platform, skills & scrapling_research intact)
+# Large External Vendor Clones & Tools
 .agents/skills/trycua/upstream/
 .agents/skills/ruflo/upstream/
 .agents/skills/treg/upstream/
@@ -41,12 +41,14 @@ actionable_leads.json
 chatbot_analytics.json
 leads_input.csv
 
-# Logs
+# Logs & Debug dumps
 logs/*.log
+logs/*.txt
+logs/archive/
 *.log
 
 # OS & IDE
 .DS_Store
 Thumbs.db
-*.swp
-*.swo
+.vscode/
+.idea/

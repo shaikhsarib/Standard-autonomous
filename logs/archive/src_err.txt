@@ -1,7 +1,0 @@
-2026-10-13 12:26:23,436 - INFO - Fetching Sulekha listing: https://www.sulekha.com/restaurants/delhi-city
-2026-10-13 12:26:25,079 - INFO -   Found 13 listings on page 1
-2026-10-13 12:26:27,275 - INFO -   [restaurant] JAI SHREE RESTAURANTS & BANQUESTS | phone=9188261261 | email=None | website=False
-2026-10-13 12:26:29,524 - INFO -   [restaurant] Umesh Hebbal, | phone=7799584020 | email=None | website=False
-2026-10-13 12:26:31,642 - INFO -   [restaurant] Krishna Home Tutors Moti Nagar, | phone=7783276474 | email=None | website=False
-2026-10-13 12:26:33,738 - INFO -   [restaurant] Admissionvala.Com Indira Colony, Sonipat | phone=7809977389 | email=None | website=False
-2026-10-13 12:26:35,944 - INFO -   [restaurant] I Tech Computer Education Nalasopara East, | phone=7809168827 | email=None | website=False

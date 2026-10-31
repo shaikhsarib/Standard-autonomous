@@ -17,7 +17,7 @@
     "growth_goals": [],
     "created_at": "2026-10-27T16:06:39.944288Z"
   },
-  "status": "discovered",
+  "status": "contacted",
   "audit": {
     "load_time_seconds": 4.24,
     "has_ssl": true,
@@ -46,8 +46,10 @@
   "interest_level": null,
   "summary": "Hi team VLCC Wellness Center, love what you've built in Juhu Tara Road, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
   "qualified": true,
-  "contacted_channels": [],
-  "last_contacted_at": null,
+  "contacted_channels": [
+    "whatsapp"
+  ],
+  "last_contacted_at": "2026-10-31T18:25:45.946371Z",
   "conversation_history": [],
   "meeting_link": null,
   "research": {
@@ -215,7 +217,7 @@
         }
       }
     ],
-    "verified_at": "2026-10-27T16:07:08.034469Z"
+    "verified_at": "2026-10-31T18:25:48.882200Z"
   },
   "handoff_trace": [
     {
@@ -289,8 +291,81 @@
       },
       "proof_artifacts": [],
       "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_9a10338a",
+      "source_agent": "scout_agent",
+      "target_agent": "researcher_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:39.066188Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "VLCC Wellness Center",
+        "business_type": "Aesthetic Dermatology & Wellness"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_8add8733",
+      "source_agent": "researcher_agent",
+      "target_agent": "auditor_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:39.066274Z",
+      "status": "initiated",
+      "payload": {
+        "website": "https://www.vlccwellness.com/",
+        "company_name": "VLCC Wellness Center"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_939bbc4a",
+      "source_agent": "auditor_agent",
+      "target_agent": "copywriter_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:39.066371Z",
+      "status": "validated",
+      "payload": {
+        "key_flaws": [
+          "Slow mobile page load (4.24s) — Google reports 53% of mobile visits abandon sites taking >3s"
+        ],
+        "quantified_loss": "Minor friction in mobile speed and search visibility"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_7e7f2ec7",
+      "source_agent": "copywriter_agent",
+      "target_agent": "paperclip_approval_gate",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:39.497095Z",
+      "status": "validated",
+      "payload": {
+        "whatsapp_message": "Hi team VLCC Wellness Center, love what you've built in Juhu Tara Road, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+        "qualified": true
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_5a03d51e",
+      "source_agent": "paperclip_approval_gate",
+      "target_agent": "hermes_closer_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:45.946430Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "VLCC Wellness Center",
+        "channel": "whatsapp",
+        "pitch_sent": "Hi team VLCC Wellness Center, love what you've built in Juhu Tara Road, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
     }
   ],
   "created_at": "2026-10-27T16:07:08.035169Z",
-  "updated_at": "2026-10-27T16:07:08.035268Z"
+  "updated_at": "2026-10-31T18:25:48.882326Z"
 }

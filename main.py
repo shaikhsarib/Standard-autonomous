@@ -1,110 +1,78 @@
-import argparse
+#!/usr/bin/env python3
+"""
+Standard Autonomous • Multi-Agent Autonomous OS
+Main Application Entrypoint
+------------------------------------------------
+Provides unified access to:
+  1. Web Command Center & API Server (`python main.py` or `python main.py server`)
+  2. Unified Rich CLI (`python main.py cli ...`)
+  3. Direct pipeline execution with backward compatibility flags
+"""
+
 import sys
-import logging
 import os
-import time
-from dotenv import load_dotenv
+from pathlib import Path
 
-from core.engine import LeadGenerationEngine
-from core.schemas import BusinessProfile
-from services.llm_client import ProductionLLMClient
-from scrapers.scrapper_module import find_businesses
-from delivery.delivery_module import deliver_lead
+# Ensure root and src are in python path
+root_dir = Path(__file__).resolve().parent
+src_dir = root_dir / "src"
+if str(root_dir) not in sys.path:
+    sys.path.insert(0, str(root_dir))
+if str(src_dir) not in sys.path:
+    sys.path.insert(0, str(src_dir))
 
-load_dotenv()
-
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-
-
-def run_chat(engine: LeadGenerationEngine, profile: BusinessProfile, simulation: bool = False) -> None:
-    """Execute the chat loop and handle lead delivery."""
-    session = engine.create_session(profile)
-    print(f"\n--- Starting chat for {profile.company_name} ---")
-
-    response = engine.generate_next_response(session)
-    print(f"Bot: {response}")
-
+if sys.platform == "win32" and hasattr(sys.stdout, "reconfigure"):
     try:
-        if simulation:
-            inputs = [
-                "Hi, what do you offer?",
-                "My budget is around $3000.",
-                "Sounds interesting, here is my email rohit@example.com.",
-                "exit",
-            ]
-            for user_input in inputs:
-                print(f"You (simulation): {user_input}")
-                if user_input == "exit":
-                    break
-                response = engine.generate_next_response(session, user_input)
-                print(f"Bot: {response}")
-                time.sleep(1)
+        sys.stdout.reconfigure(encoding="utf-8")
+        sys.stderr.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
+
+
+def run_server():
+    """Start the FastAPI backend server and dashboard."""
+    import uvicorn
+    from config.settings import settings
+
+    print("\n" + "=" * 65)
+    print(" [Standard Autonomous] Multi-Agent Autonomous OS")
+    print(f" Dashboard: http://127.0.0.1:{settings.PORT}")
+    print(f" API Docs:  http://127.0.0.1:{settings.PORT}/docs")
+    print("=" * 65 + "\n")
+    uvicorn.run("src.api.server:app", host="127.0.0.1", port=settings.PORT, reload=settings.DEBUG)
+
+
+def run_cli(args):
+    """Delegate to the rich CLI interface."""
+    from cli import app
+    sys.argv = [sys.argv[0]] + args
+    app()
+
+
+def main():
+    if len(sys.argv) > 1:
+        cmd = sys.argv[1].lower()
+        if cmd in ("server", "serve", "api", "web"):
+            run_server()
+            return
+        elif cmd in ("cli", "run"):
+            run_cli(sys.argv[2:])
+            return
+        elif cmd in ("--help", "-h"):
+            print("Standard Autonomous • Multi-Agent Autonomous OS")
+            print("\nUsage:")
+            print("  python main.py                  # Start Web Command Center (default)")
+            print("  python main.py server           # Explicitly start Web Server")
+            print("  python main.py cli <command>    # Run CLI commands (discover, outreach, etc.)")
+            print("  python cli.py --help            # View all available CLI tools")
+            return
         else:
-            while True:
-                user_input = input("You (type 'exit' to stop): ")
-                if user_input.lower() == "exit":
-                    break
-                response = engine.generate_next_response(session, user_input)
-                print(f"Bot: {response}")
-
-    except KeyboardInterrupt:
-        print("\nChat stopped by user.")
-
-    print("\n--- Extracting lead data ---")
-    lead = engine.extract_lead(session)
-    if lead and lead.qualified and lead.contact_email:
-        print(f"Lead extracted: {lead.contact_name} ({lead.contact_email}), Interest: {lead.interest_level}")
-
-        lead_data = {
-            "name": lead.contact_name,
-            "website": profile.website,
-            "budget": lead.budget,
-            "email": lead.contact_email,
-            "interest_level": lead.interest_level,
-            "summary": lead.summary,
-        }
-
-        print("\n--- Delivering lead ---")
-        delivery_status = deliver_lead(lead_data)
-        print(f"Delivery status: {delivery_status}")
+            # Delegate arbitrary arguments to the CLI app
+            run_cli(sys.argv[1:])
+            return
     else:
-        print("No qualified lead with email extracted.")
-
-
-def main() -> None:
-    parser = argparse.ArgumentParser(description="Advanced Lead Gen Chatbot CLI")
-    parser.add_argument("--query", type=str, default="software development")
-    parser.add_argument("--location", type=str, default="San Francisco")
-    parser.add_argument("--limit", type=int, default=3)
-    parser.add_argument("--simulate", action="store_true", help="Run in simulation mode")
-    parser.add_argument("--mock", action="store_true", help="Use mock leads")
-    args = parser.parse_args()
-
-    if args.mock:
-        os.environ["USE_MOCK_LEADS"] = "true"
-
-    try:
-        llm_client = ProductionLLMClient()
-        engine = LeadGenerationEngine(llm_client)
-    except Exception as exc:
-        logging.error(f"Initialization error: {exc}")
-        sys.exit(1)
-
-    print(f"Finding businesses for '{args.query}' in '{args.location}'...")
-    leads = find_businesses(args.query, args.location, args.limit)
-
-    if not leads:
-        print("No businesses found.")
-        return
-
-    for lead_profile in leads:
-        profile = BusinessProfile(
-            company_name=lead_profile["name"],
-            website=lead_profile.get("website"),
-            industry=args.query,
-            pain_points=[],
-        )
-        run_chat(engine, profile, args.simulate)
+        # Default behavior: Launch Web Command Center
+        run_server()
 
 
 if __name__ == "__main__":

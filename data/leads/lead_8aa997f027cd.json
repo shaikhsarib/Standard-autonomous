@@ -17,7 +17,7 @@
     "growth_goals": [],
     "created_at": "2026-10-27T16:07:08.037508Z"
   },
-  "status": "discovered",
+  "status": "contacted",
   "audit": {
     "load_time_seconds": 0.74,
     "has_ssl": true,
@@ -46,8 +46,10 @@
   "interest_level": null,
   "summary": "Hi team Hiranandani Communities, love what you've built in Powai, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
   "qualified": true,
-  "contacted_channels": [],
-  "last_contacted_at": null,
+  "contacted_channels": [
+    "whatsapp"
+  ],
+  "last_contacted_at": "2026-10-31T18:25:46.039862Z",
   "conversation_history": [],
   "meeting_link": null,
   "research": {
@@ -210,7 +212,7 @@
         }
       }
     ],
-    "verified_at": "2026-10-27T16:07:47.290260Z"
+    "verified_at": "2026-10-31T18:25:48.878760Z"
   },
   "handoff_trace": [
     {
@@ -284,8 +286,81 @@
       },
       "proof_artifacts": [],
       "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_948b29e8",
+      "source_agent": "scout_agent",
+      "target_agent": "researcher_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:38.371763Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "Hiranandani Communities",
+        "business_type": "Commercial Real Estate & Tech Parks"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_5282c22c",
+      "source_agent": "researcher_agent",
+      "target_agent": "auditor_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:38.371863Z",
+      "status": "initiated",
+      "payload": {
+        "website": "https://www.hiranandani.com/",
+        "company_name": "Hiranandani Communities"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_dcd8cf12",
+      "source_agent": "auditor_agent",
+      "target_agent": "copywriter_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:38.381394Z",
+      "status": "validated",
+      "payload": {
+        "key_flaws": [
+          "No instant WhatsApp ordering/inquiry widget on landing page"
+        ],
+        "quantified_loss": "Losing high-intent general clients weekly due to high friction in contact method"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_49df1b4c",
+      "source_agent": "copywriter_agent",
+      "target_agent": "paperclip_approval_gate",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:39.032755Z",
+      "status": "validated",
+      "payload": {
+        "whatsapp_message": "Hi team Hiranandani Communities, love what you've built in Powai, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+        "qualified": true
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_1284d5aa",
+      "source_agent": "paperclip_approval_gate",
+      "target_agent": "hermes_closer_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:46.039921Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "Hiranandani Communities",
+        "channel": "whatsapp",
+        "pitch_sent": "Hi team Hiranandani Communities, love what you've built in Powai, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
     }
   ],
   "created_at": "2026-10-27T16:07:47.290900Z",
-  "updated_at": "2026-10-27T16:07:47.291040Z"
+  "updated_at": "2026-10-31T18:25:48.878914Z"
 }

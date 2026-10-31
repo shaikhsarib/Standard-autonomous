@@ -17,7 +17,7 @@
     "growth_goals": [],
     "created_at": "2026-10-27T17:19:29.837956Z"
   },
-  "status": "pending_approval",
+  "status": "contacted",
   "audit": {
     "load_time_seconds": null,
     "has_ssl": false,
@@ -52,8 +52,10 @@
   "interest_level": null,
   "summary": "Hi team TransNational Freight & Logistics, saw your fleet operations in Navi Mumbai! Shippers book whoever quotes rates within 5 mins. We build instant WhatsApp freight calculators & direct driver dispatch bots so you skip 20% broker fees. Open to a 2-min video preview?",
   "qualified": true,
-  "contacted_channels": [],
-  "last_contacted_at": null,
+  "contacted_channels": [
+    "whatsapp"
+  ],
+  "last_contacted_at": "2026-10-31T18:25:46.754135Z",
   "conversation_history": [],
   "meeting_link": null,
   "research": {
@@ -213,7 +215,7 @@
         }
       }
     ],
-    "verified_at": "2026-10-27T17:19:44.610920Z"
+    "verified_at": "2026-10-31T18:25:51.270210Z"
   },
   "handoff_trace": [
     {
@@ -276,8 +278,84 @@
       },
       "proof_artifacts": [],
       "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_c0dd9c14",
+      "source_agent": "paperclip_approval_gate",
+      "target_agent": "hermes_closer_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:46.754187Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "TransNational Freight & Logistics",
+        "channel": "whatsapp",
+        "pitch_sent": "Hi team TransNational Freight & Logistics, saw your fleet operations in Navi Mumbai! Shippers book whoever quotes rates within 5 mins. We build instant WhatsApp freight calculators & direct driver dispatch bots so you skip 20% broker fees. Open to a 2-min video preview?"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_230cda4b",
+      "source_agent": "scout_agent",
+      "target_agent": "researcher_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:51.269890Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "TransNational Freight & Logistics",
+        "business_type": "freight transport and logistics"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_60488419",
+      "source_agent": "researcher_agent",
+      "target_agent": "auditor_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:51.269980Z",
+      "status": "initiated",
+      "payload": {
+        "website": "",
+        "company_name": "TransNational Freight & Logistics"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_d7a30fbc",
+      "source_agent": "auditor_agent",
+      "target_agent": "copywriter_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:51.270070Z",
+      "status": "validated",
+      "payload": {
+        "key_flaws": [
+          "No direct digital booking or freight rate calculator",
+          "100% reliant on 3rd-party freight brokers and load boards (paying 15-25% broker cuts)",
+          "Invisible to direct shippers searching online for reliable lane carriers",
+          "No automated WhatsApp response system for after-hours rate inquiries"
+        ],
+        "quantified_loss": "Losing 15-20% margin to freight brokers and ~8-12 spot loads weekly due to delayed manual quote turnaround"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_120d4457",
+      "source_agent": "copywriter_agent",
+      "target_agent": "paperclip_approval_gate",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:51.462686Z",
+      "status": "validated",
+      "payload": {
+        "whatsapp_message": "Hi team TransNational Freight & Logistics, saw your fleet operations in Navi Mumbai! Shippers book whoever quotes rates within 5 mins. We build instant WhatsApp freight calculators & direct driver dispatch bots so you skip 20% broker fees. Open to a 2-min video preview?",
+        "qualified": true
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
     }
   ],
   "created_at": "2026-10-27T17:19:29.863925Z",
-  "updated_at": "2026-10-27T17:19:44.755466Z"
+  "updated_at": "2026-10-31T18:25:51.462774Z"
 }

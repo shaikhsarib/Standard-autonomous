@@ -17,7 +17,7 @@
     "growth_goals": [],
     "created_at": "2026-10-27T16:08:15.405523Z"
   },
-  "status": "discovered",
+  "status": "contacted",
   "audit": {
     "load_time_seconds": 3.42,
     "has_ssl": true,
@@ -48,8 +48,10 @@
   "interest_level": null,
   "summary": "Hi team Lodha Commercial Assets, love what you've built in Lower Parel, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
   "qualified": true,
-  "contacted_channels": [],
-  "last_contacted_at": null,
+  "contacted_channels": [
+    "whatsapp"
+  ],
+  "last_contacted_at": "2026-10-31T18:25:46.268244Z",
   "conversation_history": [],
   "meeting_link": null,
   "research": {
@@ -212,7 +214,7 @@
         }
       }
     ],
-    "verified_at": "2026-10-27T16:09:00.530478Z"
+    "verified_at": "2026-10-31T18:25:48.871679Z"
   },
   "handoff_trace": [
     {
@@ -287,8 +289,82 @@
       },
       "proof_artifacts": [],
       "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_d1601af9",
+      "source_agent": "scout_agent",
+      "target_agent": "researcher_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:37.640156Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "Lodha Commercial Assets",
+        "business_type": "Commercial IT Parks & Workspaces"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_c40ee449",
+      "source_agent": "researcher_agent",
+      "target_agent": "auditor_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:37.640311Z",
+      "status": "initiated",
+      "payload": {
+        "website": "https://www.lodhagroup.in/",
+        "company_name": "Lodha Commercial Assets"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_74c3ac4e",
+      "source_agent": "auditor_agent",
+      "target_agent": "copywriter_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:37.640426Z",
+      "status": "validated",
+      "payload": {
+        "key_flaws": [
+          "No instant WhatsApp ordering/inquiry widget on landing page",
+          "No 1-click online booking or reservation system found"
+        ],
+        "quantified_loss": "Losing high-intent local services clients weekly due to high friction in contact method"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_0a34f603",
+      "source_agent": "copywriter_agent",
+      "target_agent": "paperclip_approval_gate",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:37.849507Z",
+      "status": "validated",
+      "payload": {
+        "whatsapp_message": "Hi team Lodha Commercial Assets, love what you've built in Lower Parel, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+        "qualified": true
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_7a0f0317",
+      "source_agent": "paperclip_approval_gate",
+      "target_agent": "hermes_closer_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:46.268309Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "Lodha Commercial Assets",
+        "channel": "whatsapp",
+        "pitch_sent": "Hi team Lodha Commercial Assets, love what you've built in Lower Parel, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
     }
   ],
   "created_at": "2026-10-27T16:09:00.531327Z",
-  "updated_at": "2026-10-27T16:09:00.531440Z"
+  "updated_at": "2026-10-31T18:25:48.871792Z"
 }

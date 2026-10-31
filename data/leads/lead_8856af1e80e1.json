@@ -17,7 +17,7 @@
     "growth_goals": [],
     "created_at": "2026-10-27T16:03:58.199144Z"
   },
-  "status": "qualified",
+  "status": "contacted",
   "audit": {
     "load_time_seconds": 8.95,
     "has_ssl": true,
@@ -46,8 +46,10 @@
   "interest_level": null,
   "summary": "Hi team Gati Express Logistics, saw your fleet operations in Kalamboli, Navi Mumbai! Shippers book whoever quotes rates within 5 mins. We build instant WhatsApp freight calculators & direct driver dispatch bots so you skip 20% broker fees. Open to a 2-min video preview?",
   "qualified": true,
-  "contacted_channels": [],
-  "last_contacted_at": null,
+  "contacted_channels": [
+    "whatsapp"
+  ],
+  "last_contacted_at": "2026-10-31T18:25:45.829616Z",
   "conversation_history": [],
   "meeting_link": null,
   "research": {
@@ -200,7 +202,7 @@
         }
       }
     ],
-    "verified_at": "2026-10-27T16:04:41.931784Z"
+    "verified_at": "2026-10-31T18:25:48.884179Z"
   },
   "handoff_trace": [
     {
@@ -274,8 +276,81 @@
       },
       "proof_artifacts": [],
       "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_5db8ab29",
+      "source_agent": "scout_agent",
+      "target_agent": "researcher_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:39.520350Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "Gati Express Logistics",
+        "business_type": "Express Distribution"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_097868b4",
+      "source_agent": "researcher_agent",
+      "target_agent": "auditor_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:39.520442Z",
+      "status": "initiated",
+      "payload": {
+        "website": "https://www.gati.com/",
+        "company_name": "Gati Express Logistics"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_ec277730",
+      "source_agent": "auditor_agent",
+      "target_agent": "copywriter_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:39.520525Z",
+      "status": "validated",
+      "payload": {
+        "key_flaws": [
+          "Slow mobile page load (8.95s) — Google reports 53% of mobile visits abandon sites taking >3s"
+        ],
+        "quantified_loss": "Minor friction in mobile speed and search visibility"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_211374e0",
+      "source_agent": "copywriter_agent",
+      "target_agent": "paperclip_approval_gate",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:39.784749Z",
+      "status": "validated",
+      "payload": {
+        "whatsapp_message": "Hi team Gati Express Logistics, saw your fleet operations in Kalamboli, Navi Mumbai! Shippers book whoever quotes rates within 5 mins. We build instant WhatsApp freight calculators & direct driver dispatch bots so you skip 20% broker fees. Open to a 2-min video preview?",
+        "qualified": true
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_b32ee5b9",
+      "source_agent": "paperclip_approval_gate",
+      "target_agent": "hermes_closer_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:45.829669Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "Gati Express Logistics",
+        "channel": "whatsapp",
+        "pitch_sent": "Hi team Gati Express Logistics, saw your fleet operations in Kalamboli, Navi Mumbai! Shippers book whoever quotes rates within 5 mins. We build instant WhatsApp freight calculators & direct driver dispatch bots so you skip 20% broker fees. Open to a 2-min video preview?"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
     }
   ],
   "created_at": "2026-10-27T16:04:41.932529Z",
-  "updated_at": "2026-10-27T16:04:41.932626Z"
+  "updated_at": "2026-10-31T18:25:48.884293Z"
 }

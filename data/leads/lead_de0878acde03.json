@@ -17,7 +17,7 @@
     "growth_goals": [],
     "created_at": "2026-10-27T16:01:42.351143Z"
   },
-  "status": "pending_approval",
+  "status": "contacted",
   "audit": {
     "load_time_seconds": 1.19,
     "has_ssl": true,
@@ -50,8 +50,10 @@
   "interest_level": null,
   "summary": "Hi team Bombay Freight Pvt Ltd, saw your fleet operations in Fort, Mumbai! Shippers book whoever quotes rates within 5 mins. We build instant WhatsApp freight calculators & direct driver dispatch bots so you skip 20% broker fees. Open to a 2-min video preview?",
   "qualified": true,
-  "contacted_channels": [],
-  "last_contacted_at": null,
+  "contacted_channels": [
+    "whatsapp"
+  ],
+  "last_contacted_at": "2026-10-31T18:25:47.023127Z",
   "conversation_history": [],
   "meeting_link": null,
   "research": {
@@ -229,7 +231,7 @@
         }
       }
     ],
-    "verified_at": "2026-10-27T16:02:14.247768Z"
+    "verified_at": "2026-10-31T18:25:48.855554Z"
   },
   "handoff_trace": [
     {
@@ -305,8 +307,23 @@
       },
       "proof_artifacts": [],
       "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_d4ff1c87",
+      "source_agent": "paperclip_approval_gate",
+      "target_agent": "hermes_closer_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:47.023186Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "Bombay Freight Pvt Ltd",
+        "channel": "whatsapp",
+        "pitch_sent": "Hi team Bombay Freight Pvt Ltd, saw your fleet operations in Fort, Mumbai! Shippers book whoever quotes rates within 5 mins. We build instant WhatsApp freight calculators & direct driver dispatch bots so you skip 20% broker fees. Open to a 2-min video preview?"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
     }
   ],
   "created_at": "2026-10-27T16:02:14.248323Z",
-  "updated_at": "2026-10-27T16:02:14.248427Z"
+  "updated_at": "2026-10-31T18:25:48.855686Z"
 }

@@ -1,0 +1,72 @@
+{
+  "id": "lead_test_ecc_api",
+  "profile": {
+    "company_name": "ECC Cargo Logistics",
+    "business_type": "freight transport",
+    "location": "Bhiwandi",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "has_website": false,
+    "address": null,
+    "rating": null,
+    "source": "manual",
+    "source_url": null,
+    "vertical": "general",
+    "pain_points": [],
+    "growth_goals": [],
+    "created_at": "2026-10-31T18:36:20.967091Z"
+  },
+  "status": "contacted",
+  "audit": {
+    "load_time_seconds": 3.2,
+    "has_ssl": true,
+    "is_mobile_responsive": true,
+    "has_whatsapp_widget": false,
+    "has_online_booking": false,
+    "key_flaws": [],
+    "quantified_loss": null,
+    "screenshot_path": null,
+    "audited_at": "2026-10-31T18:36:20.967114Z"
+  },
+  "draft": {
+    "whatsapp_message": "Hi ECC Cargo Logistics, your verified load time is 3.2s. Here is your calculator prototype.",
+    "email_subject": null,
+    "email_body": null,
+    "pain_points": [],
+    "business_loss": null
+  },
+  "contact_name": null,
+  "contact_email": null,
+  "budget": null,
+  "interest_level": null,
+  "summary": null,
+  "qualified": false,
+  "contacted_channels": [
+    "whatsapp"
+  ],
+  "last_contacted_at": "2026-10-31T18:38:17.544528Z",
+  "conversation_history": [],
+  "meeting_link": null,
+  "research": null,
+  "pstack_proof": null,
+  "handoff_trace": [
+    {
+      "handoff_id": "hnd_277f6ecb",
+      "source_agent": "paperclip_approval_gate",
+      "target_agent": "hermes_closer_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:38:17.544583Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "ECC Cargo Logistics",
+        "channel": "whatsapp",
+        "pitch_sent": "Hi ECC Cargo Logistics, your verified load time is 3.2s. Here is your calculator prototype."
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    }
+  ],
+  "created_at": "2026-10-31T18:36:20.967151Z",
+  "updated_at": "2026-10-31T18:38:17.659291Z"
+}

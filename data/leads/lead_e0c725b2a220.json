@@ -17,7 +17,7 @@
     "growth_goals": [],
     "created_at": "2026-10-27T16:03:19.762188Z"
   },
-  "status": "qualified",
+  "status": "contacted",
   "audit": {
     "load_time_seconds": 1.36,
     "has_ssl": true,
@@ -48,8 +48,10 @@
   "interest_level": null,
   "summary": "Hi team TCI Express Limited, saw your fleet operations in Turbhe, Navi Mumbai! Shippers book whoever quotes rates within 5 mins. We build instant WhatsApp freight calculators & direct driver dispatch bots so you skip 20% broker fees. Open to a 2-min video preview?",
   "qualified": true,
-  "contacted_channels": [],
-  "last_contacted_at": null,
+  "contacted_channels": [
+    "whatsapp"
+  ],
+  "last_contacted_at": "2026-10-31T18:38:17.148066Z",
   "conversation_history": [],
   "meeting_link": null,
   "research": {
@@ -212,7 +214,7 @@
         }
       }
     ],
-    "verified_at": "2026-10-27T16:03:58.194252Z"
+    "verified_at": "2026-10-31T18:38:10.226392Z"
   },
   "handoff_trace": [
     {
@@ -287,8 +289,82 @@
       },
       "proof_artifacts": [],
       "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_26136165",
+      "source_agent": "scout_agent",
+      "target_agent": "researcher_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:38:10.226044Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "TCI Express Limited",
+        "business_type": "Time-Definite Express Cargo"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_2e0597e4",
+      "source_agent": "researcher_agent",
+      "target_agent": "auditor_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:38:10.226130Z",
+      "status": "initiated",
+      "payload": {
+        "website": "https://www.tciexpress.in/",
+        "company_name": "TCI Express Limited"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_82fba0ea",
+      "source_agent": "auditor_agent",
+      "target_agent": "copywriter_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:38:10.226232Z",
+      "status": "validated",
+      "payload": {
+        "key_flaws": [
+          "No instant WhatsApp ordering/inquiry widget on landing page",
+          "No 1-click online booking or reservation system found"
+        ],
+        "quantified_loss": "Losing high-intent logistics transport clients weekly due to high friction in contact method"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_aad0df1a",
+      "source_agent": "copywriter_agent",
+      "target_agent": "paperclip_approval_gate",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:38:10.419782Z",
+      "status": "validated",
+      "payload": {
+        "whatsapp_message": "Hi team TCI Express Limited, saw your fleet operations in Turbhe, Navi Mumbai! Shippers book whoever quotes rates within 5 mins. We build instant WhatsApp freight calculators & direct driver dispatch bots so you skip 20% broker fees. Open to a 2-min video preview?",
+        "qualified": true
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_7233b31b",
+      "source_agent": "paperclip_approval_gate",
+      "target_agent": "hermes_closer_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:38:17.148130Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "TCI Express Limited",
+        "channel": "whatsapp",
+        "pitch_sent": "Hi team TCI Express Limited, saw your fleet operations in Turbhe, Navi Mumbai! Shippers book whoever quotes rates within 5 mins. We build instant WhatsApp freight calculators & direct driver dispatch bots so you skip 20% broker fees. Open to a 2-min video preview?"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
     }
   ],
   "created_at": "2026-10-27T16:03:58.194790Z",
-  "updated_at": "2026-10-27T16:03:58.194882Z"
+  "updated_at": "2026-10-31T18:38:17.242890Z"
 }

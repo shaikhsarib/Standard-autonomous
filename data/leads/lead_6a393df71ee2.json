@@ -17,7 +17,7 @@
     "growth_goals": [],
     "created_at": "2026-10-27T16:02:14.252459Z"
   },
-  "status": "qualified",
+  "status": "contacted",
   "audit": {
     "load_time_seconds": 2.25,
     "has_ssl": true,
@@ -47,8 +47,10 @@
   "interest_level": null,
   "summary": "Hi team Om Logistics Ltd, saw your fleet operations in Delhi NCR & Bhiwandi Mumbai! Shippers book whoever quotes rates within 5 mins. We build instant WhatsApp freight calculators & direct driver dispatch bots so you skip 20% broker fees. Open to a 2-min video preview?",
   "qualified": true,
-  "contacted_channels": [],
-  "last_contacted_at": null,
+  "contacted_channels": [
+    "whatsapp"
+  ],
+  "last_contacted_at": "2026-10-31T18:38:17.341713Z",
   "conversation_history": [],
   "meeting_link": null,
   "research": {
@@ -201,7 +203,7 @@
         }
       }
     ],
-    "verified_at": "2026-10-27T16:02:53.943380Z"
+    "verified_at": "2026-10-31T18:36:58.769840Z"
   },
   "handoff_trace": [
     {
@@ -273,8 +275,79 @@
       },
       "proof_artifacts": [],
       "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_d98709c6",
+      "source_agent": "scout_agent",
+      "target_agent": "researcher_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:36:58.769233Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "Om Logistics Ltd",
+        "business_type": "Supply Chain & Express Cargo"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_693e34e8",
+      "source_agent": "researcher_agent",
+      "target_agent": "auditor_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:36:58.769467Z",
+      "status": "initiated",
+      "payload": {
+        "website": "https://omlogistics.co.in/",
+        "company_name": "Om Logistics Ltd"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_cfaa6e2d",
+      "source_agent": "auditor_agent",
+      "target_agent": "copywriter_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:36:58.769630Z",
+      "status": "validated",
+      "payload": {
+        "key_flaws": [],
+        "quantified_loss": "Minor friction in mobile speed and search visibility"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_4f335791",
+      "source_agent": "copywriter_agent",
+      "target_agent": "paperclip_approval_gate",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:36:58.915753Z",
+      "status": "validated",
+      "payload": {
+        "whatsapp_message": "Hi team Om Logistics Ltd, saw your fleet operations in Delhi NCR & Bhiwandi Mumbai! Shippers book whoever quotes rates within 5 mins. We build instant WhatsApp freight calculators & direct driver dispatch bots so you skip 20% broker fees. Open to a 2-min video preview?",
+        "qualified": true
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_6e1bf615",
+      "source_agent": "paperclip_approval_gate",
+      "target_agent": "hermes_closer_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:38:17.341769Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "Om Logistics Ltd",
+        "channel": "whatsapp",
+        "pitch_sent": "Hi team Om Logistics Ltd, saw your fleet operations in Delhi NCR & Bhiwandi Mumbai! Shippers book whoever quotes rates within 5 mins. We build instant WhatsApp freight calculators & direct driver dispatch bots so you skip 20% broker fees. Open to a 2-min video preview?"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
     }
   ],
   "created_at": "2026-10-27T16:02:53.943888Z",
-  "updated_at": "2026-10-27T16:02:53.943980Z"
+  "updated_at": "2026-10-31T18:38:17.447940Z"
 }

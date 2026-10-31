@@ -17,7 +17,7 @@
     "growth_goals": [],
     "created_at": "2026-10-27T16:07:47.294027Z"
   },
-  "status": "discovered",
+  "status": "contacted",
   "audit": {
     "load_time_seconds": 1.43,
     "has_ssl": true,
@@ -46,8 +46,10 @@
   "interest_level": null,
   "summary": "Hi team K Raheja Corp Commercial, love what you've built in Bandra Kurla Complex (BKC), Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
   "qualified": true,
-  "contacted_channels": [],
-  "last_contacted_at": null,
+  "contacted_channels": [
+    "whatsapp"
+  ],
+  "last_contacted_at": "2026-10-31T18:25:46.149417Z",
   "conversation_history": [],
   "meeting_link": null,
   "research": {
@@ -225,7 +227,7 @@
         }
       }
     ],
-    "verified_at": "2026-10-27T16:08:15.401769Z"
+    "verified_at": "2026-10-31T18:25:48.873087Z"
   },
   "handoff_trace": [
     {
@@ -299,8 +301,81 @@
       },
       "proof_artifacts": [],
       "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_d54e0c1b",
+      "source_agent": "scout_agent",
+      "target_agent": "researcher_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:37.854807Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "K Raheja Corp Commercial",
+        "business_type": "Grade-A Commercial Real Estate"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_df020436",
+      "source_agent": "researcher_agent",
+      "target_agent": "auditor_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:37.854946Z",
+      "status": "initiated",
+      "payload": {
+        "website": "https://www.krahejacorp.com/",
+        "company_name": "K Raheja Corp Commercial"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_1a6d199b",
+      "source_agent": "auditor_agent",
+      "target_agent": "copywriter_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:37.855083Z",
+      "status": "validated",
+      "payload": {
+        "key_flaws": [
+          "No instant WhatsApp ordering/inquiry widget on landing page"
+        ],
+        "quantified_loss": "Losing high-intent general clients weekly due to high friction in contact method"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_dafff809",
+      "source_agent": "copywriter_agent",
+      "target_agent": "paperclip_approval_gate",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:38.357226Z",
+      "status": "validated",
+      "payload": {
+        "whatsapp_message": "Hi team K Raheja Corp Commercial, love what you've built in Bandra Kurla Complex (BKC), Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
+        "qualified": true
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_a7ef92bb",
+      "source_agent": "paperclip_approval_gate",
+      "target_agent": "hermes_closer_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:46.149511Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "K Raheja Corp Commercial",
+        "channel": "whatsapp",
+        "pitch_sent": "Hi team K Raheja Corp Commercial, love what you've built in Bandra Kurla Complex (BKC), Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
     }
   ],
   "created_at": "2026-10-27T16:08:15.402430Z",
-  "updated_at": "2026-10-27T16:08:15.402518Z"
+  "updated_at": "2026-10-31T18:25:48.873184Z"
 }

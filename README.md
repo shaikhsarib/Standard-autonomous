@@ -1,4 +1,4 @@
-# Standard autonomous (v2.5)
+# Standard Autonomous (v2.5)
 
 A production-grade, multi-agent Intelligence Center, Technical Audit, and Autonomous Sales Development Representative (SDR) platform inspired by **Paperclip** (multi-agent workforce management) and **REA** (Reverse-Engineering Anything / Chrome DevTools).
 
@@ -17,6 +17,38 @@ A production-grade, multi-agent Intelligence Center, Technical Audit, and Autono
 - **Freight & Logistics**: Spotlights missing track-and-trace widgets, load booking friction, and slow RFQ turnaround.
 - **Event Venues & Planners**: Audits mobile date availability checkers, virtual tours, and 1-click WhatsApp quote requests.
 - **Local High-Ticket SMBs**: Focuses on mobile loading speed, click-to-call buttons, and local search visibility.
+
+---
+
+## 🏗️ Repository Architecture
+
+The project adheres to a clean, senior-developer modular layout:
+
+```text
+Standard-autonomous/
+├── config/              # Centralized environment settings & pitch claims
+├── data/                # Local data storage (leads, sessions, screenshots)
+├── docs/                # Architecture docs, flow charts & PDF audit reports
+│   └── reports/         # Executive & technical research reports
+├── legacy/              # Preserved V1 archive (engine, early scrapers)
+├── logo/                # Official brand identity vectors (light & dark mode)
+├── src/                 # Production Source Code
+│   ├── agents/          # Multi-agent coordination & safety shields (ECC)
+│   ├── api/             # FastAPI REST endpoints & Command Center Web UI
+│   ├── core/            # System contracts & protocol definitions
+│   ├── delivery/        # Multi-channel notification engine (WhatsApp, Email)
+│   ├── models/          # Pydantic v2 domain schemas (Lead, Conversation)
+│   ├── pipelines/       # End-to-end workflow orchestration
+│   ├── scrapers/        # Resilient discovery scrapers (Maps, Web, Scrapling)
+│   ├── services/        # Workforce, LLM gateway & technical auditing
+│   └── storage/         # High-performance local JSON repository layer
+├── tests/               # Pytest automated test suite
+├── cli.py               # Unified Rich terminal CLI
+├── main.py              # Primary production launcher (Server / CLI)
+├── pyproject.toml       # Modern Python build & tool configuration
+├── pytest.ini           # Pytest suite configuration
+└── run_server.py        # Standalone FastAPI server launcher
+```
 
 ---
 
@@ -47,47 +79,49 @@ Key configuration:
 ### Option A: Web Command Center (Recommended)
 Launch the modern FastAPI web dashboard:
 ```bash
+python main.py
+# or
 python run_server.py
 ```
 Open **`http://127.0.0.1:8000`** in your browser to access:
-1. **Step 1: Live Discovery & Scouting:** Discover leads by category and location.
-2. **Step 2: REA Mobile Viewport Auditor:** Live iPhone 14 bezel displaying authentic mobile snapshots and Pstack proof verification.
-3. **Step 3: Outbox Human Sign-off:** Side-by-side WhatsApp & Cold Email preview with 1-click dispatch.
-4. **Step 4: Hermes Live Deals Desk:** Multi-turn inbound objection handling with instant objection pills and Calendly booking.
-5. **Paperclip Live Studio Drawer:** Direct embedded connection to your standalone Paperclip instance running on `http://localhost:3100`.
+1. **Live Discovery & Scouting**: Discover leads by category and location.
+2. **REA Mobile Viewport Auditor**: Live iPhone 14 bezel displaying authentic mobile snapshots and proof verification.
+3. **Outbox Human Sign-off**: Side-by-side WhatsApp & Cold Email preview with 1-click dispatch.
+4. **Hermes Live Deals Desk**: Multi-turn inbound objection handling with instant objection pills and Calendly booking.
+5. **Paperclip Live Studio Drawer**: Direct embedded connection to your standalone Paperclip instance running on `http://localhost:3100`.
 
 ### Option B: Unified Terminal CLI
 ```bash
-# 1. Scout businesses (e.g., restaurants in Mumbai)
-python cli.py discover --category "restaurant" --location "Mumbai" --limit 5
+# 1. Discover Leads via Google Maps & Web
+python cli.py discover --category "logistics company" --location "Navi Mumbai" --limit 5
 
-# 2. View workforce status, tokens, and conversion funnel
-python cli.py workforce
+# 2. View All Stored Leads & Technical Audits
+python cli.py list-leads
 
-# 3. Approve a staged lead from the outbox
-python cli.py approve-lead <lead_id> --channel whatsapp --dry-run
+# 3. Generate AI Outreach & Preview Pitch Copy (Dry-Run)
+python cli.py outreach --channel whatsapp --dry-run
 
-# 4. Test Closer Agent on objections
-python cli.py simulate-reply <lead_id> --msg "What are your charges?"
-python cli.py simulate-reply <lead_id> --msg "We already have an agency"
-
-# 5. Export leads to CSV
-python cli.py export --output data/exports/leads.csv
+# 4. Interactive Consultative Sales Chat
+python cli.py chat --company "TransNational Freight" --category "logistics company"
 ```
 
 ---
 
-## 🧪 Automated Testing
-Run the 51-test automated suite (all mocked, zero external API costs):
+## 🧪 Running Automated Tests
+
+Run the full pytest suite:
 ```bash
-python -m pytest tests/ -v
+pytest
+```
+Or run specific domain test suites:
+```bash
+pytest tests/test_v2_architecture.py
+pytest tests/test_ecc_shield.py
+pytest tests/test_paperclip_integration.py
 ```
 
 ---
 
-## 📂 Architecture Overview
-For detailed documentation on system design and file organization:
-- [`architecture.md`](file:///c:/Users/JUBER/Downloads/main/leads_gen_bot-main/leads_gen_bot-main/architecture.md)
-- [`folder_structure.md`](file:///c:/Users/JUBER/Downloads/main/leads_gen_bot-main/leads_gen_bot-main/folder_structure.md)
+## 📄 License & Attribution
 
-
+Standard Autonomous is built for enterprise SDR automation and technical lead intelligence. Detailed architectural blueprints and audit reports are available in the [`docs/`](docs/) directory.

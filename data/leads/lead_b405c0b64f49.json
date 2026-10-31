@@ -17,7 +17,7 @@
     "growth_goals": [],
     "created_at": "2026-10-27T16:37:19.760702Z"
   },
-  "status": "pending_approval",
+  "status": "contacted",
   "audit": {
     "load_time_seconds": 1.49,
     "has_ssl": true,
@@ -46,8 +46,10 @@
   "interest_level": null,
   "summary": "Hi team Sabka Dentist Bandra West, love what you've built in Bandra West, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?",
   "qualified": true,
-  "contacted_channels": [],
-  "last_contacted_at": null,
+  "contacted_channels": [
+    "whatsapp"
+  ],
+  "last_contacted_at": "2026-10-31T18:25:46.872184Z",
   "conversation_history": [],
   "meeting_link": null,
   "research": {
@@ -210,7 +212,7 @@
         }
       }
     ],
-    "verified_at": "2026-10-27T16:38:27.195639Z"
+    "verified_at": "2026-10-31T18:25:48.862714Z"
   },
   "handoff_trace": [
     {
@@ -270,8 +272,23 @@
       },
       "proof_artifacts": [],
       "validation_notes": null
+    },
+    {
+      "handoff_id": "hnd_78b6519d",
+      "source_agent": "paperclip_approval_gate",
+      "target_agent": "hermes_closer_agent",
+      "contract_version": "v2.1",
+      "timestamp": "2026-10-31T18:25:46.872227Z",
+      "status": "validated",
+      "payload": {
+        "company_name": "Sabka Dentist Bandra West",
+        "channel": "whatsapp",
+        "pitch_sent": "Hi team Sabka Dentist Bandra West, love what you've built in Bandra West, Mumbai! We help local brands double their lead conversion through automated WhatsApp response bots. Open to a quick preview?"
+      },
+      "proof_artifacts": [],
+      "validation_notes": null
     }
   ],
   "created_at": "2026-10-27T16:37:19.760768Z",
-  "updated_at": "2026-10-27T16:38:27.400577Z"
+  "updated_at": "2026-10-31T18:25:48.862921Z"
 }
