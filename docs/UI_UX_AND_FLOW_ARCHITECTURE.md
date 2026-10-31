@@ -20,7 +20,7 @@ The **Standard Autonomous** platform fuses high-velocity multi-agent autonomy wi
   * Code & Telemetry: `JetBrains Mono`, monospace (Weights: 400, 500)
   * Headings & Numbers: `Inter`, sans-serif
 * **Brand Identity**: **STANDARD AUTONOMOUS • LOGO C (LOOP)**
-  * Geometry: Autonomous circular orbital loop arc in `#ffffff` stroke (`#0b0b0d` squircle tile) paired with an electric cobalt blue (`#1f5fff`) execution node at `(81, 31)`.
+  * Geometry: Precision open circular loop arc (`stroke-width=12`, `stroke-linecap=butt`) paired with a satellite execution node at `(81, 31)` (`r=8`), natively rendered in monochrome (`#0b0b0d` on light mode, `#ffffff` on dark mode).
 
 ---
 
@@ -89,12 +89,9 @@ stateDiagram-v2
 <div class="org-switcher">
     <div class="org-badge" onclick="handleOrgBadgeClick()" role="button" tabindex="0">
         <span class="brand-logo-mark">
-            <svg width="26" height="26" viewBox="0 0 120 120" fill="none" aria-hidden="true">
-                <rect x="2" y="2" width="116" height="116" rx="28" fill="#0d0e12" />
-                <g transform="translate(10, 10)">
-                    <path d="M83.5 44.1 A34 34 0 1 1 71.85 23.95" fill="none" stroke="#ffffff" stroke-width="11" stroke-linecap="round" />
-                    <circle cx="81" cy="31" r="7.5" fill="#1f5fff" />
-                </g>
+            <svg width="18" height="18" viewBox="0 0 100 100" fill="none" aria-hidden="true">
+                <path d="M83.5 44.1 A34 34 0 1 1 71.85 23.95" fill="none" stroke="currentColor" stroke-width="12" stroke-linecap="butt" />
+                <circle cx="81" cy="31" r="8" fill="currentColor" />
             </svg>
         </span>
         <span class="org-name-wrap">
