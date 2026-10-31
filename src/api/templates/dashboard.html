@@ -5,8 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Standard Autonomous</title>
-    <link rel="icon" type="image/svg+xml" href="/static/standard_autonomous_logo.svg">
-    <link rel="alternate icon" href="/static/favicon.png">
+    <link rel="icon" type="image/svg+xml" href="/static/standard_autonomous_logo.svg?v=3">
+    <link rel="icon" type="image/png" sizes="64x64" href="/static/favicon.png?v=3">
+    <link rel="shortcut icon" href="/favicon.ico?v=3">
+    <link rel="apple-touch-icon" href="/static/ic_logo_badge.png?v=3">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -520,9 +522,9 @@
         }
 
         .brand-logo-mark {
-            width: 28px;
-            height: 28px;
-            border-radius: 8px;
+            width: 32px;
+            height: 32px;
+            border-radius: 9px;
             display: inline-flex;
             align-items: center;
             justify-content: center;
@@ -531,12 +533,21 @@
             box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.16), 0 1px 3px rgba(0, 0, 0, 0.25);
             transition: transform var(--t-fast) var(--ease-spring);
             flex-shrink: 0;
+            transform: translateZ(0);
+            -webkit-font-smoothing: antialiased;
         }
 
         body.dark-mode .brand-logo-mark {
             background: #14161d;
             color: #ffffff;
             box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.12), 0 1px 3px rgba(0, 0, 0, 0.4);
+        }
+
+        .brand-logo-mark svg,
+        .page-icon svg {
+            display: block;
+            shape-rendering: geometricPrecision;
+            text-rendering: geometricPrecision;
         }
 
         .org-badge:hover .brand-logo-mark {
@@ -3834,7 +3845,7 @@
             <div class="org-badge" onclick="handleOrgBadgeClick()" title="Standard Autonomous (Click to toggle)"
                 role="button" tabindex="0">
                 <span class="brand-logo-mark">
-                    <svg width="18" height="18" viewBox="0 0 100 100" fill="none" aria-hidden="true">
+                    <svg width="24" height="24" viewBox="0 0 100 100" fill="none" shape-rendering="geometricPrecision" aria-hidden="true">
                         <path d="M83.5 44.1 A34 34 0 1 1 71.85 23.95" fill="none" stroke="currentColor" stroke-width="12" stroke-linecap="butt" />
                         <circle cx="81" cy="31" r="8" fill="currentColor" />
                     </svg>
@@ -3974,7 +3985,7 @@
         <header class="workspace-header">
             <div class="header-title-group">
                 <span class="page-icon">
-                    <svg width="18" height="18" viewBox="0 0 100 100" fill="none" aria-hidden="true">
+                    <svg width="22" height="22" viewBox="0 0 100 100" fill="none" shape-rendering="geometricPrecision" aria-hidden="true">
                         <path d="M83.5 44.1 A34 34 0 1 1 71.85 23.95" fill="none" stroke="currentColor" stroke-width="12" stroke-linecap="butt" />
                         <circle cx="81" cy="31" r="8" fill="currentColor" />
                     </svg>

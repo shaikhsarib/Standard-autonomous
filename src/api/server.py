@@ -41,9 +41,18 @@ if static_dir.exists():
 
 @app.get("/favicon.ico", include_in_schema=False)
 def favicon():
-    fav_path = static_dir / "favicon.png"
+    fav_path = static_dir / "favicon.ico"
+    if not fav_path.exists():
+        fav_path = static_dir / "favicon.png"
     if fav_path.exists():
-        return FileResponse(fav_path)
+        return FileResponse(
+            fav_path,
+            headers={
+                "Cache-Control": "no-cache, no-store, must-revalidate",
+                "Pragma": "no-cache",
+                "Expires": "0",
+            }
+        )
     return Response(status_code=204)
 
 class DiscoverRequest(BaseModel):
